@@ -1,0 +1,13 @@
+name = "Patrix_1.21_models"
+filename = "Patrix_1.21_models.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/olO1TaXd/versions/iBo0eCWB/Patrix_1.21_models.zip"
+hash-format = "sha512"
+hash = "581fd30fa93583e73a54f057bf1cd55d663b1a93b878a542efc7686b9bb978f881b77272295061e7c1f86a84df0d243a852ce6d3a8feea6cc27644353efacb41"
+
+[update]
+[update.modrinth]
+mod-id = "olO1TaXd"
+version = "iBo0eCWB"

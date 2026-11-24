@@ -1,0 +1,13 @@
+name = "bebpm-neoforge-1.0.0-1.21.1"
+filename = "bebpm-neoforge-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iy9ysWVc/versions/2DXLx5cQ/bebpm-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "2a50eb6473375ee43250a7bf99acf818444776da71f6729128e8335f5d0225bf195ea1c0c55021151824b00c5e8052272bafe087583ff7f972559ca7d3ff7d63"
+
+[update]
+[update.modrinth]
+mod-id = "Iy9ysWVc"
+version = "2DXLx5cQ"

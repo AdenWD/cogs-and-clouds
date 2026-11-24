@@ -1,0 +1,13 @@
+name = "create_assembly_animation-2.0.1"
+filename = "create_assembly_animation-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6zLtAhej/versions/DiQZ7kq7/create_assembly_animation-2.0.1.jar"
+hash-format = "sha512"
+hash = "8013e638727c1571f7faca25c20a765f3c891da10f2b8c94208d58c8b03c0cbabe2d8b698e1fe2bd0255778151fe1c4d074777e33087652c5cb753717225eff2"
+
+[update]
+[update.modrinth]
+mod-id = "6zLtAhej"
+version = "DiQZ7kq7"

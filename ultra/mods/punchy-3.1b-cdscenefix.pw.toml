@@ -1,0 +1,8 @@
+name = "punchy-3.1b-cdscenefix"
+filename = "punchy-3.1b-cdscenefix.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/2eda735ae6-punchy-3.1b-cdscenefix.jar"
+hash-format = "sha256"
+hash = "417191a13b79f6f03567cad2dc7785eda85f363f7652761e2b86f157d2fba95a"

@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_thaumcreate"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "create_thaumaturgy:arcane_casing"
+	}
+	id: "476E7D9ABFC6CFBF"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "18EA3ABA3B782033"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6DD05117729F6B66"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["18EA3ABA3B782033"]
+			id: "235F15434F3CB8FE"
+			rewards: [{
+				id: "66CBDBF504DE0965"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5C5DC8A06B9B6B3B"
+				item: { count: 1, id: "create_thaumaturgy:arcane_casing" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["235F15434F3CB8FE"]
+			id: "6CB37F8CC701E66C"
+			rewards: [{
+				id: "1C4421D5BBA5DFFE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3F755BE4EAA709AA"
+				item: { count: 1, id: "create_thaumaturgy:thaumic_mechanism" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6CB37F8CC701E66C"]
+			id: "1F9D02C37744458D"
+			rewards: [{
+				id: "3053E9E2E6B0860E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "79DCDE53DB120346"
+				item: { count: 1, id: "create_thaumaturgy:thaumic_turbine" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6CB37F8CC701E66C"]
+			id: "6540C4D292CF6312"
+			rewards: [{
+				id: "576408D5FDD28307"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "23F6D4CD6AC6489A"
+				item: { count: 1, id: "create_thaumaturgy:pressure_crucible" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6540C4D292CF6312"]
+			id: "7DE70342EA36A7B8"
+			rewards: [{
+				id: "7844E8CD7747CBAD"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "4BF96FB0A3EDD6F5"
+				item: { count: 1, id: "create_thaumaturgy:smart_tube" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["18EA3ABA3B782033"]
+			id: "5C57CD7139E0F05C"
+			rewards: [{
+				id: "5B76159FC568F9B7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "2E493E2729E0CB9D"
+				item: { count: 1, id: "thaumic_aeronautics:essentia_engine" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5C57CD7139E0F05C"]
+			id: "6B07947C8F566402"
+			rewards: [{
+				id: "1806FDCA2B532BD1"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5F1136FDC44B4262"
+				item: { count: 1, id: "thaumic_aeronautics:essentia_thruster" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6B07947C8F566402"]
+			id: "2FCC17152272EC92"
+			rewards: [{
+				id: "32A62D636A3A98ED"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "40C3B7A3F98782D6"
+				item: { count: 1, id: "thaumic_aeronautics:advanced_arcane_levitator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6B07947C8F566402"]
+			id: "2358A2F15C7C830A"
+			rewards: [{
+				id: "76345B32F54B7E74"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "70EADD7851666965"
+				item: { count: 1, id: "thaumic_aeronautics:runic_shield_generator" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["18EA3ABA3B782033"]
+			id: "2B511159A5C39AAF"
+			rewards: [{
+				id: "41EBD2FF3616478D"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5B0E03C9CA75B987"
+				item: { count: 1, id: "casters_gauntlet:casters_gauntlet_basic" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2B511159A5C39AAF"]
+			id: "32ABA8B4B8AECCF7"
+			rewards: [{
+				id: "568B8FD00EDD076C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "71EB5FC59385048B"
+				item: { count: 1, id: "casters_gauntlet:finger_caps_iron" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2B511159A5C39AAF"]
+			id: "38E381FB6D82CD07"
+			rewards: [{
+				id: "5AA54E4A9EC63E47"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "4BEC1A253482F1DC"
+				item: { count: 1, id: "thaumaturge_null_field:null_field_generator" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["18EA3ABA3B782033"]
+			id: "5A079ACF1BE40892"
+			rewards: [{
+				id: "5AD932C3D9EE0CB6"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "55854572AB136891"
+				item: { count: 1, id: "thaumic_decoration:thaumic_essence" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+	]
+}

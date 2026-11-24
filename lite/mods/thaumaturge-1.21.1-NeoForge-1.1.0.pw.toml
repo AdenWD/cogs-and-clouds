@@ -1,0 +1,8 @@
+name = "thaumaturge-1.21.1-NeoForge-1.1.0"
+filename = "thaumaturge-1.21.1-NeoForge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/b447730ac7-thaumaturge-1.21.1-NeoForge-1.1.0.jar"
+hash-format = "sha256"
+hash = "033ba7f9f010405294372d67ed537fe517fbb51574aecc362f1daaa455097968"

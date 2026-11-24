@@ -1,0 +1,8 @@
+name = "ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5"
+filename = "ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/f6a6fcfa19-ComplementaryUnbound_r5.9.3_EuphoriaPatches_1.10.5.txt"
+hash-format = "sha256"
+hash = "f6a6fcfa193ce43ba8d12a8b42e4329564d75427c12d3bfd593837750d56c5b9"

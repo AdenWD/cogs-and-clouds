@@ -1,0 +1,8 @@
+name = "Aoc_Core_1.21_v2"
+filename = "Aoc_Core_1.21_v2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/e404c3d1e7-Aoc_Core_1.21_v2.jar"
+hash-format = "sha256"
+hash = "1a532a1441aa678ae3f46d7c9ba00ec77692c95d7d6291b9568727e1be7abd7a"

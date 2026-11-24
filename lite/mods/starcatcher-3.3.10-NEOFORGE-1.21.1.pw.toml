@@ -1,0 +1,8 @@
+name = "starcatcher-3.3.10-NEOFORGE-1.21.1"
+filename = "starcatcher-3.3.10-NEOFORGE-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/3eae15f744-starcatcher-3.3.10-NEOFORGE-1.21.1.jar"
+hash-format = "sha256"
+hash = "4dad6cedd903a50323f36f83454efe804aab17aca92bd192302cfce62bb1847a"

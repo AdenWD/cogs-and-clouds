@@ -1,0 +1,13 @@
+name = "Enhanced Audio Ambience r2"
+filename = "Enhanced Audio Ambience r2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aMC0BRSF/versions/hrMUh4pK/Enhanced%20Audio%20Ambience%20r2.zip"
+hash-format = "sha512"
+hash = "ed5b824cc22679e276a74ba4f3a3527c433a9c0bf52184950fef14ff60c89bb5397c00b10092b8873f52fd2fff2f2321844abfded0d1a9354c21f7166574d19c"
+
+[update]
+[update.modrinth]
+mod-id = "aMC0BRSF"
+version = "hrMUh4pK"

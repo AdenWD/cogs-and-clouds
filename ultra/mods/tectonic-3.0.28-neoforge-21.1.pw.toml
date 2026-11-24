@@ -1,0 +1,8 @@
+name = "tectonic-3.0.28-neoforge-21.1"
+filename = "tectonic-3.0.28-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/abadaacba0-tectonic-3.0.28-neoforge-21.1.jar"
+hash-format = "sha256"
+hash = "84afca94db5d2a01bba18ac243590a0b8b2a0e7252341c0048ea89473aed96e5"

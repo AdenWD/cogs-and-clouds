@@ -1,0 +1,8 @@
+name = "create_aeronautics_transmission_linkage-0.2.9"
+filename = "create_aeronautics_transmission_linkage-0.2.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/6c1e4b32fe-create_aeronautics_transmission_linkage-0.2.9.jar"
+hash-format = "sha256"
+hash = "4f06724881f3afc14f4700052ac98d9f46db32b963848ab0545079f7237b209e"

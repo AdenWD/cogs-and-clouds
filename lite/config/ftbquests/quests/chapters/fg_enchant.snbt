@@ -1,0 +1,106 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fg_enchant"
+	group: "24C2771116E58928"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "5CF326D5C2348E04"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7CCFC029CA8CECE0"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "1EE31BBC7F7BE308"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7CCFC029CA8CECE0"]
+			id: "6E0B18123A8DEA14"
+			rewards: [{
+				id: "67858091285A8F42"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "7AD5332A7C912E7F"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6E0B18123A8DEA14"]
+			id: "13B02555FE7E848B"
+			rewards: [{
+				id: "4B1814DBCF59287C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 15L
+				id: "117CAC098FF4064A"
+				item: { count: 1, id: "minecraft:bookshelf" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6E0B18123A8DEA14"]
+			id: "17FF4F629CB20B04"
+			tasks: [{
+				id: "48AE397D71416E7A"
+				item: { count: 1, id: "minecraft:candle" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6E0B18123A8DEA14"]
+			id: "6249B6108BEC6F49"
+			tasks: [{
+				id: "6CC534684C3F597D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6249B6108BEC6F49"]
+			id: "6FB2C9BCA6C93CB4"
+			rewards: [{
+				id: "1ECC3383F2AF6F91"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "2E1DEAF4C5C76B44"
+				item: { count: 1, id: "quark:ancient_tome" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6249B6108BEC6F49"]
+			id: "1C9DA7BA2A67F860"
+			tasks: [{
+				id: "1DA0ADB8D28FE2E3"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+	]
+}

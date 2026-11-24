@@ -1,0 +1,8 @@
+name = "thaumic_aeronautics-1.21.1-1.0.3"
+filename = "thaumic_aeronautics-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/0c61f867cd-thaumic_aeronautics-1.21.1-1.0.3.jar"
+hash-format = "sha256"
+hash = "45faffbafd503ee94b660caa7abaa45c7bea84120e1bfb769e584f077908bb28"

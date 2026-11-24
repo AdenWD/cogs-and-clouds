@@ -1,0 +1,8 @@
+name = "BSL_v10.1.8 + Clrwl_1.0.5"
+filename = "BSL_v10.1.8 + Clrwl_1.0.5.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/660726692d-BSL_v10.1.8_Clrwl_1.0.5.zip"
+hash-format = "sha256"
+hash = "f50cfba93802fa800c396303d26f483a92c465b67e4c069ad32e3a6e3603e56a"

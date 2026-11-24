@@ -1,0 +1,8 @@
+name = "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge"
+filename = "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/c8cd9d1fd4-cbcmodernwarfare-0.0.6v_mc.1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "f8bbfcb4766f08a88c773a60aa154c4eb9704f974266e00f00569c765667a348"

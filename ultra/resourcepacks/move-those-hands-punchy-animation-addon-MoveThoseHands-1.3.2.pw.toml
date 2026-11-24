@@ -1,0 +1,13 @@
+name = "MoveThoseHands-1.3.2"
+filename = "MoveThoseHands-1.3.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c2BWfG76/versions/YKcmoSTn/MoveThoseHands-1.3.2.zip"
+hash-format = "sha512"
+hash = "b8e74d303e3fdf399a2c88367ffdbae245945b75b18848df0e504c7a93cb26bf9d44d88190d1e323cdada90e1e3e12b91b40278abf3c31692aee06fdd22c6c29"
+
+[update]
+[update.modrinth]
+mod-id = "c2BWfG76"
+version = "YKcmoSTn"

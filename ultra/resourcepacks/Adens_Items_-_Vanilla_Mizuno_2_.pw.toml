@@ -1,0 +1,8 @@
+name = "Adens Items - Vanilla + Mizuno (2)"
+filename = "Adens Items - Vanilla + Mizuno (2).zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/3e691c7d41-Adens_Items_-_Vanilla_Mizuno_2_.zip"
+hash-format = "sha256"
+hash = "587844ac0123993d05ff0feb4ad20d345f38f498cbf7b43af806d9789bfd91ad"

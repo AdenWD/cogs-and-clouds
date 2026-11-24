@@ -1,0 +1,8 @@
+name = "linearbearing-1.2.6"
+filename = "linearbearing-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/6b3da63cd2-linearbearing-1.2.6.jar"
+hash-format = "sha256"
+hash = "0530c06045c17809a753869250ad1e426c56a531f5f243b771254bd4ad84e92f"

@@ -1,0 +1,8 @@
+name = "mc_rebalance-2.0.0"
+filename = "mc_rebalance-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/62af430cab-mc_rebalance-2.0.0.jar"
+hash-format = "sha256"
+hash = "42ca5907ba2c2a882641000085f8efbe8833369d7358ff17c0f8594ca6fc6192"

@@ -1,0 +1,13 @@
+name = "UltiCraft-Models3D-2.88.0"
+filename = "UltiCraft-Models3D-2.88.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ejmzg9VI/versions/5eTcXrNu/UltiCraft-Models3D-2.88.0.zip"
+hash-format = "sha512"
+hash = "89cb93d84d46e754a1c7072c32e529f17a18241bd1735c3d60a9a6fbebfd0dba55e546dce8dfd92537ba6820d890f31fe05cf804c5343017590a41a160f20722"
+
+[update]
+[update.modrinth]
+mod-id = "ejmzg9VI"
+version = "5eTcXrNu"

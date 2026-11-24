@@ -1,0 +1,186 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_build"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "framedblocks:framed_hammer"
+	}
+	id: "761077F15AC014A6"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "282DE7917B023E5D"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "7AECBF05A4F84EE6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["282DE7917B023E5D"]
+			id: "6C1F8275FED7DF5F"
+			rewards: [{
+				id: "2545DC63ABEB87BA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "6FC5062C22BB5D74"
+				item: { count: 1, id: "framedblocks:framed_hammer" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6C1F8275FED7DF5F"]
+			id: "1A2F4E491DFD8EFF"
+			rewards: [{
+				id: "3EC5EA0C91E657BF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "20B518494A96A82E"
+				item: { count: 1, id: "framedblocks:framed_cube" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6C1F8275FED7DF5F"]
+			id: "3AAD77CAA11F9991"
+			rewards: [{
+				id: "2F13C29F48D97FBE"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "789BEE32343C3D63"
+				item: { count: 1, id: "framedblocks:framed_blueprint" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["282DE7917B023E5D"]
+			id: "615E52C04FAC0732"
+			rewards: [{
+				id: "78D801CBC5625056"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "62A19E176CC8E9EC"
+				item: { count: 1, id: "createdeco:andesite_catwalk" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["615E52C04FAC0732"]
+			id: "42F5CCA36E1353AF"
+			rewards: [{
+				id: "48D75AF79B4D557C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "4AD867A7F0A5FCF1"
+				item: { count: 1, id: "createdeco:andesite_sheet_metal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["282DE7917B023E5D"]
+			id: "400F70D71F1911FB"
+			rewards: [{
+				id: "246BC665588ACB57"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "6A6BEBE7257EAB75"
+				item: { count: 1, id: "createmoregirder:brass_truss" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["400F70D71F1911FB"]
+			id: "31BACDF477EC6E17"
+			rewards: [{
+				id: "28E2DDE43A3C109B"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "14C0F05101F29C0A"
+				item: { count: 1, id: "createmoregirder:iron_truss" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["282DE7917B023E5D"]
+			id: "35967F6F7A9C43F1"
+			rewards: [{
+				id: "4D94D5A0018051B6"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "1E3201168F238C03"
+				item: { count: 1, id: "createcasing:brass_configurable_gearbox" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["35967F6F7A9C43F1"]
+			id: "2EE45A672980EEF5"
+			rewards: [{
+				id: "7D14AF8FB65291F2"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "4DA2B01C5A7DEC85"
+				item: { components: { "ftbfiltersystem:filter": "or(item(interiors:white_chair)item(interiors:orange_chair)item(interiors:magenta_chair)item(interiors:light_blue_chair)item(interiors:yellow_chair)item(interiors:lime_chair)item(interiors:pink_chair)item(interiors:gray_chair)item(interiors:light_gray_chair)item(interiors:cyan_chair)item(interiors:purple_chair)item(interiors:blue_chair)item(interiors:brown_chair)item(interiors:green_chair)item(interiors:red_chair)item(interiors:black_chair)item(interiors:kelp_chair))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2EE45A672980EEF5"]
+			id: "719C7CF1E9B2504E"
+			rewards: [{
+				id: "44C033FFE2C8F320"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "7CDE3BD243A3FCF7"
+				item: { count: 1, id: "interiors:wall_mounted_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+	]
+}

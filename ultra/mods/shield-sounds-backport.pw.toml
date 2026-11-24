@@ -1,0 +1,13 @@
+name = "shieldsoundsbackport-1.0.0-neoforge-1.21"
+filename = "shieldsoundsbackport-1.0.0-neoforge-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jfhwKST4/versions/Y8u6L51K/shieldsoundsbackport-1.0.0-neoforge-1.21.jar"
+hash-format = "sha512"
+hash = "a4fea42416465c280f0c24c35fd84feaac1d7779228ed26a6d4ddbcff13b9bbd680296789cab711b91e1b1687d15586ef107e62165f53e599cce1ac90454c515"
+
+[update]
+[update.modrinth]
+mod-id = "jfhwKST4"
+version = "Y8u6L51K"

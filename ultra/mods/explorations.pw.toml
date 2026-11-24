@@ -1,0 +1,13 @@
+name = "explorations-neoforge-1.21.1-1.6.5"
+filename = "explorations-neoforge-1.21.1-1.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/oe5VEYWf/explorations-neoforge-1.21.1-1.6.5.jar"
+hash-format = "sha512"
+hash = "b96985cec0a8ec076698c779af367e9d101bafb95b7046efe83a8f79dc1f13b8d5f6fee21fada1b7bbabfc93ad2da44133c50c07eeb8de6fa4a6a248c581b7d7"
+
+[update]
+[update.modrinth]
+mod-id = "pcGnjJ39"
+version = "oe5VEYWf"

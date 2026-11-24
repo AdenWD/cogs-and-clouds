@@ -1,0 +1,8 @@
+name = "Create_FTBQuests"
+filename = "Create_FTBQuests.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/87ef6ef7a9-Create_FTBQuests.zip"
+hash-format = "sha256"
+hash = "cf83fae56814602e6e737e53860e2033f8166fdb7057ec592e556c16790cf7c6"

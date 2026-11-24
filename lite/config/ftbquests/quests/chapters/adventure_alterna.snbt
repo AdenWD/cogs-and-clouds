@@ -1,0 +1,419 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "adventure_alterna"
+	group: ""
+	icon: {
+		id: "alterna:rift_detector"
+	}
+	id: "31B1B7DEFDCABE80"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "alterna:rift_detector"
+			}
+			id: "261E6FDE18A989A3"
+			rewards: [{
+				id: "2629678F94ED2B8D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "51200D7C8A87D483"
+				item: { count: 1, id: "alterna:gneiss" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["261E6FDE18A989A3"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:rift_detector"
+			}
+			id: "1376BEE1E88CC08C"
+			rewards: [{
+				id: "181ECE8EE055C021"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "571B9277F16C45CD"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1376BEE1E88CC08C"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:blank_rift_map"
+			}
+			id: "0A72662135B9D83F"
+			rewards: [{
+				id: "0A43F9F93AC849F2"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "464B783B2F024327"
+				item: { count: 1, id: "alterna:blank_rift_map" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["261E6FDE18A989A3"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:marble"
+			}
+			id: "39CF63DA44F9BD4C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2BA629E8E2A7815D"
+				table_id: 5499456467321392182L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "5E18786CA9DE62C6"
+					item: { count: 1, id: "alterna:gneiss" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4B98BECAFCC47CAD"
+					item: { count: 1, id: "alterna:marble" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "429D5B66AF6A19C1"
+					item: { count: 1, id: "alterna:serpentinite" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "3B50E76E72034135"
+					item: { count: 1, id: "alterna:trench_stone" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["261E6FDE18A989A3"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:canopra_log"
+			}
+			id: "1A001EE4B6C94AD2"
+			rewards: [{
+				id: "00A9960D338C36E0"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "140C1712A3C91345"
+					item: { count: 1, id: "alterna:canopra_log" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2D9C770103C2D7B5"
+					item: { count: 1, id: "alterna:goblet_log" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5AB2599F7D035DFB"
+					item: { count: 1, id: "alterna:rootshroom_stem" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1A001EE4B6C94AD2"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:goblet_membrane"
+			}
+			id: "021EDF15E69C9AC7"
+			rewards: [{
+				id: "39745169CB7064EB"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				count: 4L
+				id: "5E8CE5612D64EADC"
+				item: { count: 1, id: "alterna:goblet_membrane" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["261E6FDE18A989A3"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:cloud_berries"
+			}
+			id: "5EDF2331CE4F1BC1"
+			rewards: [{
+				id: "1716C6A472178BE1"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "60ADF88676247D37"
+					item: { count: 1, id: "alterna:cloud_berries" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "726645C9AE52FDEE"
+					item: { count: 1, id: "alterna:white_currant_berries" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6D090F2350362CC2"
+					item: { count: 1, id: "alterna:enoki_mushroom" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5EDF2331CE4F1BC1"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:cooked_vitalroot"
+			}
+			id: "47143ECE87DE0EBF"
+			rewards: [{
+				id: "76B99F090C481CE3"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				count: 4L
+				id: "409C09C3794553E4"
+				item: { count: 1, id: "alterna:cooked_vitalroot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5EDF2331CE4F1BC1"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:star_lily"
+			}
+			id: "0075B6BECEF389B7"
+			rewards: [{
+				id: "57C4FDC4053297EE"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "408B5D9A22DFC9F8"
+					item: { count: 1, id: "alterna:star_lily" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2A5CA0190C0DAD64"
+					item: { count: 1, id: "alterna:purple_sugar_cane" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["39CF63DA44F9BD4C"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:wild_moss_block"
+			}
+			id: "0FF61CB318CE0501"
+			rewards: [{
+				id: "6DB68856EB78E225"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "63D9A3F7640DFFEA"
+					item: { count: 1, id: "alterna:wild_moss_block" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7338CF3D5959C608"
+					item: { count: 1, id: "alterna:pale_moss_block" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A72662135B9D83F"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:vine_rope"
+			}
+			id: "552D6C8343106615"
+			rewards: [{
+				id: "6DF3FEABD58E02BC"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "028912217F6CF586"
+				item: { count: 1, id: "alterna:vine_rope" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["261E6FDE18A989A3"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:enchant_stone"
+			}
+			id: "59971C7BC0B85C35"
+			rewards: [{
+				id: "7801C53A6A3620AA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7ADD7ED9746E7F4C"
+				item: { count: 1, id: "alterna:enchant_stone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["59971C7BC0B85C35"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:heroism_enchant_stone"
+			}
+			id: "68F74F8BDE1E36B9"
+			rewards: [{
+				id: "2B3754E3830CB2C8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3D3DB8D545A1D3AE"
+				item: { count: 1, id: "alterna:heroism_enchant_stone" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68F74F8BDE1E36B9"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:stormbreaker_enchant_stone"
+			}
+			id: "4AAE761220F9D3AB"
+			rewards: [{
+				id: "3FCB639110C7726F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0E2EFB0EDFC699DC"
+				item: { count: 1, id: "alterna:stormbreaker_enchant_stone" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["59971C7BC0B85C35"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:lunar_tome"
+			}
+			id: "68A48FAF7B3A5C5A"
+			rewards: [{
+				id: "7407C92C4CD4FAC3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0A9F2429B4F2D381"
+				item: { count: 1, id: "alterna:lunar_tome" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0A72662135B9D83F"]
+			hide_until_deps_visible: true
+			icon: {
+				id: "alterna:trench_stone"
+			}
+			id: "6F918E19723CA901"
+			rewards: [
+				{
+					count: 4
+					id: "7C014329C6116162"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "0C46542230C144A4"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				dimension: "alterna:abyss"
+				id: "092E5E162091DB2B"
+				type: "dimension"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+	]
+}

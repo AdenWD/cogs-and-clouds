@@ -1,0 +1,8 @@
+name = "AOC Resources"
+filename = "AOC Resources.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/65b1270b16-AOC_Resources.zip"
+hash-format = "sha256"
+hash = "d6b0c8785486c65a92fd75e71eefbc362703871f4568e1a13609bdd5fc6d7928"

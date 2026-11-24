@@ -1,0 +1,13 @@
+name = "Enhanced Food"
+filename = "Enhanced Food.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6eY7Vl1A/versions/CP258wmp/Enhanced%20Food.zip"
+hash-format = "sha512"
+hash = "75bb5d44dabef62cfa07b359a274a321d7afb3c54996ee2c72410fc5dcf2469dd34e698d845ab7f4f5edcd9cd10a3cccf59c405d785cbe844b5e4103cb7da177"
+
+[update]
+[update.modrinth]
+mod-id = "6eY7Vl1A"
+version = "CP258wmp"

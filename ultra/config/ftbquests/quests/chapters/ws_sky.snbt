@@ -1,0 +1,278 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_sky"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "linearbearing:linear_bearing"
+	}
+	id: "2CBE018F30FAB871"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1791F27D3AF01B2F"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "28F2A742606390A4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1791F27D3AF01B2F"]
+			id: "72C3C4E07D7F1C64"
+			rewards: [{
+				id: "45E90040B40F9840"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7319048EB0D2599C"
+				item: { count: 1, id: "linearbearing:linear_bearing" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1791F27D3AF01B2F"]
+			id: "48EB10C00D4F7CB1"
+			rewards: [{
+				id: "31E483027A9DA930"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "769CAB552C7027C7"
+				item: { count: 1, id: "aeronautics_utility_objects:hydraulic_rod" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["48EB10C00D4F7CB1"]
+			id: "7EA6E29141377090"
+			rewards: [{
+				id: "20A42F8316C21BA8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "66F75A25642E0FE0"
+				item: { count: 1, id: "aeronautics_utility_objects:universal_joint_rod" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1791F27D3AF01B2F"]
+			id: "50733378C25863AA"
+			rewards: [{
+				id: "253E5B4C2E65418D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3165DECE1534DB32"
+				item: { count: 1, id: "createendertransmission:item_transmitter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1791F27D3AF01B2F"]
+			id: "3CF23881129A144D"
+			rewards: [{
+				id: "7CDA60A84FA5CDF9"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "18CD156CD5F3656E"
+				item: { count: 1, id: "vsfluidlink:hose_connector" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3CF23881129A144D"]
+			id: "4D12FF7E22237BB5"
+			rewards: [{
+				id: "230EB9B10BB300EE"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "319693D5908EA541"
+				item: { count: 1, id: "vsfluidlink:item_hose_connector" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1791F27D3AF01B2F"]
+			id: "7FA74E6DA5A0AE7E"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "63D0AED4EBF810AF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7FA74E6DA5A0AE7E"]
+			id: "7FE772F7B6662064"
+			rewards: [{
+				id: "2289244D984F7483"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7BE2355EA27AD227"
+				item: { count: 1, id: "let_it_walk:klaxium_ingot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7FE772F7B6662064"]
+			id: "2B7244E98ACE9A4C"
+			rewards: [{
+				id: "3F87CCBAFAF5887F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "3B82CEFF0A603A3D"
+				item: { count: 1, id: "let_it_walk:leg_hinge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7FE772F7B6662064"]
+			id: "476AE0BC704DEB18"
+			rewards: [{
+				id: "1FC682393E0E1D64"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "2CBD657C28502471"
+				item: { count: 1, id: "let_it_walk:leg_foot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2B7244E98ACE9A4C" "476AE0BC704DEB18"]
+			id: "5A16C9C638F1FA2C"
+			rewards: [{
+				id: "58F21AF5BF3A8B4E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "71D217F9B711B77E"
+				item: { count: 1, id: "let_it_walk:walker_core" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5A16C9C638F1FA2C"]
+			id: "3FFAA113FD13627C"
+			rewards: [{
+				id: "626EB0D3972EAC1D"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2F07E5BACBF9E977"
+				item: { count: 1, id: "let_it_walk:pilot_controls" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7FA74E6DA5A0AE7E"]
+			id: "1CE4398A98630DA4"
+			rewards: [{
+				id: "318ABCFE010FEBA5"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "64333EF748C248B7"
+				item: { count: 1, id: "create_aeronautics_toolgun:survival_structure_tool" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1CE4398A98630DA4"]
+			id: "18B8CD59D39A2506"
+			rewards: [{
+				id: "3C988AD04D762E02"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "27F26D133FE33899"
+				item: { count: 1, id: "create_aeronautics_toolgun:portable_structure_container" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["72C3C4E07D7F1C64"]
+			id: "5CEE61BEA3EC33FB"
+			rewards: [{
+				id: "11FCDCD6A97E1FF2"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "2451C86133EFF26C"
+				item: { count: 1, id: "vista:viewfinder" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5CEE61BEA3EC33FB"]
+			id: "331890525B7E859A"
+			rewards: [{
+				id: "3004D53DCA08D233"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7D68BD3D551DBC24"
+				item: { count: 1, id: "vista:television" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+	]
+}

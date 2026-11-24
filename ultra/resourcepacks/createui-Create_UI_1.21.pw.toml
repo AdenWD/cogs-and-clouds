@@ -1,0 +1,13 @@
+name = "Create_UI_1.21"
+filename = "Create_UI_1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X7dtRZ8h/versions/J7XbjWn6/Create_UI_1.21.zip"
+hash-format = "sha512"
+hash = "45cda80ed95f5c1b95951f9f81d9b727a1f70b0a13259f18a697bd8c32e84ff107ec82e6356fe457b74244125480ed5fd1d4b39268c20e0938eaf8ce8dc589d7"
+
+[update]
+[update.modrinth]
+mod-id = "X7dtRZ8h"
+version = "J7XbjWn6"

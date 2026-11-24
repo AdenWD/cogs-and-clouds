@@ -1,0 +1,15 @@
+{
+  "mod_priorities": [
+    "minecraft",
+    "kubejs",
+    "create",
+    "createaddition",
+    "create_new_age",
+    "electroenergetics",
+    "powergrid",
+    "petrochem",
+    "createmetalwork",
+    "createdieselgenerators"
+  ],
+  "recipe_viewer_hiding": true
+}

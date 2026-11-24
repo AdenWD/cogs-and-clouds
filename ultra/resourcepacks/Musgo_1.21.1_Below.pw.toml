@@ -1,0 +1,8 @@
+name = "Musgo 1.21.1 Below"
+filename = "Musgo 1.21.1 Below.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/707ca3b201-Musgo_1.21.1_Below.zip"
+hash-format = "sha256"
+hash = "6e5dfdf6a9dc807d2b1853fc41e36efe637de149611fa7da3c67d7daee045676"

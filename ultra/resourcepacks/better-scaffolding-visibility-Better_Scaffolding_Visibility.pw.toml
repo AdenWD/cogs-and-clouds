@@ -1,0 +1,13 @@
+name = "Better Scaffolding Visibility"
+filename = "Better Scaffolding Visibility.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4qecDWj/versions/14YDdGv8/Better%20Scaffolding%20Visibility.zip"
+hash-format = "sha512"
+hash = "b1798ea0373c8f5e15ad75a07ec8ee9250d41c6d5e0e36c06617fb2cb90859c24fa8de3625867df79fee482eaea87cc247a99544df57fb0cc16ad4b65da95d90"
+
+[update]
+[update.modrinth]
+mod-id = "R4qecDWj"
+version = "14YDdGv8"

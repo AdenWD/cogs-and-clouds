@@ -1,0 +1,400 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fg_dragons"
+	group: "24C2771116E58928"
+	icon: {
+		id: "bookofdragons:book_of_dragons"
+	}
+	id: "2B0D5882B0408688"
+	images: [ ]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "60F7E17E528840A0"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "319F4C82740884CC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["60F7E17E528840A0"]
+			id: "59A933E7963EF33C"
+			rewards: [{
+				id: "5D2B570F161BDBB5"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:meet_hooligan"
+				criterion: ""
+				id: "544EF17A2BAA45EE"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60F7E17E528840A0"]
+			id: "4690CFDA8591B111"
+			rewards: [{
+				id: "25A8DCA2C44F2AAE"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7270BACACB101C07"
+				item: { count: 1, id: "bookofdragons:book_of_dragons" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["59A933E7963EF33C"]
+			id: "563AEBD6E818074E"
+			rewards: [{
+				id: "35FD835FFEF79381"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "459681A21D0B4DEB"
+				item: { count: 1, id: "bookofdragons:viking_anvil" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["60F7E17E528840A0"]
+			id: "10E5B902D4990247"
+			rewards: [{
+				id: "1EDE68E56A178E3C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:trail_tracker"
+				criterion: ""
+				id: "5E5E33EA63D2D2BF"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["10E5B902D4990247"]
+			id: "706699D73FC5C9CE"
+			rewards: [{
+				id: "3638267D0FB3AD59"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:roost_discoverer"
+				criterion: ""
+				id: "1BCF176CFED2695A"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4690CFDA8591B111"]
+			id: "4AA9AEC521F269F2"
+			rewards: [{
+				id: "552A502608DD0A67"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "bookofdragons:we_have_dragons"
+				criterion: ""
+				id: "2C81C3BF0FD3E3C6"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4AA9AEC521F269F2"]
+			id: "4F49332E2E2B07C1"
+			rewards: [{
+				id: "38E1AF8559C638E6"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:everything_we_know"
+				criterion: ""
+				id: "5AB0BDF65930E613"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4AA9AEC521F269F2"]
+			id: "41D3DAA7CAEA22F0"
+			rewards: [{
+				id: "1E0E61069A44699B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				advancement: "bookofdragons:sworn_you_had_teeth"
+				criterion: ""
+				id: "4737B30F62809DE0"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["41D3DAA7CAEA22F0"]
+			id: "7A62EB7305EAC5C1"
+			rewards: [{
+				id: "117B700181F1450A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				advancement: "bookofdragons:dragon_rider"
+				criterion: ""
+				id: "7546D395871F3188"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7A62EB7305EAC5C1"]
+			id: "1A65E8EB080A9927"
+			rewards: [{
+				id: "4F75675005B06AEC"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "bookofdragons:dragon_tamer"
+				criterion: ""
+				id: "412E14FCFAE0FA5D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1A65E8EB080A9927"]
+			id: "3EBD3028DBA56BEC"
+			rewards: [{
+				id: "3668EE21303B759D"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:nice_and_slow"
+				criterion: ""
+				id: "79B4F3F75DC0432A"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3EBD3028DBA56BEC"]
+			id: "42950C7B19C65EBA"
+			rewards: [{
+				id: "509AEFC437C9B797"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:not_so_fireproof"
+				criterion: ""
+				id: "2027926F9EF86F1F"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["3EBD3028DBA56BEC"]
+			id: "3E9FFD6625EAFDEE"
+			rewards: [{
+				id: "487AD9572A705D3B"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:position_four"
+				criterion: ""
+				id: "66170E43A45D65B6"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1A65E8EB080A9927"]
+			id: "1DBD2346D2A47EEA"
+			rewards: [{
+				id: "55CB97A78555EDFD"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2D76B638444907B2"
+				item: { count: 1, id: "bookofdragons:dragon_whistle" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1DBD2346D2A47EEA"]
+			id: "603C433A94FD73A9"
+			rewards: [{
+				id: "6276B635FBE2F648"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "bookofdragons:i_alone_control"
+				criterion: ""
+				id: "48ECB4A09FBF90EA"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1A65E8EB080A9927"]
+			id: "2273F09BCD158D83"
+			rewards: [{
+				id: "1E533B6803EDDE93"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				advancement: "bookofdragons:true_bond"
+				criterion: ""
+				id: "2E02FBBACC27A83B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1A65E8EB080A9927"]
+			id: "1A50074F0B1442F2"
+			rewards: [{
+				id: "44B5D874FD6BE92A"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "11E22A9411567506"
+				item: { count: 1, id: "bookofdragons:roost_controller" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["706699D73FC5C9CE"]
+			id: "713B3332C2C61387"
+			rewards: [{
+				id: "74C68028468BF068"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "20589D7460B6CCFE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(bookofdragons:nightfury_scales)item(bookofdragons:deadlynadder_scales)item(bookofdragons:monstrousnightmare_scales)item(bookofdragons:gronckle_scales)item(bookofdragons:hideouszippleback_scales)item(bookofdragons:skrill_scales)item(bookofdragons:speed_stinger_scales)item(bookofdragons:terrible_terror_scales)item(bookofdragons:whisperingdeath_scales)item(bookofdragons:hobgobbler_scales))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["713B3332C2C61387"]
+			id: "58871282E19B88E3"
+			rewards: [{
+				id: "34BB71C0376790A8"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "258938E0C8F92101"
+				item: { count: 1, id: "bookofdragons:fireproof_scalemail" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["59A933E7963EF33C"]
+			id: "6350BA9067C99702"
+			rewards: [{
+				id: "27768087A24CCE8C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "bookofdragons:first_plush"
+				criterion: ""
+				id: "6C6817B45AF6C056"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2273F09BCD158D83"]
+			id: "14A191F1ED40A21D"
+			rewards: [{
+				id: "244CC45C12EFA41C"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "bookofdragons:lightning_and_death"
+				criterion: ""
+				id: "46B7B89D6EA1F290"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2273F09BCD158D83" "4F49332E2E2B07C1"]
+			id: "2A82A54491E9F606"
+			rewards: [{
+				id: "4145CBD184D40C8A"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "bookofdragons:dragon_master"
+				criterion: ""
+				id: "7EC9B0AD4D148FAC"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+	]
+}

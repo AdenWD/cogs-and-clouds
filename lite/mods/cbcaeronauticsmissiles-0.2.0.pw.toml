@@ -1,0 +1,8 @@
+name = "cbcaeronauticsmissiles-0.2.0"
+filename = "cbcaeronauticsmissiles-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/0c6c2322d0-cbcaeronauticsmissiles-0.2.0.jar"
+hash-format = "sha256"
+hash = "5e401ca48cec71341a1121092132a7720b908ccad945f286a7b8347de76de4e5"

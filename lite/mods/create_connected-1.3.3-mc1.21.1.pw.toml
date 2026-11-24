@@ -1,0 +1,8 @@
+name = "create_connected-1.3.3-mc1.21.1"
+filename = "create_connected-1.3.3-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/72c3653116-create_connected-1.3.3-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "89d2404d2d5bc696b1813e39b9d1616a41888f74a648771152b0b0323a490265"

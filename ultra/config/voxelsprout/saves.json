@@ -1,0 +1,22 @@
+{
+  "New World": {
+    "last": "sp:New World",
+    "saves": {
+      "sp:New World": {
+        "id": "69dc841d-68ce-43b8-9b6e-ab089944dbd2",
+        "seed": 5915977367217510211,
+        "firstSeen": 1793939606
+      }
+    }
+  },
+  "New World (1)": {
+    "last": "sp:New World (1)",
+    "saves": {
+      "sp:New World (1)": {
+        "id": "9184e126-8dde-4164-b673-75a754d985dc",
+        "seed": -6014965553090381346,
+        "firstSeen": 1793939802
+      }
+    }
+  }
+}

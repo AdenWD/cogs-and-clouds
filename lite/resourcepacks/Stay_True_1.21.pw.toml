@@ -1,0 +1,8 @@
+name = "Stay_True_1.21"
+filename = "Stay_True_1.21.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/6c14b584ec-Stay_True_1.21.zip"
+hash-format = "sha256"
+hash = "4ba60e5e757d90386f94a37964fef50b1d02bc4987d8cbeb77f47c0f1eeadf4c"

@@ -1,0 +1,13 @@
+name = "Farmer GUI - Compats & Fixes 1.3.2"
+filename = "Farmer GUI - Compats & Fixes 1.3.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FPaIYGDL/versions/Y66O9n5Z/Farmer%20GUI%20-%20Compats%20%26%20Fixes%201.3.2.zip"
+hash-format = "sha512"
+hash = "2143bcd789222346734bf54e6853629f17f39340703b71c2c8c4a8d45fc9e44a3317a6de77d0644e73ef724b902c1b91fbf7431bbeecd65484125afb49cdd473"
+
+[update]
+[update.modrinth]
+mod-id = "FPaIYGDL"
+version = "Y66O9n5Z"

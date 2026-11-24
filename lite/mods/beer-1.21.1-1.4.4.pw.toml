@@ -1,0 +1,8 @@
+name = "beer-1.21.1-1.4.4"
+filename = "beer-1.21.1-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/14867ad1be-beer-1.21.1-1.4.4.jar"
+hash-format = "sha256"
+hash = "34383e72bce37bb193582dc8563f03ea8b560c9198afc161ee476c496f0fe46c"

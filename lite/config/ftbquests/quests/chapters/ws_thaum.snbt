@@ -1,0 +1,218 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_thaum"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "thaumaturge:thaumonomicon"
+	}
+	id: "57C11C05DFF7B9C8"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6F9A4CBD787F6C81"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "5C9C80F1573EEA85"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9A4CBD787F6C81"]
+			id: "1EBE559C854D6E2A"
+			rewards: [{
+				id: "56FE71A08B994546"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "647DE89E806BC528"
+				item: { count: 1, id: "thaumaturge:salis_mundus" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1EBE559C854D6E2A"]
+			id: "3D4EBBD0C6D548D3"
+			rewards: [{
+				id: "642F9FDD7224E5EB"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "6D25B6B5CFB2D987"
+				item: { count: 1, id: "thaumaturge:thaumonomicon" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3D4EBBD0C6D548D3"]
+			id: "33C5F96E75C454FA"
+			rewards: [{
+				id: "687303E00F3B21EA"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "54FF07FE1E33FBC7"
+				item: { count: 1, id: "thaumaturge:arcane_workbench" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["33C5F96E75C454FA"]
+			id: "13D827923C76E6B5"
+			rewards: [{
+				id: "529109A6CB24F350"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "109E6174543265C5"
+				item: { count: 1, id: "thaumaturge:thaumometer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13D827923C76E6B5"]
+			id: "6D17FA2DD80F7A7E"
+			rewards: [{
+				id: "788F612E60A65D48"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "44229C9481201BBA"
+				item: { count: 1, id: "thaumaturge:goggles_revealing" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3D4EBBD0C6D548D3"]
+			id: "16D7C1C400911D31"
+			rewards: [{
+				id: "11F985EF40295FAB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "698F0D340B857972"
+				item: { count: 1, id: "thaumaturge:scribing_tools" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3D4EBBD0C6D548D3"]
+			id: "290A8FF606EB0ECC"
+			rewards: [{
+				id: "3EB75E685E947CEA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "4B20EE13AEA54BC9"
+				item: { count: 1, id: "thaumaturge:wand_cap_iron" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["13D827923C76E6B5"]
+			id: "51BE9F51F7F7C0FA"
+			rewards: [{
+				id: "448755C70A604344"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "42B21279020A7421"
+				item: { count: 1, id: "thaumaturge:crucible" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["51BE9F51F7F7C0FA"]
+			id: "231639AAE99ACA8F"
+			rewards: [{
+				id: "4AC36F1A8614399F"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5A0BFF5B65912836"
+				item: { count: 1, id: "thaumaturge:ingot_thaumium" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["51BE9F51F7F7C0FA"]
+			id: "1B30AD77224D67E8"
+			rewards: [{
+				id: "4F9394655747D42A"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7655AD912BBF5C4A"
+				item: { count: 1, id: "thaumaturge:nitor_yellow" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["231639AAE99ACA8F" "1B30AD77224D67E8"]
+			id: "13E103337B166AF8"
+			rewards: [{
+				id: "365E648CB64EEE38"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1E9F9732773C14B4"
+				item: { count: 1, id: "thaumaturge:infusion_matrix" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["231639AAE99ACA8F"]
+			id: "449560C2BE070D44"
+			rewards: [{
+				id: "3072799DA537901B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "773929A7552BCDF8"
+				item: { count: 1, id: "thaumaturge:focus_1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "transportation"
+	group: "62A749137B71D06F"
+	icon: {
+		id: "create:propeller"
+	}
+	id: "42A2A61E91FED9D3"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4230AD68B84A6FBE"
+			rewards: [
+				{
+					id: "02463957CDD7F24E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CD8152D88BBDBC0"
+					table_id: 5001068052608706388L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "4D168EFC75F0CDAE"
+				item: { count: 1, id: "create:propeller" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4230AD68B84A6FBE"]
+			id: "469C576B27224056"
+			tasks: [{
+				id: "7B061A0174671F39"
+				item: { components: { "ftbfiltersystem:filter": "or(item(createornithopterglider:ornithopterglider)item(createornithopterglider:ornithopterglider_orange)item(createornithopterglider:ornithopterglider_magenta)item(createornithopterglider:ornithopterglider_light_blue)item(createornithopterglider:ornithopterglider_yellow)item(createornithopterglider:ornithopterglider_lime)item(createornithopterglider:ornithopterglider_pink)item(createornithopterglider:ornithopterglider_gray)item(createornithopterglider:ornithopterglider_light_gray)item(createornithopterglider:ornithopterglider_cyan)item(createornithopterglider:ornithopterglider_purple)item(createornithopterglider:ornithopterglider_blue)item(createornithopterglider:ornithopterglider_brown)item(createornithopterglider:ornithopterglider_green)item(createornithopterglider:ornithopterglider_red)item(createornithopterglider:ornithopterglider_black))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+	]
+}

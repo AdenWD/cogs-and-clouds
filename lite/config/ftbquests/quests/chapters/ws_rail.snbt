@@ -1,0 +1,272 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_rail"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "railways:semaphore"
+	}
+	id: "7D9B5ABD76781849"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "52BDF75FD8B6A897"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "351D487445639B5D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52BDF75FD8B6A897"]
+			id: "3A0EBABFE63F91A2"
+			rewards: [{
+				id: "289EEE1C111B44B3"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2130611B1A0AB0C1"
+				item: { count: 1, id: "railways:handcar" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52BDF75FD8B6A897"]
+			id: "485735803A2C804F"
+			rewards: [{
+				id: "1B537EE5CE9E01E3"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "407E62C9D3B92B0A"
+				item: { count: 1, id: "railways:semaphore" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52BDF75FD8B6A897"]
+			id: "53F81C28B4BB356F"
+			rewards: [{
+				id: "48E33AFA9DE3F503"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "4E5C55341C5C6BAC"
+				item: { count: 1, id: "railways:track_coupler" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52BDF75FD8B6A897"]
+			id: "6F96A7435EDE6E3B"
+			rewards: [{
+				id: "47A458C78F526033"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "6B021A83C06537D7"
+				item: { components: { "ftbfiltersystem:filter": "or(item(railways:white_conductor_cap)item(railways:orange_conductor_cap)item(railways:magenta_conductor_cap)item(railways:light_blue_conductor_cap)item(railways:yellow_conductor_cap)item(railways:lime_conductor_cap)item(railways:pink_conductor_cap)item(railways:gray_conductor_cap)item(railways:light_gray_conductor_cap)item(railways:cyan_conductor_cap)item(railways:purple_conductor_cap)item(railways:blue_conductor_cap)item(railways:brown_conductor_cap)item(railways:green_conductor_cap)item(railways:red_conductor_cap)item(railways:black_conductor_cap))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F96A7435EDE6E3B"]
+			id: "2D595B8907C34892"
+			rewards: [{
+				id: "45FE5846908E3ACC"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "218B74DCEB751A46"
+				item: { count: 1, id: "railways:conductor_whistle" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3A0EBABFE63F91A2" "485735803A2C804F"]
+			id: "1421EFA57F8020E6"
+			rewards: [{
+				id: "6DDF9B245F010C7F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "47102607C68A7491"
+				item: { count: 1, id: "railways:riveted_locometal" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["485735803A2C804F" "53F81C28B4BB356F"]
+			id: "16C42E7D238F0E07"
+			rewards: [{
+				id: "51447C178DF236CB"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "466C3241EFF5518A"
+				item: { count: 1, id: "railways:smokestack_woodburner" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1421EFA57F8020E6" "16C42E7D238F0E07"]
+			id: "27AC0FD1FAA6D3A2"
+			rewards: [{
+				id: "2D4E68C097A112C4"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5F9230711F784241"
+				item: { count: 1, id: "railways:locometal_boiler" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["16C42E7D238F0E07"]
+			id: "52851003FFBBCAA2"
+			rewards: [{
+				id: "6AD42C7300F0EF88"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "12134ED42AB9A775"
+				item: { count: 1, id: "railways:fuel_tank" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["27AC0FD1FAA6D3A2" "52851003FFBBCAA2"]
+			id: "3254800E44900F92"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "3A49D3F279A447BE"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3254800E44900F92"]
+			id: "5A296EA5DC417CDD"
+			rewards: [{
+				id: "1C012C94EC814C82"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "52A594F1BC8BB390"
+				item: { count: 1, id: "loconautics:firebox" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3254800E44900F92"]
+			id: "678F764D597553AD"
+			rewards: [{
+				id: "485785CBC50F251D"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "472D1F22C3DED3B8"
+				item: { count: 1, id: "loconautics:boiler_tubes" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3254800E44900F92"]
+			id: "7F553BB24A3476AD"
+			rewards: [{
+				id: "632F00DAF30B1D8F"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "30EF958E0B0AC4A4"
+				item: { count: 1, id: "loconautics:valve_gear" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3254800E44900F92"]
+			id: "2BC6BB5FE613D635"
+			rewards: [{
+				id: "2F7AD2C7748F53A4"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "7EBDD83C41E469C3"
+				item: { count: 1, id: "loconautics:locomotive_gauge" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5A296EA5DC417CDD" "678F764D597553AD" "7F553BB24A3476AD"]
+			id: "41421A2399C9C94C"
+			rewards: [{
+				id: "4E0A23FAB4102958"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "56F7591D09E11ED3"
+				item: { count: 1, id: "loconautics:turntable_bearing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["52BDF75FD8B6A897"]
+			id: "320E01881E12CDD1"
+			tasks: [{
+				id: "7BFB017D8CAF9997"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+	]
+}

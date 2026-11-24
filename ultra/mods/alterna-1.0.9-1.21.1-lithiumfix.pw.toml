@@ -1,0 +1,8 @@
+name = "alterna-1.0.9-1.21.1-lithiumfix"
+filename = "alterna-1.0.9-1.21.1-lithiumfix.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/5054e3b1c3-alterna-1.0.9-1.21.1-lithiumfix.jar"
+hash-format = "sha256"
+hash = "c551666f7b74b76566a63879f0dc2c30fca5f16a5b013bf08c8bee64594d72d1"

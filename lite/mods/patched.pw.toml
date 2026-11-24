@@ -1,0 +1,13 @@
+name = "Patched-9.0.0+1.21.1-neoforge"
+filename = "Patched-9.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IBlGrJtC/versions/lsbqVn4T/Patched-9.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "1ed57d21949b14a22bb6fb208e1e8e4ecaeb56d1f7d652cc99d00d90563926ddde2ebdc466282130d002fd16a04af8e6db7e4d0caad268b961e8b24eae3edfcd"
+
+[update]
+[update.modrinth]
+mod-id = "IBlGrJtC"
+version = "lsbqVn4T"

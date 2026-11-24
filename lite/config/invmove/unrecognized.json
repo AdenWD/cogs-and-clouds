@@ -1,0 +1,29 @@
+{
+  "allowMovement": {
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "xaero.map.gui.GuiMap": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.minecraft.client.gui.screens.options.SoundOptionsScreen": true,
+    "eu.midnightdust.lib.config.MidnightConfigScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.puzzlemc.gui.screen.PuzzleOptionsScreen": true,
+    "org.violetmoon.quark.base.client.config.QuarkConfigHomeScreen": true,
+    "com.simibubi.create.infrastructure.gui.CreateMainMenuScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "net.mehvahdjukaar.moonlight.core.client.config.ModsTilesScreen": true,
+    "com.seibel.distanthorizons.common.wrappers.gui.classicConfig.DhConfigScreen_neoforge": true,
+    "net.minecraft.client.gui.screens.options.OnlineOptionsScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "net.mehvahdjukaar.polytone.content.config.ConfigScreen": true
+  },
+  "hideBackground": {
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}

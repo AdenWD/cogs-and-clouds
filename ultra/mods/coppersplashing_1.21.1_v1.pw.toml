@@ -1,0 +1,8 @@
+name = "coppersplashing_1.21.1_v1"
+filename = "coppersplashing_1.21.1_v1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/9ae3b727c6-coppersplashing_1.21.1_v1.jar"
+hash-format = "sha256"
+hash = "8c57197e1b079f06106902e02ed222998735a83eae30285d6b7d2565106777ff"

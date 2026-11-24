@@ -1,0 +1,13 @@
+name = "nocroptrample-neoforge-1.6+backport.1.20.6-1.21.10"
+filename = "nocroptrample-neoforge-1.6+backport.1.20.6-1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5XlZRhM5/versions/iYNtrno5/nocroptrample-neoforge-1.6%2Bbackport.1.20.6-1.21.10.jar"
+hash-format = "sha512"
+hash = "e8b42da3804bfe88db8c355942ac23e0143d393052a89bc8f247b51126993f3f99aa5d1f7617558d6806e93be9e6a2dba544c77e9b076235c91dc3cc443a96d6"
+
+[update]
+[update.modrinth]
+mod-id = "5XlZRhM5"
+version = "iYNtrno5"

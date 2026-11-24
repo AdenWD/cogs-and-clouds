@@ -1,0 +1,8 @@
+name = "olafsrelativeblocks-1.0.3-neoforge+mc1.21.1"
+filename = "olafsrelativeblocks-1.0.3-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/1e71d63b9e-olafsrelativeblocks-1.0.3-neoforge_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "df297bc5736f085d72d023c4faa666ffe21d01d06da791f43456857ea69bdc79"

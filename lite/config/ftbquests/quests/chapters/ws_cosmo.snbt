@@ -1,0 +1,220 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_cosmo"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "rocketnautics:rocket_thruster"
+	}
+	id: "2817D3FF75FB0911"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "23B05D84A15D0B0D"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "63313019058805BE"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["23B05D84A15D0B0D"]
+			id: "73F4645A1BA5CEE2"
+			rewards: [{
+				id: "79CEDA33C16CAFB2"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5D9E7816B48A5ED7"
+				item: { count: 1, id: "rocketnautics:raw_titanium" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73F4645A1BA5CEE2"]
+			id: "5DB578877ED87B09"
+			rewards: [{
+				id: "6DB3B4D06B34E81C"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "7ADA31D4143CA16E"
+				item: { count: 1, id: "rocketnautics:titanium_ingot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5DB578877ED87B09"]
+			id: "21BE5D8BA16BB58E"
+			rewards: [{
+				id: "6B233CD7997C576A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "48BC0D9C8AC57556"
+				item: { count: 1, id: "rocketnautics:titanium_sheet" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5DB578877ED87B09"]
+			id: "25474677049EE00E"
+			rewards: [{
+				id: "2AB7E3F687196403"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "680C0AB16760B9D0"
+				item: { count: 1, id: "rocketnautics:titanium_alloy" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["21BE5D8BA16BB58E" "25474677049EE00E"]
+			id: "15714E162DA7C711"
+			rewards: [{
+				id: "3CE1D5DAD84B5AB6"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "4428E7D1C87B00C0"
+				item: { count: 1, id: "rocketnautics:titanium_casing" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["23B05D84A15D0B0D"]
+			id: "346545126EE1E17F"
+			rewards: [{
+				id: "618D7354324FF718"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "10142C8A60D9F725"
+				item: { count: 1, id: "rocketnautics:copper_nozzle" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["346545126EE1E17F" "5DB578877ED87B09"]
+			id: "2383B579A5633265"
+			rewards: [{
+				id: "13EF1954113E6A66"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "778A98121A400CBC"
+				item: { count: 1, id: "rocketnautics:rocket_thruster" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2383B579A5633265"]
+			id: "23537CAE9EBF29D1"
+			rewards: [{
+				id: "6FC0C45B49A7DB1C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2504475FFCAC794E"
+				item: { count: 1, id: "rocketnautics:rcs_thruster" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2383B579A5633265"]
+			id: "5B9E1428D3A375D6"
+			rewards: [{
+				id: "285C601B9015BCDE"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "6FADB46D41592ADD"
+				item: { count: 1, id: "rocketnautics:separator" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["23B05D84A15D0B0D"]
+			id: "65E7A32BDDFE6E48"
+			rewards: [{
+				id: "27251146C14D7E44"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "23188668228A073C"
+				item: { count: 1, id: "rocketnautics:jetpack" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5B9E1428D3A375D6"]
+			id: "7CFE128BF73DC8AB"
+			rewards: [{
+				id: "2291FCEB3FE6B295"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1F4322607801BEE0"
+				item: { count: 1, id: "rocketnautics:sputnik" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["15714E162DA7C711" "23537CAE9EBF29D1" "7CFE128BF73DC8AB"]
+			id: "6D1E274685EB6237"
+			rewards: [{
+				id: "5CB47B57A32D5A97"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				dimension: "rocketnautics:moon"
+				id: "609978D2AB7BE4CB"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+	]
+}

@@ -1,0 +1,8 @@
+name = "NoBushyLeaves"
+filename = "NoBushyLeaves.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/c2d6ce7148-NoBushyLeaves.zip"
+hash-format = "sha256"
+hash = "fb0ac2ffd9b8d5909764b3b57b7a567b24e030b9483d1a5d71c1f0ab41e31268"

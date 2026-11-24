@@ -1,0 +1,34 @@
+{
+  "config_version": "2.0.17",
+  "config_datetime": "2026-10-28_13-10-30",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [],
+  "biomes": [
+    {
+      "name": "minecraft:bamboo_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:sparse_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "abundant_atmosphere:eroded_bamboo_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "mysticsbiomes:lavender_meadow",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:lush_river",
+      "is_disabled": true
+    }
+  ]
+}

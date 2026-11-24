@@ -1,0 +1,13 @@
+name = "betterministructures-1.1.0"
+filename = "betterministructures-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hk6wLbCd/versions/qjmApFT8/betterministructures-1.1.0.jar"
+hash-format = "sha512"
+hash = "7f932e8fd7bb45a376f333f5ac592c02a8138fe085cc2bfc9f48057ad3ec1693b188f2245322a2d36ee50a9db4da6038b26df3897611bf170e39729c7f6f9d8b"
+
+[update]
+[update.modrinth]
+mod-id = "hk6wLbCd"
+version = "qjmApFT8"

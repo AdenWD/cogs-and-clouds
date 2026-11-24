@@ -1,0 +1,569 @@
+[
+ {
+  "dst": "_files/024c6138db-Adens_Items_-_Vanilla_Mizuno.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Adens Items - Vanilla + Mizuno.zip",
+  "sha256": "75ecc5fe5aaacc9d2d77236f9abb48d2bd9ce9c2a1bc09431b800da7df2a825c",
+  "size": 693870
+ },
+ {
+  "dst": "_files/03ec260f12-structureessentials-1.21.1-5.1.jar",
+  "variant": "Ultra",
+  "src": "mods/structureessentials-1.21.1-5.1.jar",
+  "sha256": "5f18930f7c76dff89dce9837ef3a048b202bf5c942777fb0527311923e01e16f",
+  "size": 60923
+ },
+ {
+  "dst": "_files/095c0a15c3-Create_Addons_Fix_v1.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Create_Addons_Fix_v1.zip",
+  "sha256": "e3bf87dae98e449a3fe2ceb11b6dd9f24d72b4cbde61a1c9c05c341f1cef41dd",
+  "size": 1868
+ },
+ {
+  "dst": "_files/0a8cd7c437-create_thaumaturgy-1.21.1-0.14.0.jar",
+  "variant": "Ultra",
+  "src": "mods/create_thaumaturgy-1.21.1-0.14.0.jar",
+  "sha256": "6ad6356983720e805323fdba4bd0061895a93d52e36c78f763d363f40c4c35dd",
+  "size": 3667932
+ },
+ {
+  "dst": "_files/0a8cde4af5-maps3d_1.2.4-1.21.1-neoforge.jar",
+  "variant": "Ultra",
+  "src": "mods/maps3d_1.2.4-1.21.1-neoforge.jar",
+  "sha256": "4d8028c8392b1a65f4e3af9bfec4d081bea3ba8785b63597a9a5c17e088f7f35",
+  "size": 941147
+ },
+ {
+  "dst": "_files/0c61f867cd-thaumic_aeronautics-1.21.1-1.0.3.jar",
+  "variant": "Ultra",
+  "src": "mods/thaumic_aeronautics-1.21.1-1.0.3.jar",
+  "sha256": "45faffbafd503ee94b660caa7abaa45c7bea84120e1bfb769e584f077908bb28",
+  "size": 731055
+ },
+ {
+  "dst": "_files/0c6c2322d0-cbcaeronauticsmissiles-0.2.0.jar",
+  "variant": "Ultra",
+  "src": "mods/cbcaeronauticsmissiles-0.2.0.jar",
+  "sha256": "5e401ca48cec71341a1121092132a7720b908ccad945f286a7b8347de76de4e5",
+  "size": 1112814
+ },
+ {
+  "dst": "_files/0ee19acd03-EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+  "variant": "Ultra",
+  "src": "mods/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+  "sha256": "875647ca276c2cfc9418ee2d62398c61380eac8d79ab0e555aefa09ac3b07d18",
+  "size": 746263
+ },
+ {
+  "dst": "_files/0f5a6309ce-coroutil-neoforge-1.21.0-1.3.9.jar",
+  "variant": "Ultra",
+  "src": "mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+  "sha256": "097434e256a428335cc4e9b718ad7bb9c6804c2c775aa3dd7149a6904adca2bc",
+  "size": 65716
+ },
+ {
+  "dst": "_files/14867ad1be-beer-1.21.1-1.4.4.jar",
+  "variant": "Ultra",
+  "src": "mods/beer-1.21.1-1.4.4.jar",
+  "sha256": "34383e72bce37bb193582dc8563f03ea8b560c9198afc161ee476c496f0fe46c",
+  "size": 71530
+ },
+ {
+  "dst": "_files/1894d2f0dd-gpumemleakfix-1.21-1.8.jar",
+  "variant": "Ultra",
+  "src": "mods/gpumemleakfix-1.21-1.8.jar",
+  "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+  "size": 6574
+ },
+ {
+  "dst": "_files/1aed1bfce9-createprism-1.2.4.jar",
+  "variant": "Ultra",
+  "src": "mods/createprism-1.2.4.jar",
+  "sha256": "c047c242a2e7346e8b0bf22f5680e50adfbf9235c77ccd93442bb97a19620246",
+  "size": 1321641
+ },
+ {
+  "dst": "_files/1c1cca4888-interiors-0.6.1_v3.jar",
+  "variant": "Ultra",
+  "src": "mods/interiors-0.6.1 v3.jar",
+  "sha256": "d230a2960dcb0c3d5753bc1d4adb71c8c18c9491b8e3cfd4a6b56533dae7a2c6",
+  "size": 471085
+ },
+ {
+  "dst": "_files/1e71d63b9e-olafsrelativeblocks-1.0.3-neoforge_mc1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/olafsrelativeblocks-1.0.3-neoforge+mc1.21.1.jar",
+  "sha256": "df297bc5736f085d72d023c4faa666ffe21d01d06da791f43456857ea69bdc79",
+  "size": 66814
+ },
+ {
+  "dst": "_files/2016eed89e-TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+  "variant": "Ultra",
+  "src": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+  "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+  "size": 120364
+ },
+ {
+  "dst": "_files/219a3bd04e-leaky-1.21-3.6.jar",
+  "variant": "Ultra",
+  "src": "mods/leaky-1.21-3.6.jar",
+  "sha256": "8ad71c8d1499916da8ad11f1cd4e08d5494f98a88f70752722c0556f57fff0ee",
+  "size": 39835
+ },
+ {
+  "dst": "_files/2c780a37ab-let_it_walk-0.1.5.jar",
+  "variant": "Ultra",
+  "src": "mods/let_it_walk-0.1.5.jar",
+  "sha256": "0abb45d5c2d30660dc10b3625d68d5245e03dbb1dece97b39c09d393b994d7fd",
+  "size": 730661
+ },
+ {
+  "dst": "_files/2eda735ae6-punchy-3.1b-cdscenefix.jar",
+  "variant": "Ultra",
+  "src": "mods/punchy-3.1b-cdscenefix.jar",
+  "sha256": "417191a13b79f6f03567cad2dc7785eda85f363f7652761e2b86f157d2fba95a",
+  "size": 3207122
+ },
+ {
+  "dst": "_files/300de76d25-i_architecture-0.1.1b.jar",
+  "variant": "Ultra",
+  "src": "mods/i_architecture-0.1.1b.jar",
+  "sha256": "295edfb0f3dec36bc294debe377425a9ad21f7ce98305ca9f7b03d4b0605a544",
+  "size": 1350779
+ },
+ {
+  "dst": "_files/33477c2db0-ToastControl-1.21.1-9.0.1.jar",
+  "variant": "Ultra",
+  "src": "mods/ToastControl-1.21.1-9.0.1.jar",
+  "sha256": "f80bc1be4375faaac73971e6d51cc1500935f7144fa33108ee4f2fdbd8f70f66",
+  "size": 21079
+ },
+ {
+  "dst": "_files/37e4cbef29-FA_1.21.1_Fix.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/FA 1.21.1 Fix.zip",
+  "sha256": "a42ee6ea558986dcef90e1ad1e9574a55d982673cd12b77e87c8f15159c9bcbd",
+  "size": 14323
+ },
+ {
+  "dst": "_files/3e691c7d41-Adens_Items_-_Vanilla_Mizuno_2_.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Adens Items - Vanilla + Mizuno (2).zip",
+  "sha256": "587844ac0123993d05ff0feb4ad20d345f38f498cbf7b43af806d9789bfd91ad",
+  "size": 275306
+ },
+ {
+  "dst": "_files/3eae15f744-starcatcher-3.3.10-NEOFORGE-1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/starcatcher-3.3.10-NEOFORGE-1.21.1.jar",
+  "sha256": "4dad6cedd903a50323f36f83454efe804aab17aca92bd192302cfce62bb1847a",
+  "size": 4814211
+ },
+ {
+  "dst": "_files/439ea1baa5-JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+  "variant": "Ultra",
+  "src": "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+  "sha256": "b34d6bb434d507874a6ebe49d40169c26f7cad8f51c9ffea615eedb153746696",
+  "size": 24879
+ },
+ {
+  "dst": "_files/4a5339fe28-CU_-_3d_Wrench.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/CU - 3d Wrench.zip",
+  "sha256": "2fbdc992fc9c57be0c4e4d83bc7d612ad5b13e9aed850c28d323d02e41a2e4dd",
+  "size": 95555
+ },
+ {
+  "dst": "_files/4b9fc7c562-betterbastions-1.0.0_neoforge-1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/betterbastions-1.0.0+neoforge-1.21.1.jar",
+  "sha256": "847ca595f5bf7a88ec1b5893ce66dd48a96fb5c9babd96b45bb6e0b5975910fc",
+  "size": 255737
+ },
+ {
+  "dst": "_files/4e1b5843b4-MetalUpscaler-neoforge-0.5.0_mc1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/MetalUpscaler-neoforge-0.5.0+mc1.21.1.jar",
+  "sha256": "30168fb9ca7b303504c1b61fbf84a16648cfed6896f76144c46e46ad0bf0564e",
+  "size": 35218210
+ },
+ {
+  "dst": "_files/4edd583ea1-betterinventory-neoforge-1.21.1-2.0.2.jar",
+  "variant": "Ultra",
+  "src": "mods/betterinventory-neoforge-1.21.1-2.0.2.jar",
+  "sha256": "91425c95fbc6dbf75699d983aedf367b5af2a1c17a0341c08ab690027945ddb1",
+  "size": 821625
+ },
+ {
+  "dst": "_files/5054e3b1c3-alterna-1.0.9-1.21.1-lithiumfix.jar",
+  "variant": "Ultra",
+  "src": "mods/alterna-1.0.9-1.21.1-lithiumfix.jar",
+  "sha256": "c551666f7b74b76566a63879f0dc2c30fca5f16a5b013bf08c8bee64594d72d1",
+  "size": 1309878
+ },
+ {
+  "dst": "_files/5094d3fc6d-emmasworld-1.1.0.jar",
+  "variant": "Ultra",
+  "src": "mods/emmasworld-1.1.0.jar",
+  "sha256": "f29cab9dea1264ff6f6419a2a812b288bc3bbb30f2cc0e6735addfab5206eafe",
+  "size": 19254860
+ },
+ {
+  "dst": "_files/53d6efbee8-Mizunos_16_Craft_JE_1.20.4-1.0_230105.zip",
+  "variant": "Lite",
+  "src": "resourcepacks/Mizunos 16 Craft JE_1.20.4-1.0_230105.zip",
+  "sha256": "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec",
+  "size": 10052767
+ },
+ {
+  "dst": "_files/54bf0f1ce0-loconautics-0.1.2BETA.jar",
+  "variant": "Ultra",
+  "src": "mods/loconautics-0.1.2BETA.jar",
+  "sha256": "789a0b652e0d32c6399c6dc1ef914d954820315f8a8fb795af87bb700e4d2fe7",
+  "size": 4783878
+ },
+ {
+  "dst": "_files/62af430cab-mc_rebalance-2.0.0.jar",
+  "variant": "Ultra",
+  "src": "mods/mc_rebalance-2.0.0.jar",
+  "sha256": "42ca5907ba2c2a882641000085f8efbe8833369d7358ff17c0f8594ca6fc6192",
+  "size": 255664
+ },
+ {
+  "dst": "_files/62b65f752d-ftb-teams-neoforge-2101.1.11.jar",
+  "variant": "Ultra",
+  "src": "mods/ftb-teams-neoforge-2101.1.11.jar",
+  "sha256": "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655",
+  "size": 308236
+ },
+ {
+  "dst": "_files/65b1270b16-AOC_Resources.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/AOC Resources.zip",
+  "sha256": "d6b0c8785486c65a92fd75e71eefbc362703871f4568e1a13609bdd5fc6d7928",
+  "size": 453964
+ },
+ {
+  "dst": "_files/660726692d-BSL_v10.1.8_Clrwl_1.0.5.zip",
+  "variant": "Ultra",
+  "src": "shaderpacks/BSL_v10.1.8 + Clrwl_1.0.5.zip",
+  "sha256": "f50cfba93802fa800c396303d26f483a92c465b67e4c069ad32e3a6e3603e56a",
+  "size": 1148509
+ },
+ {
+  "dst": "_files/677de47c41-casters_gauntlet-1.21.1-1.2.1.jar",
+  "variant": "Ultra",
+  "src": "mods/casters_gauntlet-1.21.1-1.2.1.jar",
+  "sha256": "22b63aa478298b26b88a6f81318b2757803312447f3e388cf12a7b9468f596c3",
+  "size": 130713
+ },
+ {
+  "dst": "_files/6b3da63cd2-linearbearing-1.2.6.jar",
+  "variant": "Ultra",
+  "src": "mods/linearbearing-1.2.6.jar",
+  "sha256": "0530c06045c17809a753869250ad1e426c56a531f5f243b771254bd4ad84e92f",
+  "size": 148396
+ },
+ {
+  "dst": "_files/6c14b584ec-Stay_True_1.21.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Stay_True_1.21.zip",
+  "sha256": "4ba60e5e757d90386f94a37964fef50b1d02bc4987d8cbeb77f47c0f1eeadf4c",
+  "size": 2152322
+ },
+ {
+  "dst": "_files/6c1e4b32fe-create_aeronautics_transmission_linkage-0.2.9.jar",
+  "variant": "Ultra",
+  "src": "mods/create_aeronautics_transmission_linkage-0.2.9.jar",
+  "sha256": "4f06724881f3afc14f4700052ac98d9f46db32b963848ab0545079f7237b209e",
+  "size": 736768
+ },
+ {
+  "dst": "_files/6c2d786a16-cupboard-1.21.1-4.2.jar",
+  "variant": "Ultra",
+  "src": "mods/cupboard-1.21.1-4.2.jar",
+  "sha256": "5162922647fe07c7b9f446870915b57ddd0ae9dcf56b243611130fea30f2f77a",
+  "size": 30517
+ },
+ {
+  "dst": "_files/6ce24a0d4e-Cinematic_Interaction-NeoForge-1.21.1-0.18.30.jar",
+  "variant": "Ultra",
+  "src": "mods/Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar",
+  "sha256": "4a6bb18685bb8adbd2ee08a242b08088dbd5d9ddf0bf1c3d140269107ba4d7c5",
+  "size": 1302874
+ },
+ {
+  "dst": "_files/707ca3b201-Musgo_1.21.1_Below.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Musgo 1.21.1 Below.zip",
+  "sha256": "6e5dfdf6a9dc807d2b1853fc41e36efe637de149611fa7da3c67d7daee045676",
+  "size": 2547734
+ },
+ {
+  "dst": "_files/72c3653116-create_connected-1.3.3-mc1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/create_connected-1.3.3-mc1.21.1.jar",
+  "sha256": "89d2404d2d5bc696b1813e39b9d1616a41888f74a648771152b0b0323a490265",
+  "size": 6786784
+ },
+ {
+  "dst": "_files/75702ec0b2-tacz_aero_compat-1.9.0.jar",
+  "variant": "Ultra",
+  "src": "mods/tacz_aero_compat-1.9.0.jar",
+  "sha256": "ee21395b6690cef71733d1f8bd6355081340cd06728031c1c0541691492a10d9",
+  "size": 265905
+ },
+ {
+  "dst": "_files/770938e590-ftb-quests-neoforge-2101.1.37.jar",
+  "variant": "Ultra",
+  "src": "mods/ftb-quests-neoforge-2101.1.37.jar",
+  "sha256": "6b42457d680108d0af5b8deb21e3fe7b92138209f0683c62441dc360d4fc01d5",
+  "size": 1635351
+ },
+ {
+  "dst": "_files/774dae2a81-studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
+  "variant": "Ultra",
+  "src": "mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
+  "sha256": "d9597fbe4da62e9a0a88e7dacd951ac9bb8425806ec73d8be64ed9f8e6057414",
+  "size": 50696
+ },
+ {
+  "dst": "_files/77c1796d44-recipeessentials-1.21.1-4.7.jar",
+  "variant": "Ultra",
+  "src": "mods/recipeessentials-1.21.1-4.7.jar",
+  "sha256": "d2ab36a95424654bede6fd7aedceefd05912fc12f6de3f8bb0db8b8b245b6f85",
+  "size": 43983
+ },
+ {
+  "dst": "_files/780235af90-JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
+  "variant": "Ultra",
+  "src": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
+  "sha256": "5c905e20206ac94624aee732da19ea9816de0c3f4961a2bc5c2167f04cb15908",
+  "size": 292338
+ },
+ {
+  "dst": "_files/7cf40ec774-netherportalfix-neoforge-1.21.1-21.1.1.jar",
+  "variant": "Ultra",
+  "src": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+  "sha256": "c1077de0c7f1ff5289d1852e0674d9c477247d4318c9809b21c60e56a31ae31a",
+  "size": 211972
+ },
+ {
+  "dst": "_files/7ec3bc42fc-snassets-1.0.3.jar",
+  "variant": "Ultra",
+  "src": "mods/snassets-1.0.3.jar",
+  "sha256": "03d76f48ac8e1eb1e2b19727fba8ffe08c74976bbf562fd76de52ef1ebf9ac6c",
+  "size": 35789690
+ },
+ {
+  "dst": "_files/87ef6ef7a9-Create_FTBQuests.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Create_FTBQuests.zip",
+  "sha256": "cf83fae56814602e6e737e53860e2033f8166fdb7057ec592e556c16790cf7c6",
+  "size": 2110
+ },
+ {
+  "dst": "_files/888c617549-touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+  "variant": "Ultra",
+  "src": "mods/touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+  "sha256": "c17d3b7827e4c1f581d890c42dcef73901a17994006ce946908abe27ba3313b9",
+  "size": 1115913
+ },
+ {
+  "dst": "_files/8dc3db7b8a-ftb-xmod-compat-neoforge-21.1.14.jar",
+  "variant": "Ultra",
+  "src": "mods/ftb-xmod-compat-neoforge-21.1.14.jar",
+  "sha256": "143c79710af4e17dbff7bb933f2e17c667091353e188e5d53fdaab4220a5ff64",
+  "size": 149952
+ },
+ {
+  "dst": "_files/9466eee51e-alltheleaks-1.1.14-1.21.1-neoforge.jar",
+  "variant": "Ultra",
+  "src": "mods/alltheleaks-1.1.14-1.21.1-neoforge.jar",
+  "sha256": "b78b832e2c7b0d6697a8e6e846074430405f2522f14d275ba518dcf9220ebe5c",
+  "size": 565897
+ },
+ {
+  "dst": "_files/9648ad5efe-Bliss_v2.1.2__Chocapic13_Shaders_edit_Clrwl_1.0.5.zip",
+  "variant": "Ultra",
+  "src": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit) + Clrwl_1.0.5.zip",
+  "sha256": "b7b583747b430c12cc61d829575a7c1001d1eff590b8029753e765e46a510f3c",
+  "size": 1829149
+ },
+ {
+  "dst": "_files/9ae3b727c6-coppersplashing_1.21.1_v1.jar",
+  "variant": "Ultra",
+  "src": "mods/coppersplashing_1.21.1_v1.jar",
+  "sha256": "8c57197e1b079f06106902e02ed222998735a83eae30285d6b7d2565106777ff",
+  "size": 16436
+ },
+ {
+  "dst": "_files/a14ff1c30f-aeroworks-1.5.0.jar",
+  "variant": "Ultra",
+  "src": "mods/aeroworks-1.5.0.jar",
+  "sha256": "30bad4bf907ee5ae2849de163634cf9a5bc8507bb4b12d7d291c59f3265d7bad",
+  "size": 790152
+ },
+ {
+  "dst": "_files/a2032c921e-kotlinforforge-5.12.0-all.jar",
+  "variant": "Ultra",
+  "src": "mods/kotlinforforge-5.12.0-all.jar",
+  "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
+  "size": 7279276
+ },
+ {
+  "dst": "_files/a48e54edea-ftb-filter-system-neoforge-21.1.4.jar",
+  "variant": "Ultra",
+  "src": "mods/ftb-filter-system-neoforge-21.1.4.jar",
+  "sha256": "b8700e8bfd9c78b09bc7819cb28a6318b20d2bf68969bc6894a0bfa39581a99b",
+  "size": 211671
+ },
+ {
+  "dst": "_files/a6f0e7b7c2-forgified-fabric-api-0.116.15_2.3.6_1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
+  "sha256": "8504d7ceedb7b537ab4b028c17a673e6d428298cc7fc6c330ba843b128361a8c",
+  "size": 5613208
+ },
+ {
+  "dst": "_files/abadaacba0-tectonic-3.0.28-neoforge-21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/tectonic-3.0.28-neoforge-21.1.jar",
+  "sha256": "84afca94db5d2a01bba18ac243590a0b8b2a0e7252341c0048ea89473aed96e5",
+  "size": 452012
+ },
+ {
+  "dst": "_files/b447730ac7-thaumaturge-1.21.1-NeoForge-1.1.0.jar",
+  "variant": "Ultra",
+  "src": "mods/thaumaturge-1.21.1-NeoForge-1.1.0.jar",
+  "sha256": "033ba7f9f010405294372d67ed537fe517fbb51574aecc362f1daaa455097968",
+  "size": 33850489
+ },
+ {
+  "dst": "_files/b4900c9a46-connectivity-1.21.1-7.7.jar",
+  "variant": "Ultra",
+  "src": "mods/connectivity-1.21.1-7.7.jar",
+  "sha256": "d2f7cecb93199139c4ff783161c4b9ec106589f72bb3febe85349178e7547cf3",
+  "size": 115891
+ },
+ {
+  "dst": "_files/b6c0da6133-smoothchunk-1.21-4.4.jar",
+  "variant": "Ultra",
+  "src": "mods/smoothchunk-1.21-4.4.jar",
+  "sha256": "b12cb6c8de15e65f749ec6421786fe62e2125b9b55b3c1f707d0400493c0fbad",
+  "size": 15747
+ },
+ {
+  "dst": "_files/ba08b534af-connector-2.0.0-beta.17_1.21.1-full.jar",
+  "variant": "Ultra",
+  "src": "mods/connector-2.0.0-beta.17+1.21.1-full.jar",
+  "sha256": "5a4ad10e57b8b1690832d9b77fc488fbe5e7cf41ac5a90d9f569bd78fbea25be",
+  "size": 4573244
+ },
+ {
+  "dst": "_files/ba601fe630-lootintegrations-1.21.1-4.7.jar",
+  "variant": "Ultra",
+  "src": "mods/lootintegrations-1.21.1-4.7.jar",
+  "sha256": "1de9e6352f643f2850dce3e6b7aa8274902798a2243ea9e494fe13aabaa90d2c",
+  "size": 36966
+ },
+ {
+  "dst": "_files/c2d6ce7148-NoBushyLeaves.zip",
+  "variant": "Lite",
+  "src": "resourcepacks/NoBushyLeaves.zip",
+  "sha256": "fb0ac2ffd9b8d5909764b3b57b7a567b24e030b9483d1a5d71c1f0ab41e31268",
+  "size": 16389
+ },
+ {
+  "dst": "_files/c8cd9d1fd4-cbcmodernwarfare-0.0.6v_mc.1.21.1-neoforge.jar",
+  "variant": "Ultra",
+  "src": "mods/cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
+  "sha256": "f8bbfcb4766f08a88c773a60aa154c4eb9704f974266e00f00569c765667a348",
+  "size": 2119734
+ },
+ {
+  "dst": "_files/ce4275a81c-thaumaturge_null_field-1.21.1-1.0.0.jar",
+  "variant": "Ultra",
+  "src": "mods/thaumaturge_null_field-1.21.1-1.0.0.jar",
+  "sha256": "e24b78f930ae2364697fc088b8de0f6db3dded05d9b80f271fc466b28f8b135a",
+  "size": 297103
+ },
+ {
+  "dst": "_files/d048219b26-creategarnished-april-foods-26-neoforged.jar",
+  "variant": "Ultra",
+  "src": "mods/creategarnished-april-foods-26-neoforged.jar",
+  "sha256": "ced450e5c11f8f8cece11d93828bde1c3063313b6635d3e893f0c690f3323811",
+  "size": 2428893
+ },
+ {
+  "dst": "_files/d65de71c66-Adens_Aeronautica_Title.zip",
+  "variant": "Ultra",
+  "src": "resourcepacks/Adens Aeronautica Title.zip",
+  "sha256": "8bb6b4d3f8d3d6bc5afc1808d02a92fa4f7d109efb4206460ee7c156f476444b",
+  "size": 2962362
+ },
+ {
+  "dst": "_files/daac9139ff-emmasworld-1.1.0.jar",
+  "variant": "Lite",
+  "src": "mods/emmasworld-1.1.0.jar",
+  "sha256": "7923789a297d455b558ab27ddc4a8ec3548ac190a9cd6403715ec02fcf498fd9",
+  "size": 19254756
+ },
+ {
+  "dst": "_files/e404c3d1e7-Aoc_Core_1.21_v2.jar",
+  "variant": "Ultra",
+  "src": "mods/Aoc_Core_1.21_v2.jar",
+  "sha256": "1a532a1441aa678ae3f46d7c9ba00ec77692c95d7d6291b9568727e1be7abd7a",
+  "size": 353781
+ },
+ {
+  "dst": "_files/e46eb138fb-framework-neoforge-1.21.1-0.13.11.jar",
+  "variant": "Ultra",
+  "src": "mods/framework-neoforge-1.21.1-0.13.11.jar",
+  "sha256": "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5",
+  "size": 387334
+ },
+ {
+  "dst": "_files/ed816decf1-clientcrafting-1.21-2.1.jar",
+  "variant": "Ultra",
+  "src": "mods/clientcrafting-1.21-2.1.jar",
+  "sha256": "318a7a7c28b9d5cbeecb69f8e27eb8d1b638d991108316364c64dc8bc5f013c0",
+  "size": 7144
+ },
+ {
+  "dst": "_files/ed8dbc6eb1-CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar",
+  "sha256": "e0d1d2bc8763c4d17ac2fb314c8f6cc2d1e71c12f39697e822f62d85d8b059a5",
+  "size": 73993
+ },
+ {
+  "dst": "_files/f7da1947a4-WorldEditCUI-NeoForge-1.21.1_01-SNAPSHOT.jar",
+  "variant": "Ultra",
+  "src": "mods/WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar",
+  "sha256": "8149c95c8bc192c5472fb9002429a57e0e2a1d24685041b370e83bb887f583df",
+  "size": 150148
+ },
+ {
+  "dst": "_files/fa51ed53dc-Adens_Aeronautica_Title.zip",
+  "variant": "Lite",
+  "src": "resourcepacks/Adens Aeronautica Title.zip",
+  "sha256": "03b251ea8e40d2f54d596b40ac7351549efa9d09dcdefc3d39a25e20b11cfbe4",
+  "size": 2962286
+ },
+ {
+  "dst": "_files/fb767199e1-cinematic-delight-0.2.0-cogsfix.jar",
+  "variant": "Ultra",
+  "src": "mods/cinematic-delight-0.2.0-cogsfix.jar",
+  "sha256": "b70286faa7785ad53f92a71cffe30f8443fa2538e82773a7bc64d7ffa1dcfaf4",
+  "size": 119050
+ },
+ {
+  "dst": "_files/ff852d99ad-ftb-library-neoforge-2101.1.39.jar",
+  "variant": "Ultra",
+  "src": "mods/ftb-library-neoforge-2101.1.39.jar",
+  "sha256": "ca64bd1b5f335406900f74eeafacea5a3580a3933d61de6b6600a64eb12a9a95",
+  "size": 1477833
+ }
+]

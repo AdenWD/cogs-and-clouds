@@ -1,0 +1,8 @@
+name = "betterbastions-1.0.0+neoforge-1.21.1"
+filename = "betterbastions-1.0.0+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/4b9fc7c562-betterbastions-1.0.0_neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "847ca595f5bf7a88ec1b5893ce66dd48a96fb5c9babd96b45bb6e0b5975910fc"

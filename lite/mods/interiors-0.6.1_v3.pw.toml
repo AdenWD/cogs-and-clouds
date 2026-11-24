@@ -1,0 +1,8 @@
+name = "interiors-0.6.1 v3"
+filename = "interiors-0.6.1 v3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/1c1cca4888-interiors-0.6.1_v3.jar"
+hash-format = "sha256"
+hash = "d230a2960dcb0c3d5753bc1d4adb71c8c18c9491b8e3cfd4a6b56533dae7a2c6"

@@ -1,0 +1,13 @@
+name = "endercon-3.3"
+filename = "endercon-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wr1BCv8H/versions/hgpgghuF/endercon-3.3.jar"
+hash-format = "sha512"
+hash = "2f0f6d5384bcef74703a563547881c991652059f427b4a5cf2e1e9f1f19bd0fc99d1201ed293396fdaef9015f91939c0bf08bef3a97ad7691f34028da677bc9a"
+
+[update]
+[update.modrinth]
+mod-id = "wr1BCv8H"
+version = "hgpgghuF"

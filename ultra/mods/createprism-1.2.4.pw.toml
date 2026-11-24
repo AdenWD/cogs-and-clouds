@@ -1,0 +1,8 @@
+name = "createprism-1.2.4"
+filename = "createprism-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/1aed1bfce9-createprism-1.2.4.jar"
+hash-format = "sha256"
+hash = "c047c242a2e7346e8b0bf22f5680e50adfbf9235c77ccd93442bb97a19620246"

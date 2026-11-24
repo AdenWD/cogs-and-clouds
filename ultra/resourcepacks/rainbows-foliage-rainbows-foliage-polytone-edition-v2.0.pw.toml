@@ -1,0 +1,13 @@
+name = "rainbows-foliage-polytone-edition-v2.0"
+filename = "rainbows-foliage-polytone-edition-v2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bY2CaVIh/versions/JcLjpSJg/rainbows-foliage-polytone-edition-v2.0.zip"
+hash-format = "sha512"
+hash = "823a0afb2cc074046565de404bde4bbe63a9329fae9a5f95fb80ff519e0bbea831bf228d2f2e3f6985b6feba9b5d4d3141b2b91f84baeb79d97a891a0bddea76"
+
+[update]
+[update.modrinth]
+mod-id = "bY2CaVIh"
+version = "JcLjpSJg"

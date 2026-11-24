@@ -1,0 +1,8 @@
+name = "Starter House 1-from-abfielder"
+filename = "Starter House 1-from-abfielder.litematic"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/0e60c321c6-Starter_House_1-from-abfielder.litematic"
+hash-format = "sha256"
+hash = "0e60c321c63050663626377534210574d15f1db0a52aa54dee12c008799ad388"

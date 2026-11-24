@@ -1,0 +1,4 @@
+#Whether to enable custom item color tinting for Alterna enchantments
+enableEnchantmentTint = true
+#Whether to enable custom glint textures for Alterna enchantments
+enableEnchantmentGlint = true

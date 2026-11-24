@@ -1,0 +1,8 @@
+name = "clientcrafting-1.21-2.1"
+filename = "clientcrafting-1.21-2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/ed816decf1-clientcrafting-1.21-2.1.jar"
+hash-format = "sha256"
+hash = "318a7a7c28b9d5cbeecb69f8e27eb8d1b638d991108316364c64dc8bc5f013c0"

@@ -1,0 +1,13 @@
+name = "Universal_3D_Archery_1.21-1_1.0"
+filename = "Universal_3D_Archery_1.21-1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HY6uydtR/versions/vlTHVp21/Universal_3D_Archery_1.21-1_1.0.zip"
+hash-format = "sha512"
+hash = "144c92886e504547679654e8489c37ef9e5e919c66083040ba1a14d9fe91b92513bcf5a383dd778fa64669421a5a0df54d1005e239a2b5c84b256c1cddd12b88"
+
+[update]
+[update.modrinth]
+mod-id = "HY6uydtR"
+version = "vlTHVp21"

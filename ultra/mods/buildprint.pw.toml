@@ -1,0 +1,13 @@
+name = "buildprint-neoforge-0.1.36+1.21.1"
+filename = "buildprint-neoforge-0.1.36+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pa8th8fX/versions/mFJ6v4XM/buildprint-neoforge-0.1.36%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c68b32920e9c612d7a82d758ee3c020268e1d63cc1d6acbf8769f616d946d79655d2360387ee14ed95e18d6bddc917591b7a878f4fe39c5d48f952e37bfd2399"
+
+[update]
+[update.modrinth]
+mod-id = "pa8th8fX"
+version = "mFJ6v4XM"

@@ -1,0 +1,8 @@
+name = "ToastControl-1.21.1-9.0.1"
+filename = "ToastControl-1.21.1-9.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/33477c2db0-ToastControl-1.21.1-9.0.1.jar"
+hash-format = "sha256"
+hash = "f80bc1be4375faaac73971e6d51cc1500935f7144fa33108ee4f2fdbd8f70f66"

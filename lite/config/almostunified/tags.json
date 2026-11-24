@@ -1,0 +1,5 @@
+{
+  "custom_tags": {
+    "c:wires/copper": ["create_new_age:copper_wire"]
+  }
+}

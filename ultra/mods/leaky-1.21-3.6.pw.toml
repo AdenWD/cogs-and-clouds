@@ -1,0 +1,8 @@
+name = "leaky-1.21-3.6"
+filename = "leaky-1.21-3.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/219a3bd04e-leaky-1.21-3.6.jar"
+hash-format = "sha256"
+hash = "8ad71c8d1499916da8ad11f1cd4e08d5494f98a88f70752722c0556f57fff0ee"

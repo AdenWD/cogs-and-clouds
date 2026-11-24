@@ -1,0 +1,8 @@
+name = "CreateFastSchematicCannon-2.6.1-neoforge-1.21.1"
+filename = "CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/ed8dbc6eb1-CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "e0d1d2bc8763c4d17ac2fb314c8f6cc2d1e71c12f39697e822f62d85d8b059a5"

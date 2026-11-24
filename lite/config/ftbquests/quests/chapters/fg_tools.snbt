@@ -1,0 +1,177 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fg_tools"
+	group: "24C2771116E58928"
+	icon: {
+		id: "mc_rebalance:copper_paxel"
+	}
+	id: "6F6215A835E1AF12"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7E8D89DBCFF3C578"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "72710353EA7A7824"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E8D89DBCFF3C578"]
+			id: "1B9EAF058147E570"
+			rewards: [{
+				id: "7E83D51EB6C102F6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5A22960A944F0185"
+				item: { count: 1, id: "mc_rebalance:wooden_paxel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B9EAF058147E570"]
+			id: "678389ACB44790E5"
+			rewards: [{
+				count: 2
+				id: "7AAD0CE73EE53997"
+				item: { count: 1, id: "minecraft:bread" }
+				type: "item"
+			}]
+			tasks: [{
+				count: 9L
+				id: "4CF9825297D154C4"
+				item: { count: 1, id: "minecraft:copper_ingot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["678389ACB44790E5"]
+			id: "1A9A4759863F52A4"
+			rewards: [{
+				id: "648741CBD356FA02"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "5E116E715CD240E1"
+				item: { count: 1, id: "minecraft:copper_pickaxe" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["678389ACB44790E5"]
+			id: "59A456109AA7507B"
+			rewards: [{
+				id: "1E7CBB447E721514"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "22599D394663C4AE"
+				item: { count: 1, id: "mc_rebalance:copper_paxel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["678389ACB44790E5"]
+			id: "2D38DCDA20248DE9"
+			rewards: [{
+				id: "59F0DE3CC04D97EF"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "589DA545883286D7"
+				item: { count: 1, id: "minecraft:copper_chestplate" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2D38DCDA20248DE9"]
+			id: "54724692A75005F4"
+			rewards: [{
+				id: "3D7A4EB3D932DE74"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "2BDAE4B1EA30F75E"
+				item: { count: 1, id: "minecraft:copper_spear" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["678389ACB44790E5"]
+			id: "2D3D6E433739625E"
+			tasks: [{
+				id: "56F9C648D234605A"
+				item: { count: 1, id: "minecraft:copper_torch" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["59A456109AA7507B"]
+			id: "5AF066A2F8E2FB32"
+			rewards: [{
+				id: "730C86286852CC59"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "31193DFBAE162A91"
+				item: { count: 1, id: "mc_rebalance:iron_paxel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5AF066A2F8E2FB32"]
+			id: "3969C707E0C729EF"
+			rewards: [{
+				id: "68946864007FCACC"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "715DCD9EF663775C"
+				item: { count: 1, id: "mc_rebalance:diamond_paxel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5AF066A2F8E2FB32"]
+			id: "527E83D4BC3AE231"
+			tasks: [{
+				id: "2CEA49EEF0563EE7"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+	]
+}

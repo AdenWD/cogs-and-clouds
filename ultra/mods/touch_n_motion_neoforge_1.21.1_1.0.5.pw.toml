@@ -1,0 +1,8 @@
+name = "touch_n_motion_neoforge_1.21.1_1.0.5"
+filename = "touch_n_motion_neoforge_1.21.1_1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/888c617549-touch_n_motion_neoforge_1.21.1_1.0.5.jar"
+hash-format = "sha256"
+hash = "c17d3b7827e4c1f581d890c42dcef73901a17994006ce946908abe27ba3313b9"

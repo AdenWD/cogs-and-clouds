@@ -1,0 +1,8 @@
+name = "create waystones 1.21"
+filename = "create waystones 1.21.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/58616e044d-create_waystones_1.21.zip"
+hash-format = "sha256"
+hash = "58616e044dbb0f19e58067e58174f5f72a04bf65e8502cacfbb674ff3996c8a4"

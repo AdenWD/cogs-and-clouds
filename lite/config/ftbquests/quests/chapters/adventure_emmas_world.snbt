@@ -1,0 +1,979 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "adventure_emmas_world"
+	group: ""
+	icon: { id: "emmasworld:melodite_shard" }
+	id: "31D2C6FDDFD7BBB9"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: { id: "emmasworld:melodite_shard" }
+			id: "31CAF339645C899F"
+			rewards: [
+				{
+					id: "68B6ABB74CDB588A"
+					xp: 100
+					type: "xp"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					advancement: "emmasworld:root"
+					criterion: ""
+					id: "651B883C67015363"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:melodite_bass" }
+			id: "32FC7B8D492DC285"
+			rewards: [
+				{
+					id: "62B4C1FDA76B3FD4"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:bass"
+					criterion: ""
+					id: "75DAD3754F6E13E1"
+					type: "advancement"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["32FC7B8D492DC285"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:amp" }
+			id: "0BDA485A93EB35F9"
+			rewards: [
+				{
+					id: "4ABB54ADEF777579"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:plugged_in"
+					criterion: ""
+					id: "291B4B80CF758275"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0BDA485A93EB35F9"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:delay_pedal" }
+			id: "056E723A1B1ABC79"
+			rewards: [
+				{
+					id: "1E3B5E7ABC6AFBB3"
+					xp: 300
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:pedalboard"
+					criterion: ""
+					id: "7D1B7F11AB913BD0"
+					type: "advancement"
+				}
+			]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:starlight_note" }
+			id: "42B3327C5CBC1090"
+			rewards: [
+				{
+					id: "2DA7A5120396618C"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:star"
+					criterion: ""
+					id: "7E7D655E1C7E84BE"
+					type: "advancement"
+				}
+			]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:encore_stage" }
+			id: "12C8FE65CDCEEC17"
+			rewards: [
+				{
+					id: "4919527EB5ED2708"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:encore_first_gig"
+					criterion: ""
+					id: "34ECEA1C8E0B3607"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["12C8FE65CDCEEC17"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:star_power_guitar" }
+			id: "532438FC30E3B708"
+			rewards: [
+				{
+					id: "429A10E1E06F39C2"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:encore_rock_legend"
+					criterion: ""
+					id: "70CE3FEC0F2F81AB"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["532438FC30E3B708"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:golden_star_power_guitar" }
+			id: "29B9D2484A3F0632"
+			rewards: [
+				{
+					id: "7610F42079897691"
+					xp_levels: 10
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:encore_encore"
+					criterion: ""
+					id: "242F92C03EF65D2A"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["32FC7B8D492DC285"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:emerald_heart" }
+			id: "3BD167CC54F5C11C"
+			rewards: [
+				{
+					id: "509CD76496C910FD"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:sorceress"
+					criterion: ""
+					id: "252A9D15B8465806"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3BD167CC54F5C11C"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:defying_gravity_bass" }
+			id: "4FA1BE67BD13B52B"
+			rewards: [
+				{
+					id: "65FA9D5F47D95BEA"
+					xp: 300
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:gravity"
+					criterion: ""
+					id: "55DC0B189D1C6A14"
+					type: "advancement"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3BD167CC54F5C11C"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:bubble_wand" }
+			id: "2DC0632B187332AF"
+			rewards: [
+				{
+					id: "6C4F3300D0A61852"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:bubble_witch"
+					criterion: ""
+					id: "7E8A4EC0CB0B9868"
+					type: "advancement"
+				}
+			]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2DC0632B187332AF", "4FA1BE67BD13B52B"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:defying_gravity_bass" }
+			id: "67E1C59677113457"
+			rewards: [
+				{
+					id: "0E3337B67204E25F"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:duet"
+					criterion: ""
+					id: "77FC873EC09490A8"
+					type: "advancement"
+				}
+			]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:bottled_whale_song" }
+			id: "45AB35AE6D5622EB"
+			rewards: [
+				{
+					id: "3BB54193BC65DE24"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:whale_song"
+					criterion: ""
+					id: "453B7A59B44DDA07"
+					type: "advancement"
+				}
+			]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45AB35AE6D5622EB"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:whale_harness" }
+			id: "2310ABCDAA0593CD"
+			rewards: [
+				{
+					id: "19721EFEB809CD0E"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:whale_rider"
+					criterion: ""
+					id: "0128B7225F623082"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["45AB35AE6D5622EB"]
+			hide_until_deps_visible: true
+			icon: { id: "minecraft:glow_ink_sac" }
+			id: "46924D1DB9A6157E"
+			rewards: [
+				{
+					id: "25E3B8794624D5D3"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:glow_tide"
+					criterion: ""
+					id: "54549EE91F778FBA"
+					type: "advancement"
+				}
+			]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45AB35AE6D5622EB"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:pink_conch" }
+			id: "41BCEB989D2CCEA6"
+			rewards: [
+				{
+					id: "6889D6E46385EA3A"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:new_digs"
+					criterion: ""
+					id: "491D1CDECED343DB"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41BCEB989D2CCEA6"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:rainbow_nautilus" }
+			id: "51FD05CC83675FB4"
+			rewards: [
+				{
+					id: "6EA9BE33DFE7892A"
+					xp: 300
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:shell_collector"
+					criterion: ""
+					id: "7B4DBECB46AA55FD"
+					type: "advancement"
+				}
+			]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:pink_surfboard" }
+			id: "6F0395FF0ED13A17"
+			rewards: [
+				{
+					id: "70A2D11804EA72FA"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:hang_ten"
+					criterion: ""
+					id: "5EFF08224CA5A7D9"
+					type: "advancement"
+				}
+			]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:elephant_spawn_egg" }
+			id: "4A3D9ADD8DC760A1"
+			rewards: [
+				{
+					id: "4E4326859539EA31"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:elephant"
+					criterion: ""
+					id: "23F2FE7339196C91"
+					type: "advancement"
+				}
+			]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4A3D9ADD8DC760A1"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:elephant_plush" }
+			id: "7E5AFDA029C7F892"
+			rewards: [
+				{
+					id: "0D6A37826F5F06EA"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:new_arrival"
+					criterion: ""
+					id: "1C794D20537CC1A2"
+					type: "advancement"
+				}
+			]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7E5AFDA029C7F892"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:elephant_plush" }
+			id: "29C25D6458E10532"
+			rewards: [
+				{
+					id: "690B5E7529ED4812"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:pocket_pal"
+					criterion: ""
+					id: "3BADD3F3F8FFBC11"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4A3D9ADD8DC760A1"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:melodite_bass" }
+			id: "6C62126A712E9261"
+			rewards: [
+				{
+					id: "453AC010EA211271"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:jam_session"
+					criterion: ""
+					id: "34ECBBB21F597BE7"
+					type: "advancement"
+				}
+			]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4A3D9ADD8DC760A1"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:elephant_painting" }
+			id: "6244826791829C5F"
+			rewards: [
+				{
+					id: "73192CF9D56872B4"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:trunk_art"
+					criterion: ""
+					id: "3E1FE8FF954EAAD5"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:blue_whale_plush" }
+			id: "2BA1682054ABF554"
+			rewards: [
+				{
+					id: "7320951C2C96C484"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:plush_pal"
+					criterion: ""
+					id: "04D15D8E14C870F6"
+					type: "advancement"
+				}
+			]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2BA1682054ABF554"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:ferris_wheel" }
+			id: "6314AA9C30395D20"
+			rewards: [
+				{
+					id: "3026F65D6C3C0DED"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:carnival_day"
+					criterion: ""
+					id: "149B176E4C4A8AEE"
+					type: "advancement"
+				}
+			]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2BA1682054ABF554"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:claw_machine" }
+			id: "276E4516636538BF"
+			rewards: [
+				{
+					id: "3F24F1D0C4FEDD74"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:claw_champion"
+					criterion: ""
+					id: "10D301E480C45D3D"
+					type: "advancement"
+				}
+			]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["276E4516636538BF", "6314AA9C30395D20"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:phantom_maestro_plush" }
+			id: "59A801942147AE82"
+			rewards: [
+				{
+					id: "5A04604486E39D97"
+					xp_levels: 10
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:plush_collector"
+					criterion: ""
+					id: "5B77763DC524463B"
+					type: "advancement"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["32FC7B8D492DC285"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:diva_jacket" }
+			id: "14B3361C891AAADE"
+			rewards: [
+				{
+					id: "1B46E33C203A4A47"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:diva"
+					criterion: ""
+					id: "2BE45D1B46CFCC35"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14B3361C891AAADE"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:runway_spotlight" }
+			id: "4164C90AD14E31C9"
+			rewards: [
+				{
+					id: "1DBA045C4A26B051"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:walk_the_walk"
+					criterion: ""
+					id: "3CAB1CF1C5599EDB"
+					type: "advancement"
+				}
+			]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4164C90AD14E31C9"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:runway_crown" }
+			id: "0563A3FA56A49877"
+			rewards: [
+				{
+					id: "7211EF03A30F6285"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:supermodel"
+					criterion: ""
+					id: "17EC840AB1D3C817"
+					type: "advancement"
+				}
+			]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0563A3FA56A49877"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:glam_cam" }
+			id: "25D302406A711C09"
+			rewards: [
+				{
+					id: "5DBE9DDCA67B62B7"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:cover_star"
+					criterion: ""
+					id: "318EE67D20F7A38C"
+					type: "advancement"
+				}
+			]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:yellow_bricks" }
+			id: "22A331C7423BCE44"
+			rewards: [
+				{
+					id: "771881E25AC23E4D"
+					xp: 200
+					type: "xp"
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					advancement: "emmasworld:yellow_brick_road"
+					criterion: ""
+					id: "6A9058170104D458"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["22A331C7423BCE44"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:ruby_heels" }
+			id: "5EA0ACB395F5B605"
+			rewards: [
+				{
+					id: "132DBF889C143819"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [
+				{
+					advancement: "emmasworld:over_the_rainbow"
+					criterion: ""
+					id: "085E4B4FFCAECA53"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["22A331C7423BCE44"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:emerald_spectacles" }
+			id: "1312057739AD00AF"
+			rewards: [
+				{
+					id: "6C9F23704D4DCA33"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:emerald_city"
+					criterion: ""
+					id: "6B1197112D262EC8"
+					type: "advancement"
+				}
+			]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5EA0ACB395F5B605"]
+			hide_until_deps_visible: true
+			icon: { id: "minecraft:emerald" }
+			id: "5C25373F753A4593"
+			rewards: [
+				{
+					id: "3A04D8827B087264"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:oz_friends"
+					criterion: ""
+					id: "6967A5D55CEF3CAF"
+					type: "advancement"
+				}
+			]
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["5EA0ACB395F5B605"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:medal_of_valour" }
+			id: "46AA1A82AC2C3F11"
+			rewards: [
+				{
+					id: "686BB22C56E97170"
+					xp_levels: 5
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:oz_quest_broom"
+					criterion: ""
+					id: "3569EC02CBFAFB38"
+					type: "advancement"
+				}
+			]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["46AA1A82AC2C3F11", "5C25373F753A4593"]
+			hide_until_deps_visible: true
+			icon: { id: "minecraft:emerald_block" }
+			id: "7D434B04DC6223B0"
+			rewards: [
+				{
+					count: 5
+					id: "3785DAFF57E9D4D1"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+				{
+					id: "4F09567CEBE12CEB"
+					xp_levels: 10
+					type: "xp_levels"
+				}
+			]
+			shape: "hexagon"
+			size: 1.25d
+			tasks: [
+				{
+					advancement: "emmasworld:oz_hero"
+					criterion: ""
+					id: "588F2E63F7376F86"
+					type: "advancement"
+				}
+			]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:pale_log" }
+			id: "01FAC5ADD7BD3CA1"
+			rewards: [
+				{
+					id: "0ECCC8262E5B6964"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:pale_hollow"
+					criterion: ""
+					id: "02E09AF8E9BB0D84"
+					type: "advancement"
+				}
+			]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["01FAC5ADD7BD3CA1"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:ghost_candle" }
+			id: "13A432095994CBAC"
+			rewards: [
+				{
+					id: "79D953E20F8F758E"
+					xp: 150
+					type: "xp"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:boo"
+					criterion: ""
+					id: "6762B1059D7E6295"
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["13A432095994CBAC"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:phantom_mask" }
+			id: "17A27377AFE69F36"
+			rewards: [
+				{
+					count: 3
+					id: "54D3B289B71913D6"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+				{
+					id: "7CF8CD1F22048FF8"
+					xp_levels: 10
+					type: "xp_levels"
+				}
+			]
+			tasks: [
+				{
+					advancement: "emmasworld:final_curtain"
+					criterion: ""
+					id: "74A9DBA3291C66DC"
+					type: "advancement"
+				}
+			]
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["31CAF339645C899F"]
+			hide_until_deps_visible: true
+			icon: { id: "emmasworld:runway_crown" }
+			id: "33339E63900E6D93"
+			rewards: [
+				{
+					id: "6BDAA661305CDC4B"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					id: "5B3F84A77F152CAD"
+					xp_levels: 15
+					type: "xp_levels"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					advancement: "emmasworld:world_tour"
+					criterion: ""
+					id: "04AD98DA5526A261"
+					type: "advancement"
+				}
+			]
+			x: 6.0d
+			y: -4.0d
+		}
+	]
+}

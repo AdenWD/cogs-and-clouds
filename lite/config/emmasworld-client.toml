@@ -1,0 +1,9 @@
+[encore]
+	#Audio delay calibration in milliseconds. Raise it if notes arrive before you hear them.
+	# Default: 0
+	# Range: -400 ~ 400
+	audioDelayMs = 0
+	#How fast the note highway scrolls (1.0 = normal).
+	# Default: 1.0
+	# Range: 0.6 ~ 1.8
+	noteSpeed = 1.0

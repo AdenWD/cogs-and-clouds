@@ -1,0 +1,8 @@
+name = "loconautics-0.1.2BETA"
+filename = "loconautics-0.1.2BETA.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/54bf0f1ce0-loconautics-0.1.2BETA.jar"
+hash-format = "sha256"
+hash = "789a0b652e0d32c6399c6dc1ef914d954820315f8a8fb795af87bb700e4d2fe7"

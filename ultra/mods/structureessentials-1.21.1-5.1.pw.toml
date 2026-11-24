@@ -1,0 +1,8 @@
+name = "structureessentials-1.21.1-5.1"
+filename = "structureessentials-1.21.1-5.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/03ec260f12-structureessentials-1.21.1-5.1.jar"
+hash-format = "sha256"
+hash = "5f18930f7c76dff89dce9837ef3a048b202bf5c942777fb0527311923e01e16f"

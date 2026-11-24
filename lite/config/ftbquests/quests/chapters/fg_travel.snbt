@@ -1,0 +1,122 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fg_travel"
+	group: "24C2771116E58928"
+	icon: {
+		id: "waystones:waystone"
+	}
+	id: "499725A790A65C81"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "51BEF5868332F45D"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "752E281DB9BB727F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51BEF5868332F45D"]
+			id: "52CC64D51F67A99D"
+			rewards: [{
+				id: "4F180DB158539A62"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5C8408AF72044D50"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["51BEF5868332F45D"]
+			id: "1F56979B2E99898C"
+			rewards: [{
+				id: "2BB9AE72B7817458"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "399B54A4AC2A6C00"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["51BEF5868332F45D"]
+			id: "5FD5513F3E74643E"
+			tasks: [{
+				id: "670F4F4EF0C93C05"
+				item: { count: 1, id: "waystones:warp_scroll" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1F56979B2E99898C"]
+			id: "77F5201C59D2A08A"
+			tasks: [{
+				id: "5FA0BF513FC07BFC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["52CC64D51F67A99D"]
+			id: "21AE6AD13071F9A5"
+			rewards: [{
+				id: "7339F789EF7EAADA"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "414D3C71F1DFFE76"
+				item: { count: 1, id: "aeronauticadditions:player_compass" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FD5513F3E74643E"]
+			id: "57BD6222DBCE5244"
+			rewards: [{
+				id: "753CE7E1577E1A0E"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "1A09C2E8F871B710"
+				item: { count: 1, id: "sophisticatedstorage:chest" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57BD6222DBCE5244"]
+			id: "3E52C39AFDA45822"
+			tasks: [{
+				id: "22BE8342791CC349"
+				item: { count: 1, id: "supplementaries:sack" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+	]
+}

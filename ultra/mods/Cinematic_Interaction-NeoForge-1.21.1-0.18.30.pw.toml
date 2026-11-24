@@ -1,0 +1,8 @@
+name = "Cinematic Interaction-NeoForge-1.21.1-0.18.30"
+filename = "Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/6ce24a0d4e-Cinematic_Interaction-NeoForge-1.21.1-0.18.30.jar"
+hash-format = "sha256"
+hash = "4a6bb18685bb8adbd2ee08a242b08088dbd5d9ddf0bf1c3d140269107ba4d7c5"

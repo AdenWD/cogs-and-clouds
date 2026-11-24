@@ -1,0 +1,13 @@
+name = "Enchanced Harness"
+filename = "Enchanced Harness.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TbW09vCS/versions/FqnJoY70/Enchanced%20Harness.zip"
+hash-format = "sha512"
+hash = "61a31ca97cf84bb1297c836d01e8e1808fd038c689d43ffc927376e519a7f5acce1aaa902e561344b7199fffbe157e02015fed6f123967ab892a4761d5f1cb30"
+
+[update]
+[update.modrinth]
+mod-id = "TbW09vCS"
+version = "FqnJoY70"

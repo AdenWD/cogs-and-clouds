@@ -1,0 +1,13 @@
+name = "Enchanced Armors"
+filename = "Enchanced Armors.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JDFVwJTv/versions/JrJohLEj/Enchanced%20Armors.zip"
+hash-format = "sha512"
+hash = "36c2c9445c54dd72b4b7495c12d7c6f2321ab67a7bd081a7045416e3f46ce42a2c2f7aabd778e763c58ba5096f065c0e1de872379f53af02a6b05abc36aa6974"
+
+[update]
+[update.modrinth]
+mod-id = "JDFVwJTv"
+version = "JrJohLEj"

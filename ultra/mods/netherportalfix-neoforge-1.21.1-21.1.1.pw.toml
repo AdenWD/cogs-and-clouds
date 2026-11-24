@@ -1,0 +1,8 @@
+name = "netherportalfix-neoforge-1.21.1-21.1.1"
+filename = "netherportalfix-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/7cf40ec774-netherportalfix-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha256"
+hash = "c1077de0c7f1ff5289d1852e0674d9c477247d4318c9809b21c60e56a31ae31a"

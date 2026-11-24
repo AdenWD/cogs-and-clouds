@@ -1,0 +1,29 @@
+[
+  {
+    "file": "C:\\Users\\Aden\\AppData\\Roaming\\PrismLauncher\\instances\\Cogs \u0026 Clouds - Ultra\\minecraft\\schematics\\kute kawwai house red-from-abfielder (swapped) (2).litematic",
+    "name": "kute kawwai house red-from-abfielder (swapped) (2)",
+    "dimension": "minecraft:overworld",
+    "originX": 58,
+    "originY": 133,
+    "originZ": -9,
+    "rotation": "NONE",
+    "mirror": "NONE",
+    "visible": true,
+    "showFilter": "TODO",
+    "sliceEnabled": false,
+    "sliceAxis": "Y",
+    "sliceLevel": 0,
+    "sliceThickness": 1,
+    "focusOnly": false,
+    "ignoreAir": false,
+    "worldSign": {
+      "seed": 6657042875515943882,
+      "flat": false,
+      "seaLevel": 63,
+      "age": 11706,
+      "ageAt": 1793940377,
+      "spawn": "0,85,0"
+    },
+    "worldSignConfirmed": false
+  }
+]

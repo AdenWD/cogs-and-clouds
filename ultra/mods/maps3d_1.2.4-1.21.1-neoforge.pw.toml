@@ -1,0 +1,8 @@
+name = "maps3d_1.2.4-1.21.1-neoforge"
+filename = "maps3d_1.2.4-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/0a8cde4af5-maps3d_1.2.4-1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "4d8028c8392b1a65f4e3af9bfec4d081bea3ba8785b63597a9a5c17e088f7f35"

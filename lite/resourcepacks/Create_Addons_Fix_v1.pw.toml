@@ -1,0 +1,8 @@
+name = "Create_Addons_Fix_v1"
+filename = "Create_Addons_Fix_v1.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/095c0a15c3-Create_Addons_Fix_v1.zip"
+hash-format = "sha256"
+hash = "e3bf87dae98e449a3fe2ceb11b6dd9f24d72b4cbde61a1c9c05c341f1cef41dd"

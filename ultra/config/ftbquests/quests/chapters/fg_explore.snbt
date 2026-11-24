@@ -1,0 +1,104 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fg_explore"
+	group: "24C2771116E58928"
+	icon: {
+		id: "minecraft:filled_map"
+	}
+	id: "4EE1B5C39AC82679"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5955AB465B97E89A"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "5F3CA4EF2ED513E6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5955AB465B97E89A"]
+			id: "5573B0F2903E2473"
+			tasks: [{
+				id: "7CB0EE2C3921AA35"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5955AB465B97E89A"]
+			id: "16D60D5C12BB7EDD"
+			rewards: [{
+				id: "1555A454BE79958F"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "29AB830E539C858A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5955AB465B97E89A"]
+			id: "15D22EFBFDD65E00"
+			tasks: [{
+				id: "702D036ADAD6DE76"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["16D60D5C12BB7EDD"]
+			id: "6FFBA7513D9718F9"
+			rewards: [{
+				id: "6D9590203870371A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "443EBCC65B8AC2B0"
+				item: { count: 1, id: "alterna:blank_rift_map" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["16D60D5C12BB7EDD"]
+			id: "5938A5F972344066"
+			tasks: [{
+				id: "3172A87C76970A9A"
+				item: { count: 1, id: "minecraft:pale_oak_log" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["16D60D5C12BB7EDD"]
+			id: "6F22B3ABB9BD897D"
+			rewards: [{
+				id: "2BD5E30CB0A0C907"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "14557B3CED727565"
+				item: { count: 1, id: "minecraft:dried_ghast" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+}

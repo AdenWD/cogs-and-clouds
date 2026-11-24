@@ -1,0 +1,8 @@
+name = "MetalUpscaler-neoforge-0.5.0+mc1.21.1"
+filename = "MetalUpscaler-neoforge-0.5.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/4e1b5843b4-MetalUpscaler-neoforge-0.5.0_mc1.21.1.jar"
+hash-format = "sha256"
+hash = "30168fb9ca7b303504c1b61fbf84a16648cfed6896f76144c46e46ad0bf0564e"

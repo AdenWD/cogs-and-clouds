@@ -1,0 +1,13 @@
+name = "Patrix_1.21_32x_addon"
+filename = "Patrix_1.21_32x_addon.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/olO1TaXd/versions/iBo0eCWB/Patrix_1.21_32x_addon.zip"
+hash-format = "sha512"
+hash = "780ab336176f913e29cfc92d04a17ebe0012a9f53193715b612cca829100999738b3497f59129c9dc7f9834e4e2bd3132702e5cec33978737a97825d068a7724"
+
+[update]
+[update.modrinth]
+mod-id = "olO1TaXd"
+version = "iBo0eCWB"

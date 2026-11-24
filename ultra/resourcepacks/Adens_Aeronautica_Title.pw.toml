@@ -1,0 +1,8 @@
+name = "Adens Aeronautica Title"
+filename = "Adens Aeronautica Title.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/d65de71c66-Adens_Aeronautica_Title.zip"
+hash-format = "sha256"
+hash = "8bb6b4d3f8d3d6bc5afc1808d02a92fa4f7d109efb4206460ee7c156f476444b"

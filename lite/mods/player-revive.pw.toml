@@ -1,0 +1,13 @@
+name = "simple-revive-3.3"
+filename = "simple-revive-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x1IFRoPF/versions/BLIFFV41/simple-revive-3.3.jar"
+hash-format = "sha512"
+hash = "18099c0926243c2bb309e8854cbacb1a9084d79d700c82dc091d33ce1fd616926aa3ceb0add4d9cb0dbc0704f82aae90231006a6394c2e33b7cdc3b66408f4ed"
+
+[update]
+[update.modrinth]
+mod-id = "x1IFRoPF"
+version = "BLIFFV41"

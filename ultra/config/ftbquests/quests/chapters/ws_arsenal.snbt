@@ -1,0 +1,277 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ws_arsenal"
+	group: "7F608EB181590FA9"
+	icon: {
+		id: "tacz:gun_smith_table"
+	}
+	id: "7358E41E2F7F7F91"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "14B4B8F9DA7226DB"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6F895884F9F268FF"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14B4B8F9DA7226DB"]
+			id: "44DE09A64AA49C65"
+			rewards: [{
+				id: "32DEDE665372F63E"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "3B5AC8D7797584E0"
+				item: { count: 1, id: "tacz:gun_smith_table" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44DE09A64AA49C65"]
+			id: "4A9276FBECC791E3"
+			rewards: [{
+				id: "57553FE941CCEDD8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5D1FCF657A64D499"
+				item: { components: { "minecraft:custom_data": { GunId: "tacz:ak47" } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["44DE09A64AA49C65"]
+			id: "49BE1F452243A6D4"
+			rewards: [{
+				id: "72D142FC864EB605"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "70E883548DBD6609"
+				item: { components: { "minecraft:custom_data": { AmmoId: "tacz:762x39" } }, count: 1, id: "tacz:ammo" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4A9276FBECC791E3"]
+			id: "19165EB7A891CC76"
+			rewards: [{
+				id: "790957C3F1DE326F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "6796428ED9DA3BE8"
+				item: { components: { "minecraft:custom_data": { AttachmentId: "tacz:sight_sro_dot" } }, count: 1, id: "tacz:attachment" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["49BE1F452243A6D4"]
+			id: "47EBB983C9D95271"
+			rewards: [{
+				id: "768F69A554202402"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "67AA3D6770E3FC87"
+				item: { count: 1, id: "tacz:target" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4A9276FBECC791E3" "49BE1F452243A6D4"]
+			id: "4E369D8AA5C5416B"
+			rewards: [{
+				id: "470EE9C69DDC1648"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				entity: "minecraft:pillager"
+				id: "56A257AC304F0721"
+				type: "kill"
+				value: 10L
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14B4B8F9DA7226DB"]
+			id: "3932F77A22C81793"
+			rewards: [{
+				id: "112998C445C0DAEE"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "62B5C0E3157F5A21"
+				item: { count: 1, id: "cbc_at:he_item" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3932F77A22C81793"]
+			id: "616ACD2323FD3463"
+			rewards: [{
+				id: "4C27D46273611F94"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "420F3C06CD13F704"
+				item: { count: 1, id: "cbc_at:wrought_iron_medium_rocket_rail" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3932F77A22C81793"]
+			id: "467104DD78D082F3"
+			tasks: [{
+				id: "19D9C2773F5BDCE1"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14B4B8F9DA7226DB"]
+			id: "7A2F6EC8E2CC7A01"
+			rewards: [{
+				id: "2EA142BE362214F1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "440416018DEEF62F"
+				item: { count: 1, id: "create_radar:binoculars" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7A2F6EC8E2CC7A01"]
+			id: "2132BEA65A917900"
+			rewards: [{
+				id: "1D6F7BC9C5652EFB"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7A7136681F3723B2"
+				item: { count: 1, id: "create_radar:radar_bearing" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2132BEA65A917900"]
+			id: "356BF13BB248105B"
+			rewards: [{
+				id: "366C6CA930512F6A"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "149BCBB8D81F6A5D"
+				item: { count: 1, id: "create_radar:monitor" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2132BEA65A917900"]
+			id: "1EA9D5721CE081D3"
+			rewards: [{
+				id: "69F4FF787EF70F16"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6FBD233083B28458"
+				item: { count: 1, id: "create_radar:fire_controller" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1EA9D5721CE081D3" "356BF13BB248105B"]
+			id: "516F100FB4DE4A63"
+			rewards: [{
+				id: "382C171EE9AEEDDA"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7D2988561DC75344"
+				item: { count: 1, id: "cbcaeronauticsmissiles:rocket_motor" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["516F100FB4DE4A63"]
+			id: "67E75549794050ED"
+			rewards: [{
+				id: "3AAA2E86AFB6577D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5159E96EB1FC74CE"
+				item: { count: 1, id: "cbcaeronauticsmissiles:guidance_computer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["516F100FB4DE4A63"]
+			id: "38541B73276CD7DD"
+			rewards: [{
+				id: "7462CC303596B63B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "2441D11142A7DEA6"
+				item: { count: 1, id: "cbcaeronauticsmissiles:missile_mount" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+	]
+}

@@ -1,0 +1,8 @@
+name = "WWOO v2.6.0 (Larion-compatible)"
+filename = "WWOO v2.6.0 (Larion-compatible).zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/ab299d4bd6-WWOO_v2.6.0_Larion-compatible_.zip"
+hash-format = "sha256"
+hash = "ab299d4bd6177d3c70012c8efc25f63aaca10b628f2e079bb83fdfef55aef70f"

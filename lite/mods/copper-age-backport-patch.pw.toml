@@ -1,0 +1,13 @@
+name = "copper_age_patch-neoforge-1.21.1-1.2.1"
+filename = "copper_age_patch-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Gz003Sy/versions/eHUXW6k7/copper_age_patch-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "bbd571e7ad2522ff080d8703960fd41e8b16e32d506117357fbb1b80c006047b09bec1e5331727032da7f7980dc297b5c7446dd9baac974f0052d8f7a347eb49"
+
+[update]
+[update.modrinth]
+mod-id = "4Gz003Sy"
+version = "eHUXW6k7"

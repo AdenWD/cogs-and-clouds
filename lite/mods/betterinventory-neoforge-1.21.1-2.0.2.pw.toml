@@ -1,0 +1,8 @@
+name = "betterinventory-neoforge-1.21.1-2.0.2"
+filename = "betterinventory-neoforge-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/4edd583ea1-betterinventory-neoforge-1.21.1-2.0.2.jar"
+hash-format = "sha256"
+hash = "91425c95fbc6dbf75699d983aedf367b5af2a1c17a0341c08ab690027945ddb1"

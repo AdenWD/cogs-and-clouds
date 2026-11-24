@@ -1,0 +1,8 @@
+name = "ftb-quests-neoforge-2101.1.37"
+filename = "ftb-quests-neoforge-2101.1.37.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/770938e590-ftb-quests-neoforge-2101.1.37.jar"
+hash-format = "sha256"
+hash = "6b42457d680108d0af5b8deb21e3fe7b92138209f0683c62441dc360d4fc01d5"

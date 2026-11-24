@@ -1,0 +1,8 @@
+name = "Mizunos 16 Craft JE_1.20.4-1.0_230105"
+filename = "Mizunos 16 Craft JE_1.20.4-1.0_230105.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/53d6efbee8-Mizunos_16_Craft_JE_1.20.4-1.0_230105.zip"
+hash-format = "sha256"
+hash = "fc2ef5c6164b35f9ae5244451b9519198bb56ed8d078d8dd60add762640eb0ec"

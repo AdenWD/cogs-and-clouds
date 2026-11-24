@@ -1,0 +1,8 @@
+name = "WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT"
+filename = "WorldEditCUI-NeoForge-1.21.1+01-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/f7da1947a4-WorldEditCUI-NeoForge-1.21.1_01-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "8149c95c8bc192c5472fb9002429a57e0e2a1d24685041b370e83bb887f583df"

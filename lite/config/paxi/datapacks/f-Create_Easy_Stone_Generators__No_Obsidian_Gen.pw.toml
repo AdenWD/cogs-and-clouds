@@ -1,0 +1,8 @@
+name = "Create_Easy_Stone_Generators_ No_Obsidian_Gen"
+filename = "Create_Easy_Stone_Generators_ No_Obsidian_Gen.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/e5e4ed16c9-Create_Easy_Stone_Generators__No_Obsidian_Gen.zip"
+hash-format = "sha256"
+hash = "e5e4ed16c92f5fc5299ee9a7a6a8c9a4532a2b1aca4f8e79ca72b0af4f1367c2"

@@ -1,0 +1,13 @@
+name = "Autumnpack 3.0 1.21.1"
+filename = "Autumnpack 3.0 1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/813CJBwg/versions/Yt2fEUxw/Autumnpack%203.0%201.21.1.zip"
+hash-format = "sha512"
+hash = "4e220f4220eb47bc35527d9b66760e8275978a5c29fc1893f72eca32f4dad5d472d77fd224bfc9c382ac792b32438b72e621a2900f9c3fb9b1122102bf4fe6ad"
+
+[update]
+[update.modrinth]
+mod-id = "813CJBwg"
+version = "Yt2fEUxw"

@@ -1,0 +1,8 @@
+name = "casters_gauntlet-1.21.1-1.2.1"
+filename = "casters_gauntlet-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/677de47c41-casters_gauntlet-1.21.1-1.2.1.jar"
+hash-format = "sha256"
+hash = "22b63aa478298b26b88a6f81318b2757803312447f3e388cf12a7b9468f596c3"

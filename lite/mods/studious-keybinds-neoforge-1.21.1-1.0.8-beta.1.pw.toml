@@ -1,0 +1,8 @@
+name = "studious-keybinds-neoforge-1.21.1-1.0.8-beta.1"
+filename = "studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/774dae2a81-studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
+hash-format = "sha256"
+hash = "d9597fbe4da62e9a0a88e7dacd951ac9bb8425806ec73d8be64ed9f8e6057414"

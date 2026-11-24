@@ -1,0 +1,13 @@
+name = "crampedness-1.21.1-neoforge-1.1.6"
+filename = "crampedness-1.21.1-neoforge-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HNIOnMdJ/versions/HWpwkTdA/crampedness-1.21.1-neoforge-1.1.6.jar"
+hash-format = "sha512"
+hash = "55c583f74dbbe80acac6c98afd196c2c3cc627bf2c25b213101441002dcce6c38f7e6774ce37bccda700d5491e03211d3225889bb74d3b59125df01074a4813d"
+
+[update]
+[update.modrinth]
+mod-id = "HNIOnMdJ"
+version = "HWpwkTdA"

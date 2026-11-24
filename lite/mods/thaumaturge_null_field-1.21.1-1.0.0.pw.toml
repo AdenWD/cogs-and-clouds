@@ -1,0 +1,8 @@
+name = "thaumaturge_null_field-1.21.1-1.0.0"
+filename = "thaumaturge_null_field-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/ce4275a81c-thaumaturge_null_field-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "e24b78f930ae2364697fc088b8de0f6db3dded05d9b80f271fc466b28f8b135a"

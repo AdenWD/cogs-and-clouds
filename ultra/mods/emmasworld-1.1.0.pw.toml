@@ -1,0 +1,8 @@
+name = "emmasworld-1.1.0"
+filename = "emmasworld-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/5094d3fc6d-emmasworld-1.1.0.jar"
+hash-format = "sha256"
+hash = "f29cab9dea1264ff6f6419a2a812b288bc3bbb30f2cc0e6735addfab5206eafe"
