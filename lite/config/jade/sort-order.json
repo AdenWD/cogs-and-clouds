@@ -21,6 +21,8 @@
   "createfood:storage_item_entity": null,
   "createthrusters:smart_battery_energy": null,
   "createthrusters:thruster_resources": null,
+  "framedblocks:framed_block_generic": null,
+  "framedblocks:framed_item_frame": null,
   "ftbquests:barrier": null,
   "jade:block_face": null,
   "jade:block_properties": null,
@@ -101,5 +103,11 @@
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
   "supplementaries:safe": null,
+  "thaumaturge:block_details": null,
+  "thaumaturge:golem": null,
+  "thaumaturge:machine_icon": null,
+  "thaumaturge:node": null,
+  "thaumic_aeronautics:block_details": null,
+  "underlay:overlay": null,
   "waystones:waystone": null
 }

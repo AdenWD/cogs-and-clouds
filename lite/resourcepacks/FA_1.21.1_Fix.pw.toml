@@ -1,0 +1,8 @@
+name = "FA 1.21.1 Fix"
+filename = "FA 1.21.1 Fix.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/37e4cbef29-FA_1.21.1_Fix.zip"
+hash-format = "sha256"
+hash = "a42ee6ea558986dcef90e1ad1e9574a55d982673cd12b77e87c8f15159c9bcbd"

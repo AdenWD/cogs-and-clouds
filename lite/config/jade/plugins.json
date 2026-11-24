@@ -1,4 +1,8 @@
 {
+  "framedblocks": {
+    "framed_item_frame": true,
+    "framed_block_generic": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -77,6 +81,41 @@
   "ftbquests": {
     "barrier": true
   },
+  "thaumaturge": {
+    "display.everfull_urns": "GOGGLES",
+    "display.crystalizers": "GOGGLES",
+    "display.tubes": "GOGGLES",
+    "display.node_transducers": "GOGGLES",
+    "display.golem_builders": "GOGGLES",
+    "display.void_siphons": "GOGGLES",
+    "display.reservoirs": "GOGGLES",
+    "display.focal_manipulators": "GOGGLES",
+    "display.flux_scrubbers": "GOGGLES",
+    "display.valves": "GOGGLES",
+    "display.crucibles": "GOGGLES",
+    "display.one_way_tubes": "GOGGLES",
+    "display.centrifuges": "GOGGLES",
+    "display.restricted_tubes": "GOGGLES",
+    "display.brain_jars": "GOGGLES",
+    "display.smelters": "GOGGLES",
+    "display.mirrors": "GOGGLES",
+    "display": true,
+    "display.nodes": "GOGGLES",
+    "display.advanced_alchemical_furnaces": "GOGGLES",
+    "display.thaumatoriums": "GOGGLES",
+    "display.jars": "GOGGLES",
+    "display.essentia_mirrors": "GOGGLES",
+    "display.vis_relays": "GOGGLES",
+    "display.spas": "GOGGLES",
+    "display.buffers": "GOGGLES",
+    "display.filter_tubes": "GOGGLES",
+    "display.alembics": "GOGGLES",
+    "display.infernal_furnaces": "GOGGLES",
+    "display.golems": "GOGGLES",
+    "display.potion_sprayers": "GOGGLES",
+    "display.deconstruction_tables": "GOGGLES",
+    "machine_icon": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -87,6 +126,9 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "underlay": {
+    "overlay": true
   },
   "balm": {
     "jade": true
@@ -99,6 +141,9 @@
   },
   "jadeaddons.lootr": {
     "info": true
+  },
+  "thaumic_aeronautics": {
+    "block_details": true
   },
   "quark": {
     "oretoise_eating_cooldown": true
