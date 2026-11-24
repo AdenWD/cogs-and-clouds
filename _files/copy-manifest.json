@@ -504,13 +504,6 @@
   "size": 2962362
  },
  {
-  "dst": "_files/daac9139ff-emmasworld-1.1.0.jar",
-  "variant": "Lite",
-  "src": "mods/emmasworld-1.1.0.jar",
-  "sha256": "7923789a297d455b558ab27ddc4a8ec3548ac190a9cd6403715ec02fcf498fd9",
-  "size": 19254756
- },
- {
   "dst": "_files/e404c3d1e7-Aoc_Core_1.21_v2.jar",
   "variant": "Ultra",
   "src": "mods/Aoc_Core_1.21_v2.jar",
