@@ -4739,8 +4739,13 @@ hash = "6a2a057357644610b53617b0a2c04904cc3c9f00f84ffdc5f5eee966d65bc1c5"
 metafile = true
 
 [[files]]
+file = "mods/veil-bonk.pw.toml"
+hash = "bd32e007957af3cea05aa347556b4852b4b59a5e5dcd6a459723777be7ed721f"
+metafile = true
+
+[[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "3fe2a78ef1a98cecb380afac8bd2489193e0d61bc90b156c4627139c013cc03f"
+hash = "b36dd5e57e0d82acbdaafdb0ab937142b96bb5caf24123c6e2c0c4406990089a"
 metafile = true
 
 [[files]]
