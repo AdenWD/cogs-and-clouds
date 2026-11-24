@@ -308,6 +308,13 @@
   "size": 6786784
  },
  {
+  "dst": "_files/743b05c28e-create_submarine-3.4.8.jar",
+  "variant": "Ultra",
+  "src": "mods/create_submarine-3.4.8.jar",
+  "sha256": "94dad1d9a0e9a63335fdc3b0c8e71af6b3fbd69837ef34c7cbf4592a31b651fe",
+  "size": 12435860
+ },
+ {
   "dst": "_files/75702ec0b2-tacz_aero_compat-1.9.0.jar",
   "variant": "Ultra",
   "src": "mods/tacz_aero_compat-1.9.0.jar",

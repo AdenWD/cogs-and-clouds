@@ -1035,7 +1035,7 @@ hash = "1b7e66e9ffe6e805f1e5a40069b874e15fcf51a9e6f73e678ca9074cd3bd7253"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b630ba17177d5536c7633b68653c38ecea60ab619c3f8eacadfaede3a1da14b0"
+hash = "14ecd5463e067cc4a53f8adab87e129c90f570fddd15db37f49aac923549f768"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -1159,7 +1159,7 @@ hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
 
 [[files]]
 file = "config/fancymenu/customization/all_of_create.txt"
-hash = "023484e1c34f08e86df19fae5e8d41779a3e0040376b3c0c1002ab7dd1a6f03a"
+hash = "6304a61e0c274e88d8bc7d6dff14f88b173635e35379bf6a60b68100fc5a6ae0"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -1587,7 +1587,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a25cb1555fd687253671dda2cf07119f316eb3f07d95072d72eff9bd17ca6da3"
+hash = "8627bad4bcb12690bbf93ba79d91c71ca7390f90f886675efde1ea0576d5f00e"
 preserve = true
 
 [[files]]
@@ -1961,7 +1961,7 @@ hash = "fab13847ea71c596e329391bccb48f31695cf589e78b6d77a6410d1b5bbf1d9e"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "313b0314a1ef3e4dbd67be748258a0bf5f23e99f2367598d6bf76f772527abdd"
+hash = "714370ec02569d785b178463667953be9754b8c010e7ed20f94cccbd90e0d539"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -2695,7 +2695,7 @@ hash = "31e78df15ea394de05862d3b24c5031ea3eddf102cd117834f62acd3491314e6"
 
 [[files]]
 file = "config/voxelsprout/report.json"
-hash = "adcf11174fab1a9f20269b237650a150ab2e659abe1004ff0f99a4d675b3e9ef"
+hash = "553de9c03b7d3776cba0a6d01c3634b1459a082bb3f928218cef24515fd8a404"
 
 [[files]]
 file = "config/voxelsprout/saves.json"
@@ -3429,11 +3429,6 @@ hash = "b10f2bbcd43ba06ad2258f8c489e12115c82d8927a6789d5ef7cbdbf49eb870c"
 metafile = true
 
 [[files]]
-file = "mods/create-deep-seas.pw.toml"
-hash = "dfc0e060a845c727d32e48f7ec9fdc6a219f2d6ffd14b5740537f53b1d0af83c"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "4cf13a3f5e109672ce19fdc9763a1bfdcb191df1fd222fb05469575e0f929563"
 metafile = true
@@ -3621,6 +3616,11 @@ metafile = true
 [[files]]
 file = "mods/create_connected-1.3.3-mc1.21.1.pw.toml"
 hash = "cc9a4d502952d2172363f16ad586ab395cba6fa8a733c3573a27d9c1182bec27"
+metafile = true
+
+[[files]]
+file = "mods/create_submarine-3.4.8.pw.toml"
+hash = "694fc3518c370210877d33f7d2a81b0eba00d0763cf7fa81c0147023d19df356"
 metafile = true
 
 [[files]]
@@ -6605,7 +6605,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/f-BSL_v10.1.8_Clrwl_1.0.5.zip.pw.toml"
-hash = "24fe76cd90a8745816ba97e52cb4226c44fd1b2787d153c9b3c45cfc3667bc2c"
+hash = "4ab01bccd347d7f9cdd05639db8a49658bb3bc494217dd9aeb96361b00f412ba"
 metafile = true
 preserve = true
 

@@ -30,7 +30,7 @@ menu_background {
   background_type = image
   show_background = true
   image_path = [source:local]/config/fancymenu/assets/bg.png
-  slide = true
+  slide = false
   repeat_texture = false
   parallax = false
   parallax_intensity_x = 0.02
@@ -457,13 +457,10 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = ac8edc73-011e-40ea-8301-c30a3a7293d7-1708445839848
   [executable_block:ac8edc73-011e-40ea-8301-c30a3a7293d7-1708445839848][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/q.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/qh.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 229f2e34-7b37-41c4-baba-6115907c64e0-1736689828193
   [loading_requirement_container_meta:229f2e34-7b37-41c4-baba-6115907c64e0-1736689828193] = [groups:][instances:]
@@ -703,13 +700,10 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = ca4b6db5-c923-4a3c-a7b0-c1c9cfe214b3-1708445839848
   [executable_block:ca4b6db5-c923-4a3c-a7b0-c1c9cfe214b3-1708445839848][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/o.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/oh.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 05af8fb2-e331-4298-a6df-8efd6425da2b-1736689828193
   [loading_requirement_container_meta:05af8fb2-e331-4298-a6df-8efd6425da2b-1736689828193] = [groups:][instances:]
@@ -787,14 +781,10 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 5eb4faaa-2fb0-487e-94e2-c17d3e425f47-1708445839848
   [executable_block:5eb4faaa-2fb0-487e-94e2-c17d3e425f47-1708445839848][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/mp.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/mph.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/mp.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 661cbd45-aa7c-44a8-9e3c-8973f72b352f-1736689828193
   [loading_requirement_container_meta:661cbd45-aa7c-44a8-9e3c-8973f72b352f-1736689828193] = [groups:][instances:]
@@ -872,14 +862,10 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 8a98e261-361e-4646-88f5-d1968ada8887-1708445839848
   [executable_block:8a98e261-361e-4646-88f5-d1968ada8887-1708445839848][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/s.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/sh.png
-  background_texture_inactive = [source:local]/config/fancymenu/assets/s.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = 1a1c9a38-b1b0-4d68-90c3-1c67c747ad48-1736689828193
   [loading_requirement_container_meta:1a1c9a38-b1b0-4d68-90c3-1c67c747ad48-1736689828193] = [groups:][instances:]
@@ -1200,13 +1186,10 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = e754c996-6b80-4b45-97e8-2c963d88fc27-1708445839848
   [executable_block:e754c996-6b80-4b45-97e8-2c963d88fc27-1708445839848][type:generic] = [executables:]
-  backgroundnormal = [source:local]/config/fancymenu/assets/m.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/mh.png
   underline_label_on_hover = false
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = 
   navigatable = true
   widget_active_state_requirement_container_identifier = e9a7a950-b2ac-4745-88b7-7a166ec8fce7-1736689828193
   [loading_requirement_container_meta:e9a7a950-b2ac-4745-88b7-7a166ec8fce7-1736689828193] = [groups:][instances:]

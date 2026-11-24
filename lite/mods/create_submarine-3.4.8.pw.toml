@@ -1,0 +1,8 @@
+name = "create_submarine-3.4.8"
+filename = "create_submarine-3.4.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/743b05c28e-create_submarine-3.4.8.jar"
+hash-format = "sha256"
+hash = "94dad1d9a0e9a63335fdc3b0c8e71af6b3fbd69837ef34c7cbf4592a31b651fe"
