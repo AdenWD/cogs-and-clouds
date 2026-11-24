@@ -1,0 +1,8 @@
+name = "rubberworks-neoforge-1.21.1-1.1.4"
+filename = "rubberworks-neoforge-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/46e02861fe-rubberworks-neoforge-1.21.1-1.1.4.jar"
+hash-format = "sha256"
+hash = "0ca7456aac4ee6fdd84692cbef311eab25fd799a4b2c6c9323f0665d4b718c98"

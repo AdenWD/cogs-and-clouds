@@ -3554,11 +3554,6 @@ hash = "2bc2aad3f94d75106367bd5caea5dbdf1a6027f98b57f402b041cb159ed0c5cc"
 metafile = true
 
 [[files]]
-file = "mods/create-rubberworks.pw.toml"
-hash = "69f6b43d8d3f0e43aa9462ab59d953fcc9410cb0ada7d52eda96fae46b2ad189"
-metafile = true
-
-[[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "a9b62512aa993599fa3b5a8b344df8f766a237b6c91fa6ff35c1faa0d8989d7d"
 metafile = true
@@ -4476,6 +4471,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "8536e55599bc1b8cc7f70e6cad1cc7b4d60944f328161f91dcc482fd872ec16f"
+metafile = true
+
+[[files]]
+file = "mods/rubberworks-neoforge-1.21.1-1.1.4.pw.toml"
+hash = "80b266779c8d31828b29cbe9f3ea3a8a1469badc5a050b6e3311a8755877d542"
 metafile = true
 
 [[files]]
