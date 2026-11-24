@@ -203,13 +203,6 @@
   "size": 1309878
  },
  {
-  "dst": "_files/5094d3fc6d-emmasworld-1.1.0.jar",
-  "variant": "Ultra",
-  "src": "mods/emmasworld-1.1.0.jar",
-  "sha256": "f29cab9dea1264ff6f6419a2a812b288bc3bbb30f2cc0e6735addfab5206eafe",
-  "size": 19254860
- },
- {
   "dst": "_files/53d6efbee8-Mizunos_16_Craft_JE_1.20.4-1.0_230105.zip",
   "variant": "Lite",
   "src": "resourcepacks/Mizunos 16 Craft JE_1.20.4-1.0_230105.zip",
@@ -505,7 +498,7 @@
  },
  {
   "dst": "_files/daac9139ff-emmasworld-1.1.0.jar",
-  "variant": "Lite",
+  "variant": "Ultra",
   "src": "mods/emmasworld-1.1.0.jar",
   "sha256": "7923789a297d455b558ab27ddc4a8ec3548ac190a9cd6403715ec02fcf498fd9",
   "size": 19254756
