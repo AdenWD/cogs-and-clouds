@@ -763,7 +763,7 @@ hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "8691c5baa545961eb4dae9beb62b2ca3286fe4f8d04d75d6f214881fa6418c19"
+hash = "2c34fda94df456127effb705eebd45c1e0ff14dbc6179b815720883ec5d41a0e"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -795,7 +795,7 @@ hash = "1b7e66e9ffe6e805f1e5a40069b874e15fcf51a9e6f73e678ca9074cd3bd7253"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "18851eb0837210fb634e5caa8a5bcf0020bb7f26dab763451a4885859817c6e7"
+hash = "0ee126c0a22102e1584a2328b0ebb2feb36861aa674afcdbd3cd6dc4e21b6c65"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -1327,7 +1327,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5c58dec96a33c46823e63ae8cfdf1ec6eabbb07e4cd7b3cb2eaa94c84316919b"
+hash = "d56136e78d65580b0734310725c8b14015744215d4021f68c8d023640068cddf"
 
 [[files]]
 file = "config/irisSearchSettings.toml"
@@ -1691,7 +1691,7 @@ hash = "fd921111beb9f9180689a70acab31e61581ff9418886f39c0aad08fdcef08ce6"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d214d42792eb10138f14b7c25cc0d22d6959b014a3a035e864921366be65bd91"
+hash = "b68bfeea503883a4bc4143072eb1c9fd5c1150e8d05c4e2715897a8fad645c56"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -2081,6 +2081,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
+preserve = true
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -4354,6 +4355,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "7055cd6d462db255c62ad62b5e7da934aea37e217f5a79d5eec6ae906b3e838d"
+preserve = true
 
 [[files]]
 file = "resourcepacks/AOC_Resources.pw.toml"
@@ -5964,6 +5966,12 @@ preserve = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
 hash = "5436d263277f57f6bcf67c9964e308985ce30697d721f5abc9cc8dbc35d51a74"
+preserve = true
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.6a.zip.txt"
+hash = "9fbcbc4a8af8faee55381fb88dc9c7dbbc3574d456361d312050fefdecf241d3"
+preserve = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders-BSL_v10.1.8.pw.toml"
@@ -5973,6 +5981,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined-ComplementaryReimagined_r5.9.3.pw.toml"
 hash = "5105569870aba6aba7e8e8603280d36c8c499673f6969e7822d714286dcd5522"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders-MakeUp-UltraFast-9.6a.pw.toml"
+hash = "04556d3c821ecd825f643ae9339ad37a2685c2c18724a4804a7b1b1c6390ce7a"
 metafile = true
 
 [[files]]
