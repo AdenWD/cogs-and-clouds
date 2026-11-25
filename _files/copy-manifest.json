@@ -364,6 +364,13 @@
   "size": 211972
  },
  {
+  "dst": "_files/7e95c453ce-settlement-roads-2.0.1.jar",
+  "variant": "Ultra",
+  "src": "mods/settlement-roads-2.0.1.jar",
+  "sha256": "d9446addf8ca3c1c1a2f7cd0294ff70b994ad7ef47b0ed509dd9b73832a6fc23",
+  "size": 127354
+ },
+ {
   "dst": "_files/7ec3bc42fc-snassets-1.0.3.jar",
   "variant": "Ultra",
   "src": "mods/snassets-1.0.3.jar",

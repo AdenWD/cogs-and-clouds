@@ -3329,11 +3329,6 @@ hash = "a204587ea8b19398486783e39b1e709787b366bb25507b6d196f8f6bafe91547"
 metafile = true
 
 [[files]]
-file = "mods/countereds-settlement-roads.pw.toml"
-hash = "b85bded1e0deaf28cf80035676e6d59885bf423bd20d395a1dc87cfec1630574"
-metafile = true
-
-[[files]]
 file = "mods/crampedness.pw.toml"
 hash = "3208edc36cd06b49160b2369f24f7c50e5072affb46938f76d05c68c3b49e48c"
 metafile = true
@@ -4496,6 +4491,11 @@ metafile = true
 [[files]]
 file = "mods/separatedleaves.pw.toml"
 hash = "5594d7808b3c01994955b89f3c82fb7c43257d5e52de19d42711d1874e3d5cd4"
+metafile = true
+
+[[files]]
+file = "mods/settlement-roads-2.0.1.pw.toml"
+hash = "537fdac39db2a91fc5bf036af60cd354335d43062abf5d0b86a48db04ba490ba"
 metafile = true
 
 [[files]]

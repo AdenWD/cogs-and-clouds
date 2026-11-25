@@ -1,0 +1,8 @@
+name = "settlement-roads-2.0.1"
+filename = "settlement-roads-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/7e95c453ce-settlement-roads-2.0.1.jar"
+hash-format = "sha256"
+hash = "d9446addf8ca3c1c1a2f7cd0294ff70b994ad7ef47b0ed509dd9b73832a6fc23"
