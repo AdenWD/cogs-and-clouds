@@ -5153,10 +5153,6 @@ file = "resources/common/required/mc_rebalance_datapack/data/minecraft/defaulted
 hash = "cb2bbb21e2a56019be15dafc347739263bff1d3738b424f16d1d93aa1b9e2b4f"
 
 [[files]]
-file = "resources/common/required/mc_rebalance_datapack/data/minecraft/dimension/overworld.json"
-hash = "e63f1d3454b59fcfe5f9d92bbc53892eeebe579ce9e5bc462e0824117dacac57"
-
-[[files]]
 file = "resources/common/required/mc_rebalance_datapack/data/minecraft/enchantment/blast_protection.json.patch"
 hash = "00a32dd225865bb088ec392f5f65ad4f6d44e603c50d9b8181f5c19a7d4f11a8"
 
@@ -5819,6 +5815,10 @@ hash = "8fd8ffb8076f5d1ae3310d9e113debd7f06021eea1f4e3ca577deac5250dab5a"
 [[files]]
 file = "resources/common/required/mc_rebalance_datapack/data/minecraft/worldgen/structure_set/villages.json.patch"
 hash = "cd1a115a73599ef4206f302af3487d41490e738c6653224a6572a7bf35b9e753"
+
+[[files]]
+file = "resources/common/required/mc_rebalance_datapack/data/minecraft/worldgen/world_preset/normal.json"
+hash = "bc8de14a2da1ce0bac25d9c1ea81a973160e399dcce9c251ef394bde54522cc5"
 
 [[files]]
 file = "resources/common/required/mc_rebalance_datapack/data/vanillabackport/recipe/bundle.json"
