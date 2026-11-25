@@ -252,6 +252,13 @@
   "size": 1148509
  },
  {
+  "dst": "_files/66670183d5-Quark-4.1-488.jar",
+  "variant": "Ultra",
+  "src": "mods/Quark-4.1-488.jar",
+  "sha256": "139a85b2f717cf9c2cfba78999960a767226aaefaa4ceb3f2039ff97164d8bd6",
+  "size": 15615889
+ },
+ {
   "dst": "_files/677de47c41-casters_gauntlet-1.21.1-1.2.1.jar",
   "variant": "Ultra",
   "src": "mods/casters_gauntlet-1.21.1-1.2.1.jar",

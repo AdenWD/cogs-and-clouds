@@ -1,12 +1,12 @@
 name = "Cogs & Clouds - Lite"
 author = "Aden"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6141123e0006ae2525e51fc8aa44c437e1a538ba0fd600cfaf70347f6204d2f8"
+hash = "78d37aebbbde4622114259ef3404d95e5f6c6aac0d0a64875df440b555046aa4"
 
 [versions]
 minecraft = "1.21.1"

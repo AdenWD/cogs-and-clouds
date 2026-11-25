@@ -1,0 +1,8 @@
+name = "Quark-4.1-488"
+filename = "Quark-4.1-488.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/66670183d5-Quark-4.1-488.jar"
+hash-format = "sha256"
+hash = "139a85b2f717cf9c2cfba78999960a767226aaefaa4ceb3f2039ff97164d8bd6"

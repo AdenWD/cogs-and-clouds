@@ -154,7 +154,7 @@ hash = "48a77bd262a90c3aed23198c70d8b05905fb727180410516be4b6c26f2e9a090"
 
 [[files]]
 file = "config/bebpm.json"
-hash = "11d3ca942cb7e642b44356e327bb2737f3fee36c67fc0b843bac2af739eff67f"
+hash = "0ee1509461ffb23716f09259ea99bb2c31378eaf36ed75753298674a590ba4f5"
 
 [[files]]
 file = "config/beer-common.toml"
@@ -2629,6 +2629,11 @@ hash = "430918dc470f94ec69c1f6cc504de56ab6841e1e4438af5544f05609a7203e2b"
 metafile = true
 
 [[files]]
+file = "mods/Quark-4.1-488.pw.toml"
+hash = "cc9652bb542cfb43606be17b980541bcf2cd7852a13ae0348ed754d24d490e29"
+metafile = true
+
+[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.pw.toml"
 hash = "10c05d54f7ece585b3a55971e95d492334b1573c3acf5966469a1b5051a7a83e"
 metafile = true
@@ -3951,11 +3956,6 @@ metafile = true
 [[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "ef61587eeaeac24fbfba89c05983fc6ea21d502fb38c8a2765fde3d067bfaecb"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "b319c4770f37928619fcfd39b6bf8f03298e16153c933e10a51599e7ff0f44df"
 metafile = true
 
 [[files]]

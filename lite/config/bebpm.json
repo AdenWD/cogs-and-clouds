@@ -3,6 +3,6 @@
   "radiusZ": 10,
   "radiusUp": 10,
   "radiusDown": 10,
-  "lineOfSight": "OFF",
+  "lineOfSight": "DECOR_ONLY",
   "decorPermeable": []
 }
