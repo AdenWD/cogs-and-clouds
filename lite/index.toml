@@ -2987,6 +2987,11 @@ hash = "78b0c348bb7d36892bb2587288f865e0fc6c90da96794a3d298ce4a04af6be7b"
 metafile = true
 
 [[files]]
+file = "mods/create-1.21.1-6.0.10.pw.toml"
+hash = "21c28b66c6e9d829a41fbddfb86b362b552ed3807a50ab812fd9f7733ddddb60"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "7e5dea174241734271603f144eb7cffcf17a02f73b56513d2a751bcd4fab5388"
 metafile = true
@@ -3239,11 +3244,6 @@ metafile = true
 [[files]]
 file = "mods/create-xaeros-map.pw.toml"
 hash = "2461b8f087463ddcf01700619017e3ce823516000f97e9d0e1dfaa6c20e61d31"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "504aa209ba1265d2febb1129da4c2afe519490e1afc6f3e3bab8c8de414a2303"
 metafile = true
 
 [[files]]

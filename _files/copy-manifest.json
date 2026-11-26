@@ -448,6 +448,13 @@
   "size": 211671
  },
  {
+  "dst": "_files/a6d6cbfb8e-create-1.21.1-6.0.10.jar",
+  "variant": "Ultra",
+  "src": "mods/create-1.21.1-6.0.10.jar",
+  "sha256": "989e9509cda2388cedea5469e6f33620859a0c58834bcfe06c263033ba52c236",
+  "size": 19117676
+ },
+ {
   "dst": "_files/a6f0e7b7c2-forgified-fabric-api-0.116.15_2.3.6_1.21.1.jar",
   "variant": "Ultra",
   "src": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
