@@ -301,13 +301,6 @@
   "size": 30517
  },
  {
-  "dst": "_files/6ce24a0d4e-Cinematic_Interaction-NeoForge-1.21.1-0.18.30.jar",
-  "variant": "Ultra",
-  "src": "mods/Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar",
-  "sha256": "4a6bb18685bb8adbd2ee08a242b08088dbd5d9ddf0bf1c3d140269107ba4d7c5",
-  "size": 1302874
- },
- {
   "dst": "_files/707ca3b201-Musgo_1.21.1_Below.zip",
   "variant": "Ultra",
   "src": "resourcepacks/Musgo 1.21.1 Below.zip",
@@ -586,13 +579,6 @@
   "src": "resourcepacks/Adens Aeronautica Title.zip",
   "sha256": "03b251ea8e40d2f54d596b40ac7351549efa9d09dcdefc3d39a25e20b11cfbe4",
   "size": 2962286
- },
- {
-  "dst": "_files/fb767199e1-cinematic-delight-0.2.0-cogsfix.jar",
-  "variant": "Ultra",
-  "src": "mods/cinematic-delight-0.2.0-cogsfix.jar",
-  "sha256": "b70286faa7785ad53f92a71cffe30f8443fa2538e82773a7bc64d7ffa1dcfaf4",
-  "size": 119050
  },
  {
   "dst": "_files/ff852d99ad-ftb-library-neoforge-2101.1.39.jar",

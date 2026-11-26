@@ -2937,11 +2937,6 @@ hash = "620635e5cf657c1dc425d001800eabb8518fa928a2ab685e7d3614b597d9ceff"
 metafile = true
 
 [[files]]
-file = "mods/Cinematic_Interaction-NeoForge-1.21.1-0.18.30.pw.toml"
-hash = "d0efe15b79e2090e8265e0b810cc67a778cf5a69aeba60a90e33b6c9c46b939c"
-metafile = true
-
-[[files]]
 file = "mods/CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.pw.toml"
 hash = "4c9e9e79c45e86e3b79f80aec68c1d1e5e4685550224a9f9a5a8b09211a464ac"
 metafile = true
@@ -3237,11 +3232,6 @@ hash = "fb3c1583146ef1e88efbbbeb5d1bb07d2efa1c85f5d3e58f418af2485a57f8e8"
 metafile = true
 
 [[files]]
-file = "mods/cinematic-delight-0.2.0-cogsfix.pw.toml"
-hash = "05a0afbb1cb55dc8dcd83457738d28101ac1782604aef4da76987c955d11d13a"
-metafile = true
-
-[[files]]
 file = "mods/clientcrafting-1.21-2.1.pw.toml"
 hash = "d6c8b41e13a5e914f7463a958c579589a694e7a9225b048a84dfaa0002f3c1d1"
 metafile = true
@@ -3384,6 +3374,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
 hash = "ebe4fafedf64fa797e2dd1cbe670a74b73512112a3f511c131d5a9eb191ab080"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-ultimatefactory-recipe-fix.pw.toml"
+hash = "b41b7ebeb2f6296021a9d14b8db42da1c655aa486b2b0e1119c71201414fa120"
 metafile = true
 
 [[files]]
@@ -3599,6 +3594,11 @@ metafile = true
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "b77f0e58ccea25529f5f446708b72343c223378816d76a625c6bd07779937a72"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "667018ccd3d11d7ab9e76149c0d1c22fe33575442cc0e0e7db2425013a052b3c"
 metafile = true
 
 [[files]]
@@ -6472,6 +6472,14 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "resources/datapack/required/bki_override/pack.mcmeta"
 hash = "b6a10ecba43b37ba9ac24bf0f120e96bf528f1e02ceb2b1396932c5710a208a8"
+
+[[files]]
+file = "schematics/4x4x6_compactor.nbt"
+hash = "e162341114b33955cd9d5dc52cad4d45e28cd5620a7de7149b7e19a7209ebcf2"
+
+[[files]]
+file = "schematics/4x5x6_8_drill_cobble.nbt"
+hash = "071f5d9903ef4d9d78e3829e5abeffb2c7a97a9e01118812918dc3c64da4cc46"
 
 [[files]]
 file = "schematics/5x5x7_metals_farm.nbt"

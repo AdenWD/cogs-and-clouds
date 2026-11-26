@@ -1,8 +1,0 @@
-name = "cinematic-delight-0.2.0-cogsfix"
-filename = "cinematic-delight-0.2.0-cogsfix.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/fb767199e1-cinematic-delight-0.2.0-cogsfix.jar"
-hash-format = "sha256"
-hash = "b70286faa7785ad53f92a71cffe30f8443fa2538e82773a7bc64d7ffa1dcfaf4"
