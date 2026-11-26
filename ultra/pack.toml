@@ -1,12 +1,12 @@
 name = "Cogs & Clouds - Ultra"
 author = "Aden"
-version = "1.0.14"
+version = "1.0.15"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5a670a32e9a9cbb6cdbd774dc93fc7c9c4b6da70204ec59708f234827903b8fb"
+hash = "46364f0e84466fa1a84a1844b89d84926c6edd3e8d35951bfbf2ddfd1dad320c"
 
 [versions]
 minecraft = "1.21.1"

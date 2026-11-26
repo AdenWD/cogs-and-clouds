@@ -1,0 +1,8 @@
+name = "punchy-3.1b-neoforge-1.21.1"
+filename = "punchy-3.1b-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/e1dd21e15c-punchy-3.1b-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "be4a64c8a2a91eec0437a8fe17e6bc7d1cb47f916ac0228bc6d82963b5192fe9"

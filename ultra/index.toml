@@ -4392,8 +4392,8 @@ hash = "274c1c5c65330aedfb70c1c8ba844c8e47d593e17b23bd1b9f4fb9a6a6813d89"
 metafile = true
 
 [[files]]
-file = "mods/punchy-3.1b-cdscenefix.pw.toml"
-hash = "ca8927048eb10904d742f903f934ca8f1edcbc2e2eb5b701fc0711044349f6dc"
+file = "mods/punchy-3.1b-neoforge-1.21.1.pw.toml"
+hash = "e18b4b0c75519ec2d81579ede6108c8b7af73d1ea108a2ba0d3cf8eb04ff24d4"
 metafile = true
 
 [[files]]

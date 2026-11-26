@@ -126,13 +126,6 @@
   "size": 25929101
  },
  {
-  "dst": "_files/2eda735ae6-punchy-3.1b-cdscenefix.jar",
-  "variant": "Ultra",
-  "src": "mods/punchy-3.1b-cdscenefix.jar",
-  "sha256": "417191a13b79f6f03567cad2dc7785eda85f363f7652761e2b86f157d2fba95a",
-  "size": 3207122
- },
- {
   "dst": "_files/300de76d25-i_architecture-0.1.1b.jar",
   "variant": "Ultra",
   "src": "mods/i_architecture-0.1.1b.jar",
@@ -537,6 +530,13 @@
   "src": "mods/emmasworld-1.1.0.jar",
   "sha256": "7923789a297d455b558ab27ddc4a8ec3548ac190a9cd6403715ec02fcf498fd9",
   "size": 19254756
+ },
+ {
+  "dst": "_files/e1dd21e15c-punchy-3.1b-neoforge-1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/punchy-3.1b-neoforge-1.21.1.jar",
+  "sha256": "be4a64c8a2a91eec0437a8fe17e6bc7d1cb47f916ac0228bc6d82963b5192fe9",
+  "size": 3207860
  },
  {
   "dst": "_files/e404c3d1e7-Aoc_Core_1.21_v2.jar",
