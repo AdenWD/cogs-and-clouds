@@ -119,6 +119,13 @@
   "size": 730661
  },
  {
+  "dst": "_files/2e3f4f1314-fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+  "variant": "Ultra",
+  "src": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+  "sha256": "82c530d9ab5d19c22339791604e00c2d796caf3b232581ef72ebd631e2398dba",
+  "size": 25929101
+ },
+ {
   "dst": "_files/2eda735ae6-punchy-3.1b-cdscenefix.jar",
   "variant": "Ultra",
   "src": "mods/punchy-3.1b-cdscenefix.jar",

@@ -30,7 +30,7 @@ menu_background {
   background_type = image
   show_background = true
   image_path = [source:local]/config/fancymenu/assets/bg.png
-  slide = false
+  slide = true
   repeat_texture = false
   parallax = false
   parallax_intensity_x = 0.02

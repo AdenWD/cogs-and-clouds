@@ -1,0 +1,8 @@
+name = "fancymenu_neoforge_3.9.14_MC_1.21.1"
+filename = "fancymenu_neoforge_3.9.14_MC_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/2e3f4f1314-fancymenu_neoforge_3.9.14_MC_1.21.1.jar"
+hash-format = "sha256"
+hash = "82c530d9ab5d19c22339791604e00c2d796caf3b232581ef72ebd631e2398dba"

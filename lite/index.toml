@@ -297,6 +297,10 @@ file = "config/cmpackagecouriers-server.toml"
 hash = "49f52635bf8e655a01d6e73559e0cfe11c52fb39745b257af6b9b96fc79efa16"
 
 [[files]]
+file = "config/cogsclouds_icon.png"
+hash = "c5b93a6953ae506ea630eaa240f69d8f6370303030d6626b9baecbe803ed854e"
+
+[[files]]
 file = "config/colorwheel-client.toml"
 hash = "a7d87ab03d61fecad6d297bcad9976c9e48765ca67f90b3c388419c2a70b452e"
 
@@ -659,6 +663,10 @@ hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 [[files]]
 file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "e3fd0cd45fd65c103b1042588f9490850fac2a7df1e262b31c54a1011739f7a0"
 
 [[files]]
 file = "config/cutthrough-client.toml"
@@ -3296,6 +3304,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9f843a599ee872334214cb385f0438091e2bdd767647abb476b00c22feacdd5c"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "6b011f054bdc041f84182b50486214c245c1e6470f554d101b18f60ba601e22b"
 metafile = true
 
 [[files]]

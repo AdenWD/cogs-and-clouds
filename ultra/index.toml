@@ -946,7 +946,7 @@ hash = "35a9853d167a32e93bbb829c1054454b065bf985c7148bb85e61ea065c8b42f7"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
+hash = "687b08f01fcc01cc5c28296109fd1250eb476bb84001f3b3aa14365a5af25e95"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -1066,6 +1066,14 @@ file = "config/fancymenu/assets/brassbreeze_title_ultra.png"
 hash = "67eb60bd0be0cdd7dcb49ab0b0d3d1428d09065ce07fd83883ead7fb4aea0936"
 
 [[files]]
+file = "config/fancymenu/assets/cogsclouds_icon16.png"
+hash = "af13b83f2532245763b59631fec5ed0130f9296f0a469c5ab29887cf73e1bfcb"
+
+[[files]]
+file = "config/fancymenu/assets/cogsclouds_icon32.png"
+hash = "f40506137a0bda5773d4be6f7149817b72aef6db78ba02aeb71ba478d6c8f3a3"
+
+[[files]]
 file = "config/fancymenu/assets/cogsclouds_logo_shadow.png"
 hash = "c083da46b20576a86f61c0aec77c1bc2a85140f4bbf8ac11381299777cd1bb1c"
 
@@ -1159,7 +1167,7 @@ hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
 
 [[files]]
 file = "config/fancymenu/customization/all_of_create.txt"
-hash = "6304a61e0c274e88d8bc7d6dff14f88b173635e35379bf6a60b68100fc5a6ae0"
+hash = "a16e1772fcbe86ac68a52889d8388866797bc3425943bd79521f1fe60a1db9e7"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -1175,7 +1183,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "5c840180c2b1584b4949edee74bd6df671e297fad96f9d61847ab64a9a4e3d1a"
+hash = "35b9979f0a929592e2d2f146316f4fee4b907551a6840ddafc2aad35eac516ea"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -3814,8 +3822,8 @@ hash = "54e1c16a889fc6a09b57fe200884a7658d3062c0c57199ecfa929a72f3d533f1"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "47dafe231f9b1695636e149493e928e3a2d0e0aa9e78cb1e5c31bd59f37e2b14"
+file = "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.pw.toml"
+hash = "4c244f1b6781a1cef31c577a2ce392dc6925f9a414acc71ff71e259144c49f07"
 metafile = true
 
 [[files]]
