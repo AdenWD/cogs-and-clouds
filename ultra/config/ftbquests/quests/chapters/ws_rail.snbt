@@ -103,7 +103,10 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["3A0EBABFE63F91A2" "485735803A2C804F"]
+			dependencies: [
+				"3A0EBABFE63F91A2"
+				"485735803A2C804F"
+			]
 			id: "1421EFA57F8020E6"
 			rewards: [{
 				id: "6DDF9B245F010C7F"
@@ -119,7 +122,10 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["485735803A2C804F" "53F81C28B4BB356F"]
+			dependencies: [
+				"485735803A2C804F"
+				"53F81C28B4BB356F"
+			]
 			id: "16C42E7D238F0E07"
 			rewards: [{
 				id: "51447C178DF236CB"
@@ -135,7 +141,10 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["1421EFA57F8020E6" "16C42E7D238F0E07"]
+			dependencies: [
+				"1421EFA57F8020E6"
+				"16C42E7D238F0E07"
+			]
 			id: "27AC0FD1FAA6D3A2"
 			rewards: [{
 				id: "2D4E68C097A112C4"
@@ -167,7 +176,10 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["27AC0FD1FAA6D3A2" "52851003FFBBCAA2"]
+			dependencies: [
+				"27AC0FD1FAA6D3A2"
+				"52851003FFBBCAA2"
+			]
 			id: "3254800E44900F92"
 			shape: "gear"
 			size: 1.5d
@@ -243,7 +255,11 @@
 			y: 7.5d
 		}
 		{
-			dependencies: ["5A296EA5DC417CDD" "678F764D597553AD" "7F553BB24A3476AD"]
+			dependencies: [
+				"5A296EA5DC417CDD"
+				"678F764D597553AD"
+				"7F553BB24A3476AD"
+			]
 			id: "41421A2399C9C94C"
 			rewards: [{
 				id: "4E0A23FAB4102958"

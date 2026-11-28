@@ -1,5 +1,12 @@
 [
  {
+  "dst": "_files/0018b99ee0-compactflap-neoforge-1.21.1-1.0.4.1.jar",
+  "variant": "Ultra",
+  "src": "mods/compactflap-neoforge-1.21.1-1.0.4.1.jar",
+  "sha256": "69e9be30cfb28b7a24b0c31c0e2ae270989405cc646eef94351bbc0968e81a32",
+  "size": 145237
+ },
+ {
   "dst": "_files/024c6138db-Adens_Items_-_Vanilla_Mizuno.zip",
   "variant": "Ultra",
   "src": "resourcepacks/Adens Items - Vanilla + Mizuno.zip",
@@ -224,6 +231,20 @@
   "size": 4783878
  },
  {
+  "dst": "_files/55fe1db36d-cosmonautics-26.08.307.jar",
+  "variant": "Ultra",
+  "src": "mods/cosmonautics-26.08.307.jar",
+  "sha256": "7384ee241acae37fda73e8bfb2882b7ba73fd4c8c1123e58ae2573ac33459a91",
+  "size": 22447039
+ },
+ {
+  "dst": "_files/5b6d57e171-create-1.21.1-6.0.10.jar",
+  "variant": "Ultra",
+  "src": "mods/create-1.21.1-6.0.10.jar",
+  "sha256": "0de18aac19c36be1e2c3f7c0780cfb5dedf1db77782e536a89e4abbf8a2b443c",
+  "size": 19118400
+ },
+ {
   "dst": "_files/62af430cab-mc_rebalance-2.0.0.jar",
   "variant": "Ultra",
   "src": "mods/mc_rebalance-2.0.0.jar",
@@ -294,6 +315,13 @@
   "size": 30517
  },
  {
+  "dst": "_files/6db8f69b84-voxy-0.2.16-beta_1.21.11.jar",
+  "variant": "Ultra",
+  "src": "mods/voxy-0.2.16-beta+1.21.11.jar",
+  "sha256": "9ea9754d83a647061de1b4b0c25fd7dbfdc028b48d0dcb562189c255245d130e",
+  "size": 12820808
+ },
+ {
   "dst": "_files/707ca3b201-Musgo_1.21.1_Below.zip",
   "variant": "Ultra",
   "src": "resourcepacks/Musgo 1.21.1 Below.zip",
@@ -313,13 +341,6 @@
   "src": "mods/create_submarine-3.4.8.jar",
   "sha256": "94dad1d9a0e9a63335fdc3b0c8e71af6b3fbd69837ef34c7cbf4592a31b651fe",
   "size": 12435860
- },
- {
-  "dst": "_files/75702ec0b2-tacz_aero_compat-1.9.0.jar",
-  "variant": "Ultra",
-  "src": "mods/tacz_aero_compat-1.9.0.jar",
-  "sha256": "ee21395b6690cef71733d1f8bd6355081340cd06728031c1c0541691492a10d9",
-  "size": 265905
  },
  {
   "dst": "_files/770938e590-ftb-quests-neoforge-2101.1.37.jar",
@@ -369,6 +390,13 @@
   "src": "mods/snassets-1.0.3.jar",
   "sha256": "03d76f48ac8e1eb1e2b19727fba8ffe08c74976bbf562fd76de52ef1ebf9ac6c",
   "size": 35789690
+ },
+ {
+  "dst": "_files/82cc7c24ce-arcon-1.05-prerelease-2.19.jar",
+  "variant": "Ultra",
+  "src": "mods/arcon-1.05-prerelease-2.19.jar",
+  "sha256": "fa5a7f8c331bc000be458dd3392fe57c36d9964a2a3e4dcf97c3fa0ebb740675",
+  "size": 7647013
  },
  {
   "dst": "_files/87ef6ef7a9-Create_FTBQuests.zip",
@@ -434,13 +462,6 @@
   "size": 211671
  },
  {
-  "dst": "_files/a6d6cbfb8e-create-1.21.1-6.0.10.jar",
-  "variant": "Ultra",
-  "src": "mods/create-1.21.1-6.0.10.jar",
-  "sha256": "989e9509cda2388cedea5469e6f33620859a0c58834bcfe06c263033ba52c236",
-  "size": 19117676
- },
- {
   "dst": "_files/a6f0e7b7c2-forgified-fabric-api-0.116.15_2.3.6_1.21.1.jar",
   "variant": "Ultra",
   "src": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
@@ -469,6 +490,13 @@
   "size": 115891
  },
  {
+  "dst": "_files/b68f9cee25-aero_no_horizon-1.0.4.jar",
+  "variant": "Ultra",
+  "src": "mods/aero_no_horizon-1.0.4.jar",
+  "sha256": "8e92cb3c84186134b5579369360dbf010abda8fedf82a9410c5e237c612760cc",
+  "size": 438329
+ },
+ {
   "dst": "_files/b6c0da6133-smoothchunk-1.21-4.4.jar",
   "variant": "Ultra",
   "src": "mods/smoothchunk-1.21-4.4.jar",
@@ -488,6 +516,13 @@
   "src": "mods/lootintegrations-1.21.1-4.7.jar",
   "sha256": "1de9e6352f643f2850dce3e6b7aa8274902798a2243ea9e494fe13aabaa90d2c",
   "size": 36966
+ },
+ {
+  "dst": "_files/bda138b18a-create_cardan_shafts-0.1.6.jar",
+  "variant": "Ultra",
+  "src": "mods/create_cardan_shafts-0.1.6.jar",
+  "sha256": "fd3ef915ec1308b392915708812b91625ce058394a54a2251d59b68b9717daf1",
+  "size": 141597
  },
  {
   "dst": "_files/c2d6ce7148-NoBushyLeaves.zip",

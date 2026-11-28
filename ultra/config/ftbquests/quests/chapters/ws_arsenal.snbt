@@ -4,7 +4,7 @@
 	filename: "ws_arsenal"
 	group: "7F608EB181590FA9"
 	icon: {
-		id: "tacz:gun_smith_table"
+		id: "createbigcannons:cannon_mount"
 	}
 	id: "7358E41E2F7F7F91"
 	images: [ ]
@@ -24,86 +24,6 @@
 		}
 		{
 			dependencies: ["14B4B8F9DA7226DB"]
-			id: "44DE09A64AA49C65"
-			rewards: [{
-				id: "32DEDE665372F63E"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "3B5AC8D7797584E0"
-				item: { count: 1, id: "tacz:gun_smith_table" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["44DE09A64AA49C65"]
-			id: "4A9276FBECC791E3"
-			rewards: [{
-				id: "57553FE941CCEDD8"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "5D1FCF657A64D499"
-				item: { components: { "minecraft:custom_data": { GunId: "tacz:ak47" } }, count: 1, id: "tacz:modern_kinetic_gun" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["44DE09A64AA49C65"]
-			id: "49BE1F452243A6D4"
-			rewards: [{
-				id: "72D142FC864EB605"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			tasks: [{
-				id: "70E883548DBD6609"
-				item: { components: { "minecraft:custom_data": { AmmoId: "tacz:762x39" } }, count: 1, id: "tacz:ammo" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["4A9276FBECC791E3"]
-			id: "19165EB7A891CC76"
-			rewards: [{
-				id: "790957C3F1DE326F"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			tasks: [{
-				id: "6796428ED9DA3BE8"
-				item: { components: { "minecraft:custom_data": { AttachmentId: "tacz:sight_sro_dot" } }, count: 1, id: "tacz:attachment" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["49BE1F452243A6D4"]
-			id: "47EBB983C9D95271"
-			rewards: [{
-				id: "768F69A554202402"
-				type: "xp_levels"
-				xp_levels: 1
-			}]
-			tasks: [{
-				id: "67AA3D6770E3FC87"
-				item: { count: 1, id: "tacz:target" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["4A9276FBECC791E3" "49BE1F452243A6D4"]
 			id: "4E369D8AA5C5416B"
 			rewards: [{
 				id: "470EE9C69DDC1648"
@@ -117,7 +37,7 @@
 				value: 10L
 			}]
 			x: -3.0d
-			y: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["14B4B8F9DA7226DB"]
@@ -226,7 +146,10 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["1EA9D5721CE081D3" "356BF13BB248105B"]
+			dependencies: [
+				"1EA9D5721CE081D3"
+				"356BF13BB248105B"
+			]
 			id: "516F100FB4DE4A63"
 			rewards: [{
 				id: "382C171EE9AEEDDA"

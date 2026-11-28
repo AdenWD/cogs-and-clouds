@@ -179,7 +179,10 @@
 			y: 7.5d
 		}
 		{
-			dependencies: ["2B7244E98ACE9A4C" "476AE0BC704DEB18"]
+			dependencies: [
+				"2B7244E98ACE9A4C"
+				"476AE0BC704DEB18"
+			]
 			id: "5A16C9C638F1FA2C"
 			rewards: [{
 				id: "58F21AF5BF3A8B4E"

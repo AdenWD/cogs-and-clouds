@@ -1,5 +1,5 @@
 #Specifies whether to enable the mod on Windows
-enabledOnWindows = true
+enabledOnWindows = false
 #Specifies whether to enable the mod on macOS
 enabledOnMacOS = false
 #Specifies whether to enable the mod on Linux

@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","tacz_resources","mod/punchy:resourcepacks/punchy","fabric","mod_resources","srl_cm/mc_rebalance_datapack","mod/copper_age_patch:resourcepacks/modern_copper_golem_spawn_egg","mod/copper_age_patch:resourcepacks/copper_trims","moonlight:merged_pack","file/Musgo 1.21.1 Below.zip","file/Nature X - 12.2 [1.21.1].zip","file/Patrix_1.21_32x_basic.zip","file/Patrix_1.21_32x_addon.zip","file/Patrix_1.21_32x_bonus.zip","file/Patrix_1.21_models.zip","file/Adens Items - Vanilla + Mizuno.zip","file/Universal_3D_Archery_1.21-1_1.0.zip","file/Enchanced Harness.zip","file/Enchanced Armors.zip","file/Simple Grass Flowers v2.0.0.zip","file/UltiCraft-Models3D-2.88.0.zip","file/Better Scaffolding Visibility.zip","file/Create_UI_1.21.zip","file/Farmer GUI  1.20.2+[1.7.8].zip","file/Farmer GUI - Compats \u0026 Fixes 1.3.2.zip","file/Fancy Crops v1.3.zip","file/Create_FTBQuests.zip","file/AOC Resources.zip","file/Create_Addons_Fix_v1.zip","file/Create_Style_Hopper_24_5_29.zip","file/Create Touch-Ups v1.0.zip","file/CU - 3d Wrench.zip","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Enhanced Audio r7.zip","file/Enhanced Audio Ambience r2.zip","file/Adens Aeronautica Title.zip","generated/fragmentum_layer","file/FA 1.21.1 Fix.zip","file/MoveThoseHands-1.3.2.zip","mod/wilderflowers:resourcepacks/wildflowers","mod/cinematic_delight:resourcepacks/hollow_pot"]
+resourcePacks:["vanilla","tacz_resources","mod/punchy:resourcepacks/punchy","fabric","mod_resources","srl_cm/mc_rebalance_datapack","mod/copper_age_patch:resourcepacks/modern_copper_golem_spawn_egg","mod/copper_age_patch:resourcepacks/copper_trims","moonlight:merged_pack","file/Musgo 1.21.1 Below.zip","file/Nature X - 12.2 [1.21.1].zip","file/Patrix_1.21_32x_basic.zip","file/Patrix_1.21_32x_addon.zip","file/Patrix_1.21_32x_bonus.zip","file/Patrix_1.21_models.zip","file/Adens Items - Vanilla + Mizuno.zip","file/Universal_3D_Archery_1.21-1_1.0.zip","file/Enchanced Harness.zip","file/Enchanced Armors.zip","file/Simple Grass Flowers v2.0.0.zip","file/UltiCraft-Models3D-2.88.0.zip","file/Better Scaffolding Visibility.zip","file/Create_UI_1.21.zip","file/Farmer GUI  1.20.2+[1.7.8].zip","file/Farmer GUI - Compats \u0026 Fixes 1.3.2.zip","file/Fancy Crops v1.3.zip","file/Create_FTBQuests.zip","file/AOC Resources.zip","file/Create_Addons_Fix_v1.zip","file/Create_Style_Hopper_24_5_29.zip","file/Create Touch-Ups v1.0.zip","file/CU - 3d Wrench.zip","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Enhanced Audio r7.zip","file/Enhanced Audio Ambience r2.zip","file/Adens Aeronautica Title.zip","generated/fragmentum_layer","file/FA 1.21.1 Fix.zip","file/MoveThoseHands-1.3.2.zip","mod/wilderflowers:resourcepacks/wildflowers"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -137,7 +137,6 @@ key_iris.keybind.wireframe:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -159,6 +158,7 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
@@ -171,8 +171,6 @@ key_key.corpse.death_history:key.keyboard.u
 key_key.libtooltips.expand:key.keyboard.left.shift
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_key.cinematic.sit:key.keyboard.h
-key_key.cinematic.look:key.keyboard.left.alt
 key_key.punchy.open_main_menu:key.keyboard.f8
 key_key.punchy.inspect:key.keyboard.i
 key_key.immersiveoverlays.toggle:key.keyboard.unknown
@@ -204,7 +202,7 @@ key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.bookmark:key.keyboard.a
+key_key.jei.bookmark:key.keyboard.unknown
 key_key.jei.showRecipe:key.keyboard.r
 key_key.jei.showRecipe2:key.mouse.left
 key_key.jei.showUses:key.keyboard.u
@@ -373,7 +371,7 @@ key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
 key_key.ponder.ponder:key.keyboard.w
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_create.keyinfo.toolmenu:key.keyboard.caps.lock
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.rotate_menu:key.keyboard.unknown
 key_create.keyinfo.shift_modifier:key.keyboard.left.shift
@@ -437,12 +435,12 @@ key_key.createthrusters.contraption_network_linker.cycle_scope_mode_modifier:key
 key_key.createthrusters.claw.escape:key.keyboard.left.shift
 key_key.createthrusters.controller.exit_input:key.keyboard.escape
 key_key.aeronautics_curios_compat.remote_use:key.keyboard.y
-key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
+key_gui.xaero_pac_key_open_menu:key.keyboard.backslash
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.punchy.triggerable.sword_inspect_old:key.keyboard.j
 key_key.punchy.triggerable.sword_inspect_rework:key.keyboard.g
-soundCategory_master:1.0
+key_key.punchy.triggerable.sword_inspect_old:key.keyboard.j
+soundCategory_master:0.777317880794702
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
@@ -450,7 +448,7 @@ soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.3908450704225352
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
@@ -460,3 +458,22 @@ modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
 fullscreenResolution:2560x1440@144:24
+key_key.jei.showBookmarkTooltipFeatures:key.keyboard.left.control
+key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_right:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_forward:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_backward:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_up:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_down:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_pull:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
+key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
+key_key.immersive_aircraft.dismount:key.keyboard.r
+key_key.immersive_aircraft.boost:key.keyboard.n
+key_key.backpacked.open_backpack:key.keyboard.b
+key_key.backpacked.open_management:key.keyboard.v
+key_powergrid.keyinfo.rotate_component:key.keyboard.r
+key_powergrid.keyinfo.place_trace:key.keyboard.t
+key_powergrid.keyinfo.delete_area:key.keyboard.d
+key_powergrid.keyinfo.pick_component:key.keyboard.s
+key_powergrid.keyinfo.switch_layer:key.keyboard.x

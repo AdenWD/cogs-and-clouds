@@ -3,6 +3,6 @@ filename = "create-1.21.1-6.0.10.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/a6d6cbfb8e-create-1.21.1-6.0.10.jar"
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/5b6d57e171-create-1.21.1-6.0.10.jar"
 hash-format = "sha256"
-hash = "989e9509cda2388cedea5469e6f33620859a0c58834bcfe06c263033ba52c236"
+hash = "0de18aac19c36be1e2c3f7c0780cfb5dedf1db77782e536a89e4abbf8a2b443c"

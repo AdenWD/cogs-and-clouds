@@ -1,0 +1,8 @@
+name = "cosmonautics-26.08.307"
+filename = "cosmonautics-26.08.307.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/55fe1db36d-cosmonautics-26.08.307.jar"
+hash-format = "sha256"
+hash = "7384ee241acae37fda73e8bfb2882b7ba73fd4c8c1123e58ae2573ac33459a91"

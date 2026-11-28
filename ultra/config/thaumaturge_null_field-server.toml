@@ -1,0 +1,61 @@
+[generatorSettings]
+	# Default: 1.0
+	# Range: 0.0 ~ 1000.0
+	costMultiplier = 1.0
+	# Default: 100000
+	# Range: > 1
+	pullRate = 100000
+	# Default: 200000
+	# Range: > 1
+	maxCapacity = 200000
+	# Default: 250
+	# Range: 1 ~ 10000
+	maxRadius = 250
+
+[nullFieldCancelling]
+	spellCasting = true
+	thaumometer = true
+	wandNodeTapping = true
+	nodeInAJar = true
+	visGenerator = true
+	visRelays = true
+	rechargePedestal = true
+	visAmulet = true
+	aspectOrbs = true
+	salisMundus = true
+	infusionMatrix = true
+	focalManipulator = true
+	crucible = true
+	thaumatorium = true
+	everfullUrn = true
+	essentiaTransfusers = true
+	essentiaMirror = true
+	magicMirror = true
+	handMirror = true
+	condenser = true
+	fluxScrubber = true
+	voidSiphon = true
+	etherealBloom = true
+	elementalTools = true
+	infusionEnchantments = true
+	voidGearRepair = true
+	runicShielding = true
+	verdantCharm = true
+	travellerBoots = true
+	cloudRing = true
+	thaumostaticHarness = true
+	grappleGun = true
+	levitator = true
+	glimmerLights = true
+	arcaneLamp = true
+	lampOfGrowth = true
+	lampOfFertility = true
+	arcaneBore = true
+	infernalFurnace = true
+	hungryChest = true
+	golems = true
+	crossbowTurrets = true
+	wards = true
+	arcaneLocks = true
+	barrierStone = true
+	travelStone = true

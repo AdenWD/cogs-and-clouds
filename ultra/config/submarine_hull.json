@@ -721,6 +721,74 @@
     "maxWaterDepth": 15,
     "implosionChance": 0.6
   },
+  "aero_no_horizon:horn": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "aero_no_horizon:large_phys_track": {
+    "maxWaterDepth": 185,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:large_simple_wheel": {
+    "maxWaterDepth": 119,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:large_simple_wheel_part": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.29205585
+  },
+  "aero_no_horizon:large_suspension_track": {
+    "maxWaterDepth": 167,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:med_phys_track": {
+    "maxWaterDepth": 185,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:med_simple_wheel": {
+    "maxWaterDepth": 119,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:med_simple_wheel_part": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.29205585
+  },
+  "aero_no_horizon:med_suspension_track": {
+    "maxWaterDepth": 167,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:oleo_wheel": {
+    "maxWaterDepth": 119,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:phys_track": {
+    "maxWaterDepth": 185,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:simple_wheel": {
+    "maxWaterDepth": 119,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:simple_wheel_part": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.29205585
+  },
+  "aero_no_horizon:small_simple_wheel": {
+    "maxWaterDepth": 119,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:small_simple_wheel_part": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.29205585
+  },
+  "aero_no_horizon:suspension_track": {
+    "maxWaterDepth": 167,
+    "implosionChance": 0.05
+  },
+  "aero_no_horizon:track_level_controller": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "aeroclaims:claim_block": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
@@ -1784,6 +1852,710 @@
   "amendments:water_lily_pad": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
+  },
+  "arcon:bauxite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "arcon:blowout_panel": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "arcon:borate_brick_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:borate_brick_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:borate_brick_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:borate_bricks": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:borate_ore": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.34290898
+  },
+  "arcon:chromite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "arcon:cut_borate": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_borate_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_borate_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_borate_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_rutile": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_rutile_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_rutile_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:cut_rutile_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:deepslate_chromite_ore": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23637056
+  },
+  "arcon:deepslate_manganese_ore": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23637056
+  },
+  "arcon:deepslate_nickel_ore": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23637056
+  },
+  "arcon:deepslate_wolframite_ore": {
+    "maxWaterDepth": 87,
+    "implosionChance": 0.21137056
+  },
+  "arcon:dynamic_protection_platform": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "arcon:dynamic_protection_platform_1x2": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "arcon:dynamic_protection_platform_1x4": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "arcon:furnace_multiblock": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "arcon:hull_aluminum_black": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_blue": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_brown": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_cyan": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_desert": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_gray": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_green": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_insignia_white": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_light_blue": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_light_gray": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_lime": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_magenta": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_orange": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_pink": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_purple": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_red": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_sage": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_spruce": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_swamp": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_aluminum_yellow": {
+    "maxWaterDepth": 74,
+    "implosionChance": 0.11021047
+  },
+  "arcon:hull_boron_black": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_blue": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_brown": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_cyan": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_desert": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_gray": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_green": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_light_blue": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_light_gray": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_lime": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_magenta": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_orange": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_pink": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_purple": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_red": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_sage": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_snow": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_spruce": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_swamp": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_boron_yellow": {
+    "maxWaterDepth": 356,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_black": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_blue": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_brown": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_cyan": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_desert": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_gray": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_green": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_light_blue": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_light_gray": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_lime": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_magenta": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_orange": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_pink": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_purple": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_red": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_sage": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_snow": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_spruce": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_swamp": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_ceramic_yellow": {
+    "maxWaterDepth": 296,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_black": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_blue": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_brown": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_cyan": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_desert": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_gray": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_green": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_light_blue": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_light_gray": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_lime": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_magenta": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_orange": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_pink": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_purple": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_red": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_sage": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_snow": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_spruce": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_swamp": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_nickel_yellow": {
+    "maxWaterDepth": 236,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_black": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_blue": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_brown": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_cyan": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_desert": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_gray": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_green": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_light_blue": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_light_gray": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_lime": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_magenta": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_orange": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_pink": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_purple": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_red": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_sage": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_snow": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_spruce": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_swamp": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_rolled_yellow": {
+    "maxWaterDepth": 176,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_black": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_blue": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_brown": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_cyan": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_desert": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_gray": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_green": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_insignia_white": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_light_blue": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_light_gray": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_lime": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_magenta": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_orange": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_pink": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_purple": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_red": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_sage": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_spruce": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_swamp": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:hull_titanium_yellow": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.05
+  },
+  "arcon:magnesite": {
+    "maxWaterDepth": 56,
+    "implosionChance": 0.25540897
+  },
+  "arcon:manganese_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "arcon:nickel_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "arcon:polished_cut_borate": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_borate_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_borate_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_borate_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_rutile": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_rutile_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_rutile_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:polished_cut_rutile_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:raw_chromium_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "arcon:raw_manganese_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "arcon:raw_nickel_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "arcon:raw_tungsten_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "arcon:rutile": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.23040898
+  },
+  "arcon:rutile_brick_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:rutile_brick_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:rutile_brick_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:rutile_bricks": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_brick_borate_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_brick_borate_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_brick_borate_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_brick_rutile_slab": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_brick_rutile_stairs": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_brick_rutile_wall": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_bricks_borate": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:small_bricks_rutile": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.34290898
+  },
+  "arcon:structural_steel_fluid_pipe": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "arcon:structural_steel_glass_fluid_pipe": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "arcon:structural_steel_seat": {
+    "maxWaterDepth": 66,
+    "implosionChance": 0.37540898
+  },
+  "arcon:wolframite_ore": {
+    "maxWaterDepth": 75,
+    "implosionChance": 0.28637058
   },
   "azimuth:ponder_coordinate": {
     "maxWaterDepth": 25,
@@ -4072,6 +4844,22 @@
   "cbcmodernwarfare:unbored_steel_rotarycannon_breech": {
     "maxWaterDepth": 101,
     "implosionChance": 0.15540898
+  },
+  "compactflap:analog_compact_flap_bearing": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "compactflap:analog_swivel_bearing": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "compactflap:compact_flap_bearing": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "compactflap:compact_swivel_flap": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
   },
   "copperagebackport:copper_button": {
     "maxWaterDepth": 40,
@@ -47400,6 +48188,10 @@
   "rubberworks:sapper": {
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
+  },
+  "sable_kardanwelle:cardan_connector": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.4806853
   },
   "selling_bin:selling_bin": {
     "maxWaterDepth": 41,

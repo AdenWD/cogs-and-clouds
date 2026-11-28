@@ -1,0 +1,8 @@
+name = "aero_no_horizon-1.0.4"
+filename = "aero_no_horizon-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/b68f9cee25-aero_no_horizon-1.0.4.jar"
+hash-format = "sha256"
+hash = "8e92cb3c84186134b5579369360dbf010abda8fedf82a9410c5e237c612760cc"

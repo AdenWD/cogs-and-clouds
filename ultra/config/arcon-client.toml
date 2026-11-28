@@ -1,0 +1,166 @@
+#Optional client work scheduling, independent from gameplay.
+[performance]
+	#Reduce only distant Arcon CBC secondary cloud density; nearby native quality, size, lifetime and blast wave are retained.
+	cbcCloudDistanceLod = true
+	#Full native cloud detail within this distance from the cloud surface, not its center.
+	# Default: 64
+	# Range: 32 ~ 256
+	cbcCloudFullDetailDistance = 64
+
+#Ammunition cook-off visual effects only.
+[ammoCookoff]
+	#Finite layered explosion dust, independent from sustained fire smoke.
+	enableCookoffDustCloud = true
+	#Terrain-following outward dust front using bounded surface probes.
+	enableCookoffGroundDust = true
+	#Uniform dust sprite scale within the shared live particle limit.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	cookoffDustScaleMultiplier = 1.0
+	#Dust emission density with distance LOD and global spawn budget.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	cookoffDustDensity = 1.0
+	#Dust lifetime multiplier, capped at 240 ticks.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	cookoffDustLifetimeMultiplier = 1.0
+	#Resolve sand/red sand tint once when each dust group is born.
+	enableSandDustTint = true
+	#Additional cinematic scale over the existing CBC presentation, independent from damage.
+	# Default: 3.0
+	# Range: 0.25 ~ 3.0
+	cookoffExplosionVisualScale = 3.0
+	#Render large overlapping seven-frame fullbright flame sprites.
+	flameParticles = true
+	#Render separate buoyant smoke trails.
+	smokeParticles = true
+	#Shared particle spawn budget across all visible incidents.
+	# Default: 40
+	# Range: 1 ~ 256
+	maximumParticlesPerTick = 40
+	#Cook-off visibility distance; smooth density/opacity fading preserves shared budgets.
+	# Default: 192
+	# Range: 32 ~ 384
+	cookoffVisualDistance = 192
+	#Smoothly fade particles in the outer fifth of their visual distance.
+	enableCookoffParticleDistanceFade = true
+	#Composite only Arcon-owned CBC smoke with fire, sorted far-to-near without smoke depth writes.
+	enableCookoffParticleRenderFix = true
+	#Receive orchestrated vehicle explosion audio.
+	vehicleExplosionAudio = true
+	#Near vehicle blast gain, still respecting Minecraft Blocks and master volume.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	nearExplosionVolume = 1.0
+	#Distant vehicle blast gain based on true source distance.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	distantExplosionVolumeMultiplier = 1.0
+	#Include the quieter recorded near debris layer.
+	vehicleDebrisAudio = true
+	#Maximum active acoustic voices; pending events capped at 128 and deduplicated.
+	# Default: 16
+	# Range: 3 ~ 32
+	maxConcurrentVehicleExplosionSounds = 16
+	#Base frame timing; resource profiles supply varied frame delays and independent phases.
+	# Default: 2
+	# Range: 1 ~ 10
+	flameFrameTicks = 2
+	#Uniform flame size multiplier. Maximum diameter is twelve blocks; frame proportions are preserved.
+	# Default: 2.0
+	# Range: 0.25 ~ 2.0
+	flameScale = 2.0
+	#Local particle density, reduced automatically with distance and global limits.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	particleDensity = 1.0
+	#Global live flame limit across all emitters.
+	# Default: 360
+	# Range: 16 ~ 512
+	maximumFlameParticles = 360
+	#Global live smoke limit across all emitters.
+	# Default: 192
+	# Range: 16 ~ 512
+	maximumSmokeParticles = 192
+	#Sparse two-frame burning fireballs with bounded smoke trails.
+	fireballParticles = true
+	#Global fireball limit, also included in the live flame budget.
+	# Default: 24
+	# Range: 0 ~ 64
+	maximumFireballParticles = 24
+	#Ticks between exterior smoke attempts per incident, shared by all vents.
+	# Default: 2
+	# Range: 1 ~ 40
+	smokeEmissionInterval = 2
+	#Apply smooth ambient wind and vehicle-relative airflow to flames and smoke.
+	visualWind = true
+	#Ambient visual wind speed in blocks per tick.
+	# Default: 0.035
+	# Range: 0.0 ~ 0.2
+	windStrength = 0.035
+	#Vehicle motion contribution to relative airflow. Smoke responds more strongly.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	slipstreamFactor = 1.0
+	#Small smooth deterministic flow perturbations.
+	# Default: 0.008
+	# Range: 0.0 ~ 0.03
+	turbulenceStrength = 0.008
+	#Interior fire overlap; always constrained by shared particle and spawn budgets.
+	# Default: 1.5
+	# Range: 0.0 ~ 3.0
+	interiorFlameDensity = 1.5
+	#Interior smoke density, biased toward upper cells and capped in alpha.
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	interiorSmokeDensity = 1.0
+	#Exterior jet sprite size multiplier, independent from compartment fire.
+	# Default: 1.6
+	# Range: 0.25 ~ 2.0
+	ventFlameScale = 1.6
+	#Exterior jet overlap and spawn density within global budgets.
+	# Default: 1.5
+	# Range: 0.0 ~ 3.0
+	ventFlameDensity = 1.5
+	#Align each flame frame with camera-projected relative flow, including sideways and downward vents.
+	directionalFlameRendering = false
+	#Uniform smoke size multiplier; rising lifetime profiles cap cloud diameter at eight blocks.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	smokeScale = 1.0
+	#Smoke emission density, constrained by shared spawn and live particle limits.
+	# Default: 0.9
+	# Range: 0.0 ~ 3.0
+	smokeDensity = 0.9
+	#Visual stream length multiplier; collision clipping and hard eight-block cap remain active.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	ventFlameLength = 1.0
+	#Use three supplied smoke sprites with varied scale, roll and opacity.
+	improvedSmoke = true
+	#Show the server cook-off event through real CBC blast-wave and cloud particle types.
+	largeCBCExplosionVisuals = true
+	#Admission budget for native CBC cloud controllers; excess clouds are queued, never resized or replaced. Blast-wave and sound start immediately.
+	# Default: 32
+	# Range: 1 ~ 128
+	cbcCloudControllersPerTick = 32
+	#Local CBC visual size adjustment, capped independently from gameplay damage.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	explosionVisualMultiplier = 1.0
+	#Reduce distant particle density within the global budgets.
+	particleLOD = true
+	#Maximum interior fire visibility distance; normal depth testing still hides sealed compartments.
+	# Default: 192
+	# Range: 8 ~ 384
+	interiorFireRenderDistance = 192
+
+#ERA presentation only.
+[era]
+	#Show ERA activation effects.
+	particles = true
+	#ERA activation sound volume.
+	# Default: 0.7
+	# Range: 0.0 ~ 4.0
+	volume = 0.7

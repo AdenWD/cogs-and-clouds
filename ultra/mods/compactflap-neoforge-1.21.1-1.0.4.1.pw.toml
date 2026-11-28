@@ -1,0 +1,8 @@
+name = "compactflap-neoforge-1.21.1-1.0.4.1"
+filename = "compactflap-neoforge-1.21.1-1.0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/0018b99ee0-compactflap-neoforge-1.21.1-1.0.4.1.jar"
+hash-format = "sha256"
+hash = "69e9be30cfb28b7a24b0c31c0e2ae270989405cc646eef94351bbc0968e81a32"

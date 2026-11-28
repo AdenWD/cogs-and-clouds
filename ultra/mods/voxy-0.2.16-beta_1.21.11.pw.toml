@@ -1,0 +1,8 @@
+name = "voxy-0.2.16-beta+1.21.11"
+filename = "voxy-0.2.16-beta+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/6db8f69b84-voxy-0.2.16-beta_1.21.11.jar"
+hash-format = "sha256"
+hash = "9ea9754d83a647061de1b4b0c25fd7dbfdc028b48d0dcb562189c255245d130e"

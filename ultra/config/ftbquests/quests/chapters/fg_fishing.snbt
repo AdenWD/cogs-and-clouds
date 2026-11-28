@@ -15,60 +15,52 @@
 			id: "395BDC6D26585E49"
 			shape: "gear"
 			size: 1.5d
-			tasks: [
-			{
+			tasks: [{
 				id: "4AB8B41B206A6697"
 				type: "checkmark"
-			}
-			]
+			}]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["395BDC6D26585E49"]
 			id: "3BF5E46A21471C87"
-			rewards: [
-			{
+			rewards: [{
 				id: "61BFBE0471ACC056"
 				type: "xp"
 				xp: 10
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "7D9FAE4AF15C469E"
 				item: { count: 1, id: "starcatcher:hook" }
 				type: "item"
-			}
-			]
+			}]
 			x: -1.5d
 			y: 1.5d
 		}
 		{
 			dependencies: ["395BDC6D26585E49"]
 			id: "794ECF0E53701623"
-			rewards: [
-			{
+			rewards: [{
 				id: "48096D6CB6A2C43B"
 				type: "xp"
 				xp: 10
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "4A17C846FC4B5D82"
 				item: { count: 1, id: "starcatcher:bobber" }
 				type: "item"
-			}
-			]
+			}]
 			x: 1.5d
 			y: 1.5d
 		}
 		{
-			dependencies: ["3BF5E46A21471C87", "794ECF0E53701623"]
+			dependencies: [
+				"3BF5E46A21471C87"
+				"794ECF0E53701623"
+			]
 			id: "1C42D3609FDBD688"
-			rewards: [
-			{
+			rewards: [{
 				count: 4
 				id: "1F835404AF238FD0"
 				item: {
@@ -76,63 +68,51 @@
 					id: "starcatcher:worm"
 				}
 				type: "item"
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "1EAE1C74C5CF6886"
 				item: { count: 1, id: "starcatcher:starcatcher_rod" }
 				type: "item"
-			}
-			]
+			}]
 			x: 0.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["1C42D3609FDBD688"]
 			id: "569E5A11B99B6BED"
-			rewards: [
-			{
+			rewards: [{
 				id: "6C3790F066EC353E"
 				type: "xp"
 				xp: 15
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "7435E79CBF58B890"
 				item: { count: 1, id: "starcatcher:starcatcher_guide" }
 				type: "item"
-			}
-			]
+			}]
 			x: -3.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["1C42D3609FDBD688"]
 			id: "17BDD6F1CF970D62"
-			rewards: [
-			{
+			rewards: [{
 				id: "2F8C519A43C69FEA"
 				type: "xp"
 				xp: 10
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "796AD3C909169022"
 				item: { count: 1, id: "starcatcher:worm" }
 				type: "item"
-			}
-			]
+			}]
 			x: 3.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["1C42D3609FDBD688"]
 			id: "5BC5CDBABF77777F"
-			rewards: [
-			{
+			rewards: [{
 				count: 2
 				id: "33B2FC3E6203F8FA"
 				item: {
@@ -140,177 +120,142 @@
 					id: "minecraft:bread"
 				}
 				type: "item"
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "5B288CF8C3B0E03C"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(starcatcher:common_starcaught_fishes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
-			}
-			]
+			}]
 			x: 0.0d
 			y: 4.5d
 		}
 		{
 			dependencies: ["5BC5CDBABF77777F"]
 			id: "5CE0AEFF93FA6147"
-			rewards: [
-			{
+			rewards: [{
 				id: "298200E69BDF9DB1"
 				type: "xp"
 				xp: 15
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "7FFA92A7D5FFD89E"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(starcatcher:tackle_boxes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
-			}
-			]
+			}]
 			x: -3.0d
 			y: 4.5d
 		}
 		{
 			dependencies: ["5BC5CDBABF77777F"]
 			id: "7EC1C7B190D9D0A9"
-			rewards: [
-			{
+			rewards: [{
 				id: "58C421300E543D60"
 				type: "xp"
 				xp: 10
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "77D88F5642403FF3"
 				item: { count: 1, id: "starcatcher:cooked_starcaught_fish" }
 				type: "item"
-			}
-			]
+			}]
 			x: 3.0d
 			y: 4.5d
 		}
 		{
 			dependencies: ["5CE0AEFF93FA6147"]
 			id: "4544BF209BA1E403"
-			rewards: [
-			{
+			rewards: [{
 				id: "77060D075B3F0F70"
 				type: "xp"
 				xp: 15
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "4526B324A8A983CE"
 				item: { count: 1, id: "starcatcher:copper_hook" }
 				type: "item"
-			}
-			]
+			}]
 			x: -4.5d
 			y: 6.0d
 		}
 		{
 			dependencies: ["5BC5CDBABF77777F"]
 			id: "243D602F645F04E8"
-			rewards: [
-			{
+			rewards: [{
 				id: "2BBB9C610DCDCF36"
 				type: "xp"
 				xp: 20
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "766BFDB8624ABC19"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(starcatcher:uncommon_starcaught_fishes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
-			}
-			]
+			}]
 			x: -1.5d
 			y: 6.0d
 		}
 		{
 			dependencies: ["5BC5CDBABF77777F"]
 			id: "4EF608158B635F0C"
-			rewards: [
-			{
+			rewards: [{
 				id: "6630109FC3799341"
 				type: "xp"
 				xp: 10
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "56D43A8DA7374064"
 				item: { count: 1, id: "starcatcher:aquarium" }
 				type: "item"
-			}
-			]
+			}]
 			x: 1.5d
 			y: 6.0d
 		}
 		{
 			dependencies: ["5BC5CDBABF77777F"]
 			id: "4C77CC2CDD0077A8"
-			rewards: [
-			{
+			rewards: [{
 				id: "1FE83665FE9B7333"
 				type: "xp"
 				xp: 10
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "24BC66169D57CD09"
 				item: { count: 1, id: "selling_bin:selling_bin" }
 				type: "item"
-			}
-			]
+			}]
 			x: 4.5d
 			y: 6.0d
 		}
 		{
 			dependencies: ["243D602F645F04E8"]
 			id: "644FEA59C0776A4F"
-			rewards: [
-			{
+			rewards: [{
 				id: "7517F3E4C47CB537"
 				type: "xp"
 				xp: 25
-			}
-			]
-			tasks: [
-			{
+			}]
+			tasks: [{
 				id: "713E47F6C53730E3"
 				item: { count: 1, id: "starcatcher:treasure" }
 				type: "item"
-			}
-			]
+			}]
 			x: -1.5d
 			y: 7.5d
 		}
 		{
 			dependencies: ["243D602F645F04E8"]
 			id: "6450377B11B14DA0"
-			rewards: [
-			{
+			rewards: [{
 				id: "13B82A3A34594848"
 				type: "xp"
 				xp: 50
-			}
-			]
+			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [
-			{
+			tasks: [{
 				id: "37000219DF745D2D"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(starcatcher:legendary_starcaught_fishes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
-			}
-			]
+			}]
 			x: 1.5d
 			y: 7.5d
 		}

@@ -183,7 +183,10 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["231639AAE99ACA8F" "1B30AD77224D67E8"]
+			dependencies: [
+				"231639AAE99ACA8F"
+				"1B30AD77224D67E8"
+			]
 			id: "13E103337B166AF8"
 			rewards: [{
 				id: "365E648CB64EEE38"

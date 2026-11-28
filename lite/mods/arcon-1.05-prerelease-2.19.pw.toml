@@ -1,0 +1,8 @@
+name = "arcon-1.05-prerelease-2.19"
+filename = "arcon-1.05-prerelease-2.19.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/AdenWD/cogs-and-clouds/main/_files/82cc7c24ce-arcon-1.05-prerelease-2.19.jar"
+hash-format = "sha256"
+hash = "fa5a7f8c331bc000be458dd3392fe57c36d9964a2a3e4dcf97c3fa0ebb740675"

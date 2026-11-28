@@ -2,7 +2,7 @@
 [aura_view]
 	#What the aura view draws: OFF, CHUNK (the chunk you stand in), MARKED (the chunks you have marked with its key) or ALL (every chunk in range). Switched in game with its key.
 	#Allowed Values: OFF, CHUNK, MARKED, ALL
-	mode = "OFF"
+	mode = "MARKED"
 	#How strongly the columns of light over each chunk are drawn. 0 hides them.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0

@@ -1982,38 +1982,16 @@
 	quest.5CEE61BEA3EC33FB.quest_subtitle: "Say cheese."
 	chapter.7358E41E2F7F7F91.title: "&cArsenal"
 	quest.14B4B8F9DA7226DB.quest_desc: [
-		"This chapter covers the new combat mods: Timeless and Classics Zero (guns), CBC: Advanced Technologies, CBC Modern Warfare, Create Radar and CBC Aeronautics Missiles."
+		"This chapter covers the new combat mods: CBC: Advanced Technologies, CBC Modern Warfare, Create Radar and CBC Aeronautics Missiles."
 		""
 		"Explosives can wreck builds. Test weapons away from your base and other players' builds."
 	]
-	quest.14B4B8F9DA7226DB.quest_subtitle: "Guns, autocannons, radar and missiles."
+	quest.14B4B8F9DA7226DB.quest_subtitle: "Autocannons, radar and missiles."
 	quest.14B4B8F9DA7226DB.title: "&cArsenal"
-	quest.44DE09A64AA49C65.quest_desc: [
-		"The Gun Smith Table crafts guns, ammo and attachments. Open it to see what each one costs."
-	]
-	quest.44DE09A64AA49C65.quest_subtitle: "Every gun starts here."
-	quest.4A9276FBECC791E3.quest_desc: [
-		"Craft any gun at the Gun Smith Table. Hold it and press R to reload once you have the right ammo."
-	]
-	quest.4A9276FBECC791E3.quest_subtitle: "Any gun will do."
-	quest.4A9276FBECC791E3.title: "Your First Gun"
-	quest.49BE1F452243A6D4.quest_desc: [
-		"Each gun uses its own ammo type. Check the gun's tooltip."
-	]
-	quest.49BE1F452243A6D4.title: "Ammunition"
-	quest.19165EB7A891CC76.quest_desc: [
-		"Attachments change a gun's handling. Fit them in the gun's customisation screen."
-	]
-	quest.19165EB7A891CC76.quest_subtitle: "Scopes, grips and more."
-	quest.19165EB7A891CC76.title: "Attachments"
-	quest.47EBB983C9D95271.quest_desc: [
-		"The Humanoid Target shows the damage of each hit."
-	]
-	quest.47EBB983C9D95271.quest_subtitle: "Practice first."
 	quest.4E369D8AA5C5416B.quest_desc: [
 		"Defeat 10 Pillagers."
 	]
-	quest.4E369D8AA5C5416B.quest_subtitle: "Put it to use."
+	quest.4E369D8AA5C5416B.quest_subtitle: "Defend your base."
 	quest.4E369D8AA5C5416B.title: "Defender"
 	quest.3932F77A22C81793.quest_desc: [
 		"CBC: Advanced Technologies adds autocannon rounds, heavy and twin autocannons, rocket pods and suppressors to Create Big Cannons. Many parts are cast with new moulds."
@@ -2142,9 +2120,6 @@
 	]
 	quest.6D1E274685EB6237.quest_subtitle: "Reach the Moon."
 	quest.6D1E274685EB6237.title: "&bOne Small Step"
-	task.5D1FCF657A64D499.title: "Any Gun"
-	task.70E883548DBD6609.title: "Any Ammo"
-	task.6796428ED9DA3BE8.title: "Any Attachment"
 	chapter.2B0D5882B0408688.title: "&cBook of Dragons"
 	quest.60F7E17E528840A0.quest_desc: [
 		"Dragons from How to Train Your Dragon live in roosts around the Overworld. Wild dragons are wary, not evil. Earn their trust and they can become your mount."

@@ -5,6 +5,19 @@
       "name": "CaptainKrunkle",
       "uniqueId": "8fd81e85-ef99-45dd-8030-9e1d2dbf3b53"
     },
+    "time": 1795762557025,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Aden\\AppData\\Roaming\\PrismLauncher\\instances\\Cogs \u0026 Clouds - Ultra\\minecraft\\config\\spark\\profile-2026-11-26_22.55.56.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CaptainKrunkle",
+      "uniqueId": "8fd81e85-ef99-45dd-8030-9e1d2dbf3b53"
+    },
     "time": 1794390766925,
     "type": "Profiler",
     "data": {
